@@ -1,3 +1,14 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "baseFontSize": 17,
+  "textFontFamily": "LXGW WenKai GB Screen,Microsoft YaHei",
+  "monospaceFontFamily": "Hack",
+  "interfaceFontFamily": "Microsoft YaHei",
+  "translucency": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "custom-admonitions.0292d7"
+  ]
 }

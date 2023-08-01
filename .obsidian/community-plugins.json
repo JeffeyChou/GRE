@@ -1,13 +1,13 @@
 [
   "calendar",
-  "dataview",
-  "obsidian-git",
-  "templater-obsidian",
-  "various-complements",
-  "obsidian-kanban",
-  "quickadd",
   "buttons",
-  "obsidian-hover-editor",
-  "auto-note-mover",
-  "obsidian-style-settings"
+  "dataview",
+  "table-editor-obsidian",
+  "templater-obsidian",
+  "obsidian-git",
+  "obsidian-style-settings",
+  "obsidian-admonition",
+  "quickadd",
+  "obsidian-kanban",
+  "various-complements"
 ]

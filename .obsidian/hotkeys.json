@@ -1,1 +1,11 @@
-{}
+{
+  "templater-obsidian:Templates/单词模板.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ]
+}

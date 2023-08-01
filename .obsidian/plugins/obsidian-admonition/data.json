@@ -1,7 +1,7 @@
 {
   "userAdmonitions": {},
   "syntaxHighlight": false,
-  "copyButton": true,
+  "copyButton": false,
   "version": "9.3.3",
   "autoCollapse": false,
   "defaultCollapseType": "open",
@@ -19,6 +19,6 @@
   "useFontAwesome": true,
   "rpgDownloadedOnce": false,
   "msDocConverted": false,
-  "useSnippet": true,
-  "snippetPath": "custom-admonitions.0292d7"
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.95bc25"
 }
