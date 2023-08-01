@@ -1,0 +1,11 @@
+{
+  "dateFormat": "yyyy-MM-dd' 'HH:mm:ss",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "ignoreGlobalFolder": [
+    "Dashboard",
+    "Templates"
+  ],
+  "ignoreCreatedFolder": []
+}

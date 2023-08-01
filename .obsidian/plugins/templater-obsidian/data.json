@@ -15,10 +15,6 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Draft",
-      "template": "Templates/单词模板.md"
-    },
-    {
       "folder": "Daily note",
       "template": "Templates/日志模板.md"
     }
