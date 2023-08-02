@@ -1,0 +1,14 @@
+---
+created: 2023-08-02 11:36:53
+updated: 2023-08-02 11:37:01
+tags:
+  - Word
+title: 📖mimic
+aliases:
+  - null
+---
+
+<pre><strong>mimic</strong></pre>
+|   |   |   |   |
+|---|---|---|---|
+|mimic|[ˈmɪmɪk]|(1)v. to copy especially of humor 模仿(2)v. to naturally look like 和...相似|[[camouflage]], [[replicate]]|

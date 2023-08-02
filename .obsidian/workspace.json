@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d6b25f9ab68f8213",
+        "id": "135ef2af0c3c6ff4",
         "type": "tabs",
         "children": [
           {
-            "id": "e69f53eadb611831",
+            "id": "9fe101f8b12d1c9f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Vocab/marginal.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vocab/marginal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vocab/marginal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vocab/marginal.md"
+              }
             }
           },
           {
@@ -179,32 +187,32 @@
   },
   "active": "1ab0582a82369f0a",
   "lastOpenFiles": [
-    "Draft/marginal.md",
-    "Draft/martinet.md",
-    "Draft/materialize.md",
-    "Draft/maudlin.md",
-    "Draft/maverick.md",
-    "Draft/meager.md",
-    "Draft/mediate.md",
-    "Vocab/imperil.md",
-    "Vocab/impign.md",
-    "Vocab/impermanent.md",
-    "Draft/entailed by.md",
-    "Draft/enhance.md",
-    "Draft/engender.md",
-    "Vocab/manifest.md",
-    "Vocab/jarring.md",
-    "Vocab/jejune.md",
-    "Vocab/luxuriant.md",
-    "Vocab/madcap.md",
-    "Vocab/magnanimous.md",
-    "Vocab/malady.md",
-    "Vocab/malfeasance.md",
-    "Vocab/malinger.md",
-    "Vocab/malleable.md",
-    "Vocab/malodorous.md",
-    "Vocab/manacle.md",
-    "Vocab/jettison.md",
+    "Vocab/meet.md",
+    "Vocab/marginal.md",
+    "Draft/erstwhile.md",
+    "Daily note/2023-08-02.md",
+    "Vocab/unassuming.md",
+    "Vocab/welter.md",
+    "Vocab/wherewithal.md",
+    "Vocab/whimsical.md",
+    "Vocab/witless.md",
+    "Vocab/wondrous.md",
+    "Vocab/woo.md",
+    "Vocab/wistful.md",
+    "Vocab/unwieldy.md",
+    "Vocab/wield.md",
+    "Vocab/venal.md",
+    "Vocab/venerate.md",
+    "Vocab/veracity.md",
+    "Vocab/verbose.md",
+    "Vocab/versatile.md",
+    "Vocab/vigilant.md",
+    "Vocab/vitriolic.md",
+    "Vocab/vivacious.md",
+    "Vocab/volatile.md",
+    "Vocab/voluble.md",
+    "Vocab/voracious.md",
+    "Vocab/wayward.md",
     "Assets/【单词】GRE镇考机经词7.0 1.pdf",
     "Assets/【单词】GRE镇考机经词7.0.pdf"
   ]
