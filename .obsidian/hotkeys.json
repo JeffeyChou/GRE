@@ -7,5 +7,14 @@
       ],
       "key": "N"
     }
+  ],
+  "highlightr-plugin:Cyan": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
+    }
   ]
 }

@@ -13,6 +13,20 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "tag:#Semantic",
+      "color": {
+        "a": 1,
+        "rgb": 5431497
+      }
+    },
+    {
+      "query": "tag:#Affix",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": false,
@@ -25,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.11660891579457315,
-  "close": false
+  "scale": 0.11660891579457328,
+  "close": true
 }

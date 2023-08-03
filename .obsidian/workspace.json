@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "135ef2af0c3c6ff4",
+        "id": "3cf9c63a9414850a",
         "type": "tabs",
         "children": [
           {
-            "id": "9fe101f8b12d1c9f",
+            "id": "bc7c23d293b2bf66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocab/marginal.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocab/marginal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +98,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocab/marginal.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Vocab/marginal.md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,7 +131,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "50f15148693a67f9",
@@ -187,32 +179,33 @@
   },
   "active": "1ab0582a82369f0a",
   "lastOpenFiles": [
-    "Vocab/meet.md",
-    "Vocab/marginal.md",
-    "Draft/erstwhile.md",
-    "Daily note/2023-08-02.md",
-    "Vocab/unassuming.md",
-    "Vocab/welter.md",
-    "Vocab/wherewithal.md",
-    "Vocab/whimsical.md",
-    "Vocab/witless.md",
-    "Vocab/wondrous.md",
-    "Vocab/woo.md",
-    "Vocab/wistful.md",
-    "Vocab/unwieldy.md",
-    "Vocab/wield.md",
-    "Vocab/venal.md",
-    "Vocab/venerate.md",
-    "Vocab/veracity.md",
-    "Vocab/verbose.md",
-    "Vocab/versatile.md",
-    "Vocab/vigilant.md",
-    "Vocab/vitriolic.md",
-    "Vocab/vivacious.md",
-    "Vocab/volatile.md",
-    "Vocab/voluble.md",
-    "Vocab/voracious.md",
-    "Vocab/wayward.md",
+    "Vocab/enigmatic.md",
+    "Vocab/entrench.md",
+    "Vocab/ephemeral.md",
+    "Vocab/equanimity.md",
+    "Vocab/errant.md",
+    "Vocab/erstwhile.md",
+    "Vocab/espouse.md",
+    "Vocab/erratic.md",
+    "Vocab/erroneous.md",
+    "Vocab/ensue.md",
+    "Vocab/entailed by.md",
+    "Vocab/entangle.md",
+    "Vocab/enterprising.md",
+    "Vocab/entreat.md",
+    "Vocab/divorced.md",
+    "Vocab/endemic.md",
+    "Vocab/endorse.md",
+    "Vocab/endowment.md",
+    "Vocab/wane.md",
+    "Vocab/decline.md",
+    "Vocab/decrepitude.md",
+    "Vocab/devolve.md",
+    "Vocab/senescence.md",
+    "Vocab/enfeeble.md",
+    "Vocab/衰.md",
+    "Vocab/douse.md",
+    "Semantic",
     "Assets/【单词】GRE镇考机经词7.0 1.pdf",
     "Assets/【单词】GRE镇考机经词7.0.pdf"
   ]
