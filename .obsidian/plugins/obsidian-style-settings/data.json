@@ -43,7 +43,7 @@
   "anuppuccin-theme-settings@@anp-card-layout-filebrowser": true,
   "anuppuccin-theme-settings@@anp-toggle-preview": false,
   "anuppuccin-theme-settings@@anp-button-metadata-toggle": true,
-  "anuppuccin-theme-settings@@anp-color-transition-toggle": false,
+  "anuppuccin-theme-settings@@anp-color-transition-toggle": true,
   "anuppuccin-theme-settings@@anp-autohide-titlebar": false,
   "anuppuccin-theme-settings@@anp-cursor": "initial",
   "anuppuccin-theme-settings@@anp-header-color-toggle": true,
@@ -51,5 +51,16 @@
   "anuppuccin-theme-settings@@anp-h6-color-custom": "anp-h6-sapphire",
   "anuppuccin-theme-settings@@anp-h1-divider": true,
   "anuppuccin-theme-settings@@anp-h2-divider": true,
-  "anuppuccin-theme-settings@@anp-h3-divider": true
+  "anuppuccin-theme-settings@@anp-h3-divider": true,
+  "anuppuccin-theme-settings@@anp-print": true,
+  "anuppuccin-theme-settings@@anp-decoration-toggle": true,
+  "anuppuccin-theme-settings@@anp-card-radius": 10,
+  "anuppuccin-theme-settings@@anp-card-layout-padding": 3,
+  "anuppuccin-theme-settings@@anp-card-header-left-padding": 10,
+  "anuppuccin-theme-settings@@anp-callout-select": "anp-callout-vanilla-normal",
+  "anuppuccin-theme-settings@@anp-callout-color-toggle": false,
+  "anuppuccin-theme-settings@@anp-speech-bubble": false,
+  "anuppuccin-theme-settings@@anp-table-toggle": true,
+  "anuppuccin-theme-settings@@anp-table-width": false,
+  "anuppuccin-theme-settings@@anp-table-auto": true
 }

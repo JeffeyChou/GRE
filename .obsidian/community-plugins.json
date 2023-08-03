@@ -10,7 +10,10 @@
   "quickadd",
   "obsidian-kanban",
   "various-complements",
-  "update-time-on-edit",
   "obsidian-wakatime",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "obsidian-plugin-toc",
+  "obsidian-linter",
+  "obsidian-auto-link-title",
+  "obsidian-day-planner"
 ]

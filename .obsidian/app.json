@@ -6,7 +6,13 @@
   "tabSize": 5,
   "promptDelete": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "Vocab",
+  "newFileFolderPath": "Draft",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Assets"
+  "attachmentFolderPath": "Assets",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 92
+  }
 }

@@ -1,0 +1,9 @@
+{
+  "grammarly.selectors": [
+    {
+      "language": "markdown",
+      "scheme": "file",
+      "pattern": "Draft/【填空】GRE机经1500题.md"
+    }
+  ]
+}

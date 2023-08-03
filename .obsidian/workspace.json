@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3cf9c63a9414850a",
+        "id": "59d407c41e93e709",
         "type": "tabs",
         "children": [
           {
-            "id": "bc7c23d293b2bf66",
+            "id": "bf00963b1add95bd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily note/2023-08-03.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily note/2023-08-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily note/2023-08-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily note/2023-08-03.md"
+              }
             }
           },
           {
@@ -129,9 +137,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "f2b9aee55241a3fa",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "50f15148693a67f9",
@@ -148,23 +164,19 @@
             }
           },
           {
-            "id": "49de058bfadf49dc",
+            "id": "2e9cffdfd4a020d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard/Buttons.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "timeline",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,36 +189,43 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "1ab0582a82369f0a",
+  "active": "bf00963b1add95bd",
   "lastOpenFiles": [
+    "Daily note/2023-08-03.md",
+    "Day Planners/Day Planner-20230803.md",
+    "Dashboard/30天计划.md",
+    "Day Planners",
+    "Assets/【数学】《GRE数学-猴哥112难题》题目.pdf",
+    "Assets/【阅读】《GRE阅读机经350篇》题目.pdf",
+    "Assets/【阅读】《GRE阅读“冲分救命120篇”》.pdf",
+    "Assets/【数学】《GRE最新数学机经400题》（题目和答案）.pdf",
+    "Assets/【数学】回忆版数学机经360.pdf",
+    "Intro2GRE/GRE-难句概论.md",
+    "Intro2GRE/GRE-难句本.md",
+    "Intro2GRE/GRE-考试题型.md",
+    "Intro2GRE/GRE-考试结构.md",
+    "Intro2GRE/GRE-考试事项.md",
+    "Intro2GRE/GRE-数学名词.md",
+    "Intro2GRE",
+    "Assets/【单词】GRE6选2等价词汇总.pdf",
+    "Dashboard/Buttons.md",
+    "Assets/【填空】Sec16-20.md",
+    "Assets/【填空】GRE机经1500题.md",
+    "Draft/【填空】Sec21-25.md",
+    "Assets/GRE填空1500原格式.md",
+    "Templates/题目模板.md",
+    "Assets/【填空】Sec11-15.md",
+    "Assets/【填空】Sec6-10.md",
+    "Assets/【填空】Sec1-5.md",
+    "Dashboard/Task.md",
+    "Templates/单词模板.md",
     "Vocab/enigmatic.md",
     "Vocab/entrench.md",
     "Vocab/ephemeral.md",
     "Vocab/equanimity.md",
     "Vocab/errant.md",
     "Vocab/erstwhile.md",
-    "Vocab/espouse.md",
-    "Vocab/erratic.md",
-    "Vocab/erroneous.md",
-    "Vocab/ensue.md",
-    "Vocab/entailed by.md",
-    "Vocab/entangle.md",
-    "Vocab/enterprising.md",
-    "Vocab/entreat.md",
-    "Vocab/divorced.md",
-    "Vocab/endemic.md",
-    "Vocab/endorse.md",
-    "Vocab/endowment.md",
-    "Vocab/wane.md",
-    "Vocab/decline.md",
-    "Vocab/decrepitude.md",
-    "Vocab/devolve.md",
-    "Vocab/senescence.md",
-    "Vocab/enfeeble.md",
-    "Vocab/衰.md",
-    "Vocab/douse.md",
     "Semantic",
-    "Assets/【单词】GRE镇考机经词7.0 1.pdf",
-    "Assets/【单词】GRE镇考机经词7.0.pdf"
+    "Assets/【单词】GRE镇考机经词7.0 1.pdf"
   ]
 }
