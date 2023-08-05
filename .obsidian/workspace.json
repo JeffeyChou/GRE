@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "148f82c7f480812f",
+        "id": "ac99846acbd1b6c9",
         "type": "tabs",
         "children": [
           {
-            "id": "7009a3949e09936c",
+            "id": "b33de3bf8a9ba277",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Templates/日志模板.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -45,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "obscure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/日志模板.md"
+              }
             }
           },
           {
@@ -124,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/日志模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/日志模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,13 +175,11 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,41 +193,44 @@
       "canvas:新建白板": false
     }
   },
-  "active": "7009a3949e09936c",
+  "active": "b33de3bf8a9ba277",
   "lastOpenFiles": [
-    "Draft/day1 canva.canvas",
-    "Vocab/formulaic.md",
-    "Intro2GRE/GRE-数学名词.md",
-    "Vocab/mediocre.md",
-    "Vocab/heterogeneous.md",
-    "Vocab/disparate.md",
-    "Draft/exasperation.md",
-    "Draft/conviviality.md",
-    "Assets/【填空】GRE机经1500题.md",
-    "Assets/GRE填空1500原格式.md",
+    "Daily note/2023-08-05.md",
     "Assets/【填空】Sec6-10.md",
     "Draft/【填空】-错题集.md",
-    "Daily note/2023-08-04.md",
-    "Draft/【数学】-错题集.md",
-    "Dashboard/30天计划.md",
+    "Draft/opaque.md",
+    "Vocab/quixotic.md",
+    "Vocab/plague.md",
+    "Draft/sagacious.md",
+    "Draft/vapid.md",
+    "Draft/alacrity.md",
+    "Draft/stoicism.md",
+    "Draft/lethargy.md",
+    "Draft/indolence.md",
+    "Draft/impractical.md",
+    "Draft/exhilarating.md",
+    "Draft/arduous.md",
+    "Draft/apropos.md",
+    "Draft/vexatious.md",
+    "Draft/parody.md",
+    "Draft/chronicle.md",
+    "Draft/perfidious.md",
+    "Draft/patronizing.md",
+    "Vocab/capricious.md",
+    "Draft/chauvinistic.md",
+    "Draft/flighty.md",
+    "Draft/debunk.md",
+    "Draft/maladies.md",
+    "Draft/Canvas.canvas",
+    "Draft/Day2.canvas",
+    "Draft/Day1.canvas",
+    "Assets/Pasted image 20230804144027.png",
     "Assets/【数学】《GRE最新数学机经400题》（题目和答案）.pdf",
     "Assets/【阅读】《GRE阅读“冲分救命120篇”》.xopp",
     "Assets/【阅读】《GRE阅读“冲分救命120篇”》.pdf",
-    "Assets/【填空】Sec1-5.md",
     "Collections",
-    "Intro2GRE/阅读.md",
-    "Vocab/irksome.md",
-    "Vocab/exigent.md",
     "Assets/【填空】《GRE填空机经1500题》答案及解析.pdf",
     "Assets/【填空】《GRE填空机经1500题》题目最新版.pdf",
-    "Templates/入门课模板.md",
-    "Templates/单词模板.md",
-    "Semantic/批评.md",
-    "Dashboard/Task.md",
-    "Assets/Pasted image 20230804144027.png",
-    "Vocab/detrimental.md",
-    "Vocab/decry.md",
-    "Vocab/damp.md",
     "Affix",
     "Day Planners",
     "Assets/【数学】《GRE数学-猴哥112难题》题目.pdf",

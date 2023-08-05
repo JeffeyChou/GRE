@@ -11,4 +11,4 @@ aliases:
 <pre><strong>capricious</strong></pre>
 [kəˈprɪʃəs]
 adj. changing often and quickly 变化⽆常的
-[[unpredictable]], [[impulsive]], [[cavalier]], [[versatile]]
+[[unpredictable]], [[impulsive]], [[cavalier]], [[versatile]], [[flighty]]

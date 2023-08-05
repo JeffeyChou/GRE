@@ -9,11 +9,7 @@ updated: 2023-08-03 11:08:10
 created: 2023-08-01 18:11:04
 ---
 
----
----
----
-
-
+<pre><strong>hubris</strong></pre>
 [ˈhju:brɪs]
 n. a great or foolish amount of pride or confidence 傲慢⾃⼤
 [[arrogance]]

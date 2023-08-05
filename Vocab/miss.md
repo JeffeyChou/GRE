@@ -13,4 +13,3 @@ remiss
 [rɪˈmɪs]
 adj. not showing enough care and attention 懈怠的
 [[dilatory]]
-re
