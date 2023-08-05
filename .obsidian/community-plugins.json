@@ -4,7 +4,6 @@
   "dataview",
   "table-editor-obsidian",
   "templater-obsidian",
-  "obsidian-git",
   "obsidian-style-settings",
   "obsidian-admonition",
   "quickadd",
@@ -15,5 +14,7 @@
   "obsidian-plugin-toc",
   "obsidian-linter",
   "obsidian-auto-link-title",
-  "obsidian-day-planner"
+  "obsidian-day-planner",
+  "obsidian-imgur-plugin",
+  "floating-toc"
 ]

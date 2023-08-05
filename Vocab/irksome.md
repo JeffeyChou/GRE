@@ -12,3 +12,4 @@ aliases:
 |   |   |   |
 |---|---|---|
 |irksome|['ɜːksəm]|adj. annoying or irritating 讨厌的|
+[[irked]]

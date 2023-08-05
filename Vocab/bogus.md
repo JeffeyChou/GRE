@@ -12,4 +12,4 @@ aliases:
 |   |   |
 |---|---|
 |bogus ['bogəs]|adj. not real or genuine 伪造的|
-[[forge]][
+[[forge]]

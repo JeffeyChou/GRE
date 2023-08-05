@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "59d407c41e93e709",
+        "id": "148f82c7f480812f",
         "type": "tabs",
         "children": [
           {
-            "id": "bf00963b1add95bd",
+            "id": "7009a3949e09936c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily note/2023-08-03.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -70,7 +66,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cc699725df22a6bd",
@@ -80,35 +77,6 @@
         "id": "cf649a1600302cec",
         "type": "tabs",
         "children": [
-          {
-            "id": "11ac0b55117b47b5",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Daily note/2023-08-03.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "9f227398dc761a4c",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Daily note/2023-08-03.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
           {
             "id": "210bea67e54739ec",
             "type": "leaf",
@@ -125,9 +93,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily note/2023-08-03.md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,20 +105,47 @@
             }
           },
           {
-            "id": "f2b9aee55241a3fa",
+            "id": "2e9cffdfd4a020d5",
             "type": "leaf",
             "state": {
-              "type": "git-history-view",
+              "type": "timeline",
               "state": {}
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "50f15148693a67f9",
         "type": "tabs",
         "children": [
+          {
+            "id": "9f227398dc761a4c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "11ac0b55117b47b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
           {
             "id": "4042f5ce3f41e098",
             "type": "leaf",
@@ -164,19 +157,24 @@
             }
           },
           {
-            "id": "2e9cffdfd4a020d5",
+            "id": "11b1873dae3742bd",
             "type": "leaf",
             "state": {
-              "type": "timeline",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dashboard/30天计划.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,46 +184,48 @@
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "workspaces:管理工作区布局": false
+      "workspaces:管理工作区布局": false,
+      "canvas:新建白板": false
     }
   },
-  "active": "bf00963b1add95bd",
+  "active": "7009a3949e09936c",
   "lastOpenFiles": [
-    "Daily note/2023-08-03.md",
-    "Day Planners/Day Planner-20230803.md",
+    "Draft/day1 canva.canvas",
+    "Vocab/formulaic.md",
+    "Intro2GRE/GRE-数学名词.md",
+    "Vocab/mediocre.md",
+    "Vocab/heterogeneous.md",
+    "Vocab/disparate.md",
+    "Draft/exasperation.md",
+    "Draft/conviviality.md",
+    "Assets/【填空】GRE机经1500题.md",
+    "Assets/GRE填空1500原格式.md",
+    "Assets/【填空】Sec6-10.md",
+    "Draft/【填空】-错题集.md",
+    "Daily note/2023-08-04.md",
+    "Draft/【数学】-错题集.md",
     "Dashboard/30天计划.md",
+    "Assets/【数学】《GRE最新数学机经400题》（题目和答案）.pdf",
+    "Assets/【阅读】《GRE阅读“冲分救命120篇”》.xopp",
+    "Assets/【阅读】《GRE阅读“冲分救命120篇”》.pdf",
+    "Assets/【填空】Sec1-5.md",
+    "Collections",
+    "Intro2GRE/阅读.md",
+    "Vocab/irksome.md",
+    "Vocab/exigent.md",
+    "Assets/【填空】《GRE填空机经1500题》答案及解析.pdf",
+    "Assets/【填空】《GRE填空机经1500题》题目最新版.pdf",
+    "Templates/入门课模板.md",
+    "Templates/单词模板.md",
+    "Semantic/批评.md",
+    "Dashboard/Task.md",
+    "Assets/Pasted image 20230804144027.png",
+    "Vocab/detrimental.md",
+    "Vocab/decry.md",
+    "Vocab/damp.md",
+    "Affix",
     "Day Planners",
     "Assets/【数学】《GRE数学-猴哥112难题》题目.pdf",
-    "Assets/【阅读】《GRE阅读机经350篇》题目.pdf",
-    "Assets/【阅读】《GRE阅读“冲分救命120篇”》.pdf",
-    "Assets/【数学】《GRE最新数学机经400题》（题目和答案）.pdf",
-    "Assets/【数学】回忆版数学机经360.pdf",
-    "Intro2GRE/GRE-难句概论.md",
-    "Intro2GRE/GRE-难句本.md",
-    "Intro2GRE/GRE-考试题型.md",
-    "Intro2GRE/GRE-考试结构.md",
-    "Intro2GRE/GRE-考试事项.md",
-    "Intro2GRE/GRE-数学名词.md",
-    "Intro2GRE",
-    "Assets/【单词】GRE6选2等价词汇总.pdf",
-    "Dashboard/Buttons.md",
-    "Assets/【填空】Sec16-20.md",
-    "Assets/【填空】GRE机经1500题.md",
-    "Draft/【填空】Sec21-25.md",
-    "Assets/GRE填空1500原格式.md",
-    "Templates/题目模板.md",
-    "Assets/【填空】Sec11-15.md",
-    "Assets/【填空】Sec6-10.md",
-    "Assets/【填空】Sec1-5.md",
-    "Dashboard/Task.md",
-    "Templates/单词模板.md",
-    "Vocab/enigmatic.md",
-    "Vocab/entrench.md",
-    "Vocab/ephemeral.md",
-    "Vocab/equanimity.md",
-    "Vocab/errant.md",
-    "Vocab/erstwhile.md",
-    "Semantic",
-    "Assets/【单词】GRE镇考机经词7.0 1.pdf"
+    "Assets/【阅读】《GRE阅读机经350篇》题目.pdf"
   ]
 }

@@ -11,4 +11,4 @@ aliases:
 <pre><strong>admonish</strong></pre>
 |   |   |   |
 |---|---|---|
-|admonish [əd'mɑnɪʃ]|(1)v. to speak to in a way that expresses disapproval or criticism 反对，批评(2)v. to tell or urge to do something 告诫|[[scold]]|
+|admonish [əd'mɑnɪʃ]|(1)v. to speak to in a way that expresses disapproval or criticism 反对，[[批评]](2)v. to tell or urge to do something 告诫|[[scold]]|

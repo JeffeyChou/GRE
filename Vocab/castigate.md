@@ -11,4 +11,4 @@ aliases:
 <pre><strong>castigate</strong></pre>
 |   |   |   |
 |---|---|---|
-|castigate [ˈkæstɪgeɪt]|v. to criticize harshly 严厉批评|[[chastise]]|
+|castigate [ˈkæstɪgeɪt]|v. to criticize harshly 严厉[[批评]]|[[chastise]]|

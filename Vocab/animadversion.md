@@ -11,4 +11,4 @@ aliases:
 <pre><strong>animadversion</strong></pre>
 |   |   |
 |---|---|
-|animadversion [ˌænɪmæd'vɜ:ʃən]|n. a critical and usually censorious remark 批评|
+|animadversion [ˌænɪmæd'vɜ:ʃən]|n. a critical and usually censorious remark [[批评]]|

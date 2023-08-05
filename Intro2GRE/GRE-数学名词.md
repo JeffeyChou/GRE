@@ -34,6 +34,8 @@ obsidianUIMode: source
   |分母 denominator|分子 numerator|倒数 reciprocal|
 |--------------|------------|-------------|
 
+ratio $x$ to $y$: $\frac{x}{y}$
+
 #### 小数
   |数位 digit|小数点 decimal point|两位数字 two-digits|
 |--------|-----------------|---------------|
@@ -143,6 +145,6 @@ obsidianUIMode: source
 #### 概率
   |概率试验 probability experiment|分布曲线 distribution curve|密度曲线 density curve|
 |---------------------------|-----------------------|------------------|
-  |标准正态分布 standard normal distribution|||
+  |标准正态分布 standard/normal distribution|||
 
 -----
