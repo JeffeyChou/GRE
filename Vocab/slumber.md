@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>slumber</strong></pre>
-|         |     |     |
-| ------- | --- | --- |
-| slumber |/ˈslʌmbər/|to sleep|
+ slumber 
+/ˈslʌmbər/
+to sleep

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>square with</strong></pre>
-|   |   |   |
-|---|---|---|
-|square with [skwɛə wið]|phrase. 与...⼀致|[[conform to]]|
+[skwɛə wið]
+phrase. 与...⼀致
+[[conform to]]

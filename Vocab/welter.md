@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>welter</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|welter|[ˈweltə]|n. a state of wild disorder 混乱⽆序|[[hodgepodge]]|
+[ˈweltə]
+n. a state of wild disorder 混乱⽆序
+[[hodgepodge]]

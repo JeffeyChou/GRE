@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>nondescript</strong></pre>
-|   |   |   |
-|---|---|---|
-|nondescript [ˈnɒndɪskrɪpt]|adj. lacking distinctive or interesting qualities ⽆个性的|[[unexceptional]]|
+[ˈnɒndɪskrɪpt]
+adj. lacking distinctive or interesting qualities ⽆个性的
+[[unexceptional]]

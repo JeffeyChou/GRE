@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>temperate</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|temperate|['tempərət]|adj. marked by moderation 温和的，适度的|[[dispassionate]]|
+['tempərət]
+adj. marked by moderation 温和的，适度的
+[[dispassionate]]

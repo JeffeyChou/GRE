@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>surreptitious</strong></pre>
-|   |   |   |
-|---|---|---|
-|surreptitious|[ˌsʌrəpˈtɪʃəs]|adj. done in a secret way ⻤⻤祟祟的|
+[ˌsʌrəpˈtɪʃəs]
+adj. done in a secret way ⻤⻤祟祟的

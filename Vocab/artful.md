@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>artful</strong></pre>
-|   |   |   |
-|---|---|---|
-|artful ['ɑrtfl]|adj. done with or showing artistic skill 巧妙的|[[shrewd]]|
+['ɑrtfl]
+adj. done with or showing artistic skill 巧妙的
+[[shrewd]]

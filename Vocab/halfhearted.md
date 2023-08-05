@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>halfhearted</strong></pre>
-|   |   |   |
-|---|---|---|
-|['hɑ:f'hɑ:tɪd]|adj. feeling or showing a lack of interest or enthusiasm 不热情的|[[tepid]], [[lukewarm]]|
+
+['hɑ:f'hɑ:tɪd]
+adj. feeling or showing a lack of interest or enthusiasm 不热情的
+[[tepid]], [[lukewarm]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>covert</strong></pre>
-|   |   |   |
-|---|---|---|
-|covert [ˈkʌvət]|adj. made, shown, or done in a way that is not easily seen or notices 秘密的|[[clandestine]]|
+[ˈkʌvət]
+adj. made, shown, or done in a way that is not easily seen or notices 秘密的
+[[clandestine]]

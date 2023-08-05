@@ -8,7 +8,5 @@ aliases:
 ---
 
 <pre><strong>infallibility</strong></pre>
-|   |
-|---|
-|.|
-|infallibility|[in,fælə'biləti]|n. incapable of error ⽆过失|
+[in,fælə'biləti]
+n. incapable of error ⽆过失

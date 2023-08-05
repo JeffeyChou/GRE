@@ -9,7 +9,8 @@ aliases:
 ---
 
 <pre><strong>abstemious</strong></pre>
-|   |   |   |
-|---|---|---|
-|abstemious [əbˈsti:miəs]|adj. not eating and drinking too much 有节制的|[[austere]], [[moderate]]|
+[əbˈsti:miəs]
+adj. not eating and drinking too much 有节制的
+[[austere]], [[moderate]]
+
 [[abstinence]]

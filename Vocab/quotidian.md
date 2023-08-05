@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>quotidian</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|quotidian|[kwɒˈtɪdiən]|(1)adj. ordinary or very common 普通的，常⻅的(2)adj. done each day ⽇常的|[[workday]]|
+[kwɒˈtɪdiən]
+(1)adj. ordinary or very common 普通的，常⻅的(2)adj. done each day ⽇常的
+[[workday]]

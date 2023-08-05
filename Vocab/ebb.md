@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>ebb</strong></pre>
-|   |   |   |
-|---|---|---|
-|ebb [eb]|v. to get worse [[衰]]|[[wane]], [[decline]]|
+[eb]
+v. to get worse [[衰]]
+[[wane]], [[decline]]

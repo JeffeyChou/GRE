@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>restive</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|restive|[ˈrestɪv]|adj. feeling bored or impatient while waiting for something to happen or change 躁动不安的|fractious|
+[ˈrestɪv]
+adj. feeling bored or impatient while waiting for something to happen or change 躁动不安的
+fractious

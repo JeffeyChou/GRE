@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>obsolete</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|obsolete|[ɑbsəˌlit]|adj. no longer used by anyone 废弃的，⽼式的|[[outmoded]], [[fusty]]|
+[ɑbsəˌlit]
+adj. no longer used by anyone 废弃的，⽼式的
+[[outmoded]], [[fusty]]

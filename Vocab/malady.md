@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>malady</strong></pre>
-|   |   |   |
-|---|---|---|
-|malady|[ˈmælədi]|n. a disease or illness 疾病|
+[ˈmælədi]
+n. a disease or illness 疾病

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>prodigious</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|prodigious|[prə'dɪdʒəs]|adj. extraordinary in bulk, quantity, or degree 巨⼤的|[[voracious]], [[preternatural]]|
+[prə'dɪdʒəs]
+adj. extraordinary in bulk, quantity, or degree 巨⼤的
+[[voracious]], [[preternatural]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>staid</strong></pre>
-|   |   |   |
-|---|---|---|
-|staid [sted]|adj. serious, boring, or old-fashioned 古板的，严肃的|[[sober]]|
+[sted]
+adj. serious, boring, or old-fashioned 古板的，严肃的
+[[sober]]

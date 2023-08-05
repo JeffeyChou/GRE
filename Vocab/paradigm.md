@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>paradigm</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|paradigm|[ˈpærədaɪm]|n. a model or pattern for something that may be copied 模板，典范|[[model]]|
+[ˈpærədaɪm]
+n. a model or pattern for something that may be copied 模板，典范
+[[model]]

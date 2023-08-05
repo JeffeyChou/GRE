@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>untenable</strong></pre>
-|   |   |   |
-|---|---|---|
-|untenable [ʌnˈtenəbl]|adj. not capable of being defended against attack or criticism 站不住脚的|[[baseless]]|
+[ʌnˈtenəbl]
+adj. not capable of being defended against attack or criticism 站不住脚的
+[[baseless]]

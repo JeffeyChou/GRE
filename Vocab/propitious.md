@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>propitious</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|propitious|[prəˈpɪʃəs]|adj. likely to have or produce good results 吉利的|[[auspicious]]|
+[prəˈpɪʃəs]
+adj. likely to have or produce good results 吉利的
+[[auspicious]]

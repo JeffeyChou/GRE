@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>plodding</strong></pre>
-|   |   |   |
-|---|---|---|
-|plodding|[ˈplɒdɪŋ]|adj. unexciting 单调乏味的|
+[ˈplɒdɪŋ]
+adj. unexciting 单调乏味的

@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>deplete</strong></pre>
-|   |   |   |
-|---|---|---|
-|deplete|[dɪˈpli:t]|v. to empty of a principal substance 耗尽|
+[dɪˈpli:t]
+v. to empty of a principal substance 耗尽

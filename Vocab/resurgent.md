@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>resurgent</strong></pre>
-|   |   |   |
-|---|---|---|
-|resurgent|[rɪ'sɜːdʒənt]|adj. experiencing or tending to bring about renewal or revival [[复兴的]]|
+[rɪ'sɜːdʒənt]
+adj. experiencing or tending to bring about renewal or revival [[复兴的]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>adulation</strong></pre>
-|   |   |   |
-|---|---|---|
-|adulation [ˌædjuˈleɪʃn]|n. excessive or slavish admiration or flattery 谄媚|[[approbation]], [[sycophant]]|
+[ˌædjuˈleɪʃn]
+n. excessive or slavish admiration or flattery 谄媚
+[[approbation]], [[sycophant]]

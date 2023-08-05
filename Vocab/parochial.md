@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>parochial</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|parochial|[pəˈrəʊkiəl]|adj. limited to only the things that affect your local area 狭隘的|[[provincial]]|
+[pəˈrəʊkiəl]
+adj. limited to only the things that affect your local area 狭隘的
+[[provincial]]

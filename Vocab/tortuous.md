@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>tortuous</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|tortuous|[ˈtɔ:tʃuəs]|(1)adj. having many twists and turns 弯曲的(2)adj. complicated, long, and confusing 冗⻓复杂的|[[convoluted]]|
+[ˈtɔ:tʃuəs]
+(1)adj. having many twists and turns 弯曲的(2)adj. complicated, long, and confusing 冗⻓复杂的
+[[convoluted]]

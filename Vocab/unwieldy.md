@@ -9,6 +9,7 @@ aliases:
 ---
 
 <pre><strong>unwieldy</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|un[[wield]]y|[ʌnˈwi:ldi]|adj. difficult to handle, control, or deal with because of being large, heavy, or complex 笨重的，难操作的|[[cumbersome]]|
+un[[wield]]y
+[ʌnˈwi:ldi]
+adj. difficult to handle, control, or deal with because of being large, heavy, or complex 笨重的，难操作的
+[[cumbersome]]

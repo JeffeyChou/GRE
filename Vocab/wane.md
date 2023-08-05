@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>wane</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|wane|[weɪn]|(1)v. to become smaller or less [[衰]]落，减少(2)n. a time of phase of gradual decrease [[衰]]落期|[[ebb]], [[decline]]|
+[weɪn]
+(1)v. to become smaller or less [[衰]]落，减少(2)n. a time of phase of gradual decrease [[衰]]落期
+[[ebb]], [[decline]]

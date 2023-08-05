@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>complicated</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|complicated|[ˈkɒmplɪkeɪtɪd]|adj. hard to understand, explain, or deal with 复杂难懂的|[[knotty]]|
+[ˈkɒmplɪkeɪtɪd]
+adj. hard to understand, explain, or deal with 复杂难懂的
+[[knotty]]

@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>bridle</strong></pre>
-|   |   |   |
-|---|---|---|
-|bridle|['braɪdl]|v. to restrain, check, or control with or as if with a bridle [[抑制]]|
+['braɪdl]
+v. to restrain, check, or control with or as if with a bridle [[抑制]]

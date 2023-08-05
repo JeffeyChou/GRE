@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>predate</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|predate|['pri:'deɪt]|v. to exist or happen at an earlier time than 早于|[[antedate]], [[precede]]|
+['pri:'deɪt]
+v. to exist or happen at an earlier time than 早于
+[[antedate]], [[precede]]

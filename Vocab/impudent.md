@@ -8,6 +8,6 @@ aliases:
 ---
 
 <pre><strong>impudent</strong></pre>
-|   |   |
-|---|---|
-|['ɪmpjʊdənt]|adj. failing to show proper respect and courtesy 放肆⽆礼的|
+
+['ɪmpjʊdənt]
+adj. failing to show proper respect and courtesy 放肆⽆礼的

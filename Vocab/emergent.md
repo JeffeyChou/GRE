@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>emergent</strong></pre>
-|   |   |   |
-|---|---|---|
-|emergent|[iˈmɜ:dʒənt]|(1)adj. arising unexpectedly 意外的(2)adj. newly formed or prominent 新兴的|
+[iˈmɜ:dʒənt]
+(1)adj. arising unexpectedly 意外的(2)adj. newly formed or prominent 新兴的

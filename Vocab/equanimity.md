@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>equanimity</strong></pre>
-|   |   |   |
-|---|---|---|
-|equanimity|[,ekwə'nɪmɪtɪ]|n. calm emotions when dealing with problems or pressure 镇定|
+[,ekwə'nɪmɪtɪ]
+n. calm emotions when dealing with problems or pressure 镇定

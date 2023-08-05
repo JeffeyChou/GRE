@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>diminutive</strong></pre>
-|   |   |   |
-|---|---|---|
-|diminutive [dɪˈmɪnjətɪv]|adj. very small 极⼩的|[[minuscule]]|
+[dɪˈmɪnjətɪv]
+adj. very small 极⼩的
+[[minuscule]]

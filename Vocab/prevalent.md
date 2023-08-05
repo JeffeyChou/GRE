@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>prevalent</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|prevalent|[ˈprevələnt]|adj. accepted, done, or happening often or over a large area at a particular time 流⾏的，普遍的|[[widespread]], [[extensive]]|
+[ˈprevələnt]
+adj. accepted, done, or happening often or over a large area at a particular time 流⾏的，普遍的
+[[widespread]], [[extensive]]

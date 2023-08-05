@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>homogeneity</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ˌhɒmədʒəˈni:əti]|n. the state of having identical cumulative distribution function or values同质|[[resemblance]], [[uniform]]|
+
+[ˌhɒmədʒəˈni:əti]
+n. the state of having identical cumulative distribution function or values同质
+[[resemblance]], [[uniform]]

@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>discredit</strong></pre>
-|   |   |
-|---|---|
-|discredit [dɪs'kredɪt]|v. to damage the reputation of 使丧失信誉|
+[dɪs'kredɪt]
+v. to damage the reputation of 使丧失信誉

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>egregious</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|egregious|[ɪˈgri:dʒiəs]|adj. very bad and easily noticed 臭名昭著的|[[flagrant]]|
+[ɪˈgri:dʒiəs]
+adj. very bad and easily noticed 臭名昭著的
+[[flagrant]]

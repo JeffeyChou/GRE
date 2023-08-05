@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>invention</strong></pre>
-|   |   |   |
-|---|---|---|
-|invention|[ɪn'venʃən]|n. product of the imagination 虚构|
+[ɪn'venʃən]
+n. product of the imagination 虚构

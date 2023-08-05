@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>mercurial</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|mercurial|[mɜ:ˈkjʊəriəl]|adj. changing often 变化⽆常的|[[volatile]], [[inconstant]]|
+[mɜ:ˈkjʊəriəl]
+adj. changing often 变化⽆常的
+[[volatile]], [[inconstant]]

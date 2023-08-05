@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>adversarial</strong></pre>
-|   |   |   |
-|---|---|---|
-|adversarial [ˌædvəˈseəriəl]|adj. involving two people or two sides who oppose each other 对⽴的|[[antagonistic]]|
+[ˌædvəˈseəriəl]
+adj. involving two people or two sides who oppose each other 对⽴的
+[[antagonistic]]

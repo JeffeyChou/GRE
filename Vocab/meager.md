@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>meager</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|meager|['mi:gə]|(1)adj. not having enough of something for comfort or happiness 缺乏的(2)adj. having little thin 瘦削的|[[insufficient]], [[paltry]]|
+['mi:gə]
+(1)adj. not having enough of something for comfort or happiness 缺乏的(2)adj. having little thin 瘦削的
+[[insufficient]], [[paltry]]

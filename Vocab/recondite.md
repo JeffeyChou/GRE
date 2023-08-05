@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>recondite</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|recondite|[ˈrekəndaɪt]|adj. not understood or known by many people 晦涩难懂的|[[esoteric]], [[arcane]], [[abstruse]]|
+[ˈrekəndaɪt]
+adj. not understood or known by many people 晦涩难懂的
+[[esoteric]], [[arcane]], [[abstruse]]

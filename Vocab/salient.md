@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>salient</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|salient|[ˈseɪliənt]|adj. very important or noticeable 显著的，重要的|[[visible]], [[prominent]], [[obtrusive]], [[conspicuous]]|
+[ˈseɪliənt]
+adj. very important or noticeable 显著的，重要的
+[[visible]], [[prominent]], [[obtrusive]], [[conspicuous]]

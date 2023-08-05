@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>discordance</strong></pre>
-|   |   |   |
-|---|---|---|
-|discordance [dɪs'kɔ:dəns]|n. the state or an instance of disagreement 不⼀致|[[contention]]|
+[dɪs'kɔ:dəns]
+n. the state or an instance of disagreement 不⼀致
+[[contention]]

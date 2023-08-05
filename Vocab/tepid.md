@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>tepid</strong></pre>
-|   |   |
-|---|---|
-|tepid [ˈtepɪd]|adj. not energetic or excited 不够热情的|
+[ˈtepɪd]
+adj. not energetic or excited 不够热情的

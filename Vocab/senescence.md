@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>senescence</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|senescence|[sɪˈnesns]|n. the state of being old or the process of becoming old [[衰]]⽼|[[decrepitude]]|
+[sɪˈnesns]
+n. the state of being old or the process of becoming old [[衰]]⽼
+[[decrepitude]]

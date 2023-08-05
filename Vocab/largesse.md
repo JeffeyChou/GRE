@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>largesse</strong></pre>
-|   |   |   |
-|---|---|---|
-|largesse|[lɑː'dʒes]|n. the act of giving away money or the quality of a person who givesaway money 捐赠|
+[lɑː'dʒes]
+n. the act of giving away money or the quality of a person who givesaway money 捐赠

@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>elate</strong></pre>
-|   |   |   |
-|---|---|---|
-|elate|[ɪ'leɪt]|v. to make very happy and excited 使...⾼兴|
+[ɪ'leɪt]
+v. to make very happy and excited 使...⾼兴

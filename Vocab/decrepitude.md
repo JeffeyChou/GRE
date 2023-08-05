@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>decrepitude</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|decrepitude|[dɪˈkrepɪtju:d]|n. the state of being old and in bad condition or poor health [[衰]]⽼，⽼朽|[[senescence]]|
+[dɪˈkrepɪtju:d]
+n. the state of being old and in bad condition or poor health [[衰]]⽼，⽼朽
+[[senescence]]

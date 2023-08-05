@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>excoriate</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ˌeksˈkɔ:rieɪt]|v. to criticize very harshly 严厉指责|[[indict]], [[crab]]|
+
+[ˌeksˈkɔ:rieɪt]
+v. to criticize very harshly 严厉指责
+[[indict]], [[crab]]

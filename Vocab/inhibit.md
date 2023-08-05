@@ -8,6 +8,8 @@ aliases:
 ---
 
 <pre><strong>inhibit</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|inhibit|[ɪn'hɪbɪt]|v. to keep from doing what he or she wants to do 抑制，禁⽌|[[hinder]], [[bridle]], [[suppress]]|
+
+inhibit
+[ɪn'hɪbɪt]
+v. to keep from doing what he or she wants to do 抑制，禁⽌
+[[hinder]], [[bridle]], [[suppress]]

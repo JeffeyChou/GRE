@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>opinionated</strong></pre>
-|   |   |
-|---|---|
-|opinionated [əˈpɪnjəneɪtɪd]|adj. unduly adhering to one’s own opinion or to preconceived notions 固执⼰⻅的|
+[əˈpɪnjəneɪtɪd]
+adj. unduly adhering to one’s own opinion or to preconceived notions 固执⼰⻅的

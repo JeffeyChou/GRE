@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>credulous</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|credulous|[ˈkredjələs]|adj. too ready to believe things 轻信的|[[trusting]]|
+[ˈkredjələs]
+adj. too ready to believe things 轻信的
+[[trusting]]

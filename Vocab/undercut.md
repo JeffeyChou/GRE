@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>undercut</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|undercut|[ʌndə'kʌt]|v. to make weaker or less effective 削弱|[[subvert]], [[impair]], [[undermine]]|
+[ʌndə'kʌt]
+v. to make weaker or less effective 削弱
+[[subvert]], [[impair]], [[undermine]]

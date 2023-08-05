@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>urbane</strong></pre>
-|   |   |   |
-|---|---|---|
-|urbane|[ɜ:ˈbeɪn]|adj. notably polite or polished in manner 儒雅的|
+[ɜ:ˈbeɪn]
+adj. notably polite or polished in manner 儒雅的

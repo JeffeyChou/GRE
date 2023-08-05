@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>stanch</strong></pre>
-|   |   |   |
-|---|---|---|
-|stanch|[stɔntʃ]|v. to stop something (especially blood) from flowing ⽌⾎，平息|
+[stɔntʃ]
+v. to stop something (especially blood) from flowing ⽌⾎，平息

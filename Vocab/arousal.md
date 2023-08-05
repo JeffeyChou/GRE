@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>arousal</strong></pre>
-|   |   |   |
-|---|---|---|
-|arousal|[ə'raʊzl]|n. a state in which you feel excited or very alert 兴奋|
+[ə'raʊzl]
+n. a state in which you feel excited or very alert 兴奋

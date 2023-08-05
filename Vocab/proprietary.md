@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>proprietary</strong></pre>
-|   |   |   |
-|---|---|---|
-|proprietary|[prəˈpraɪətri]|(1)adj. used, made, or sold only by the particular person or companythat has the legal right to do so 专利的(2)adj. kept private by an owner 私⼈独有的|
+[prəˈpraɪətri]
+(1)adj. used, made, or sold only by the particular person or companythat has the legal right to do so 专利的(2)adj. kept private by an owner 私⼈独有的

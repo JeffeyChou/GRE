@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>mediocre</strong></pre>
-|     |     |     |
-| --- | --- | --- |
-|mediocre|[ˌmidɪ'okɚ]|adj. of moderate or low quality, value, ability, or performance 普通的，平凡的|
+[ˌmidɪ'okɚ]
+adj. of moderate or low quality, value, ability, or performance 普通的，平凡的
+

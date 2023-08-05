@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>martinet</strong></pre>
-|   |   |   |
-|---|---|---|
-|martinet|[,mɑːtɪ'net]|n. a person who is very strict and demands obedience from others 严格执⾏纪律的⼈|
+[,mɑːtɪ'net]
+n. a person who is very strict and demands obedience from others 严格执⾏纪律的⼈

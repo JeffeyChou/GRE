@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>renaissance</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|renaissance|['rɛnəsɑns]|n. a period of new growth or activity 复兴|[[revival]]|
+['rɛnəsɑns]
+n. a period of new growth or activity 复兴
+[[revival]]

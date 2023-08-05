@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>ominous</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|ominous|[ˈɒmɪnəs]|adj. suggesting that something bad is going to happen in the future 不祥的|[[inauspicious]]|
+[ˈɒmɪnəs]
+adj. suggesting that something bad is going to happen in the future 不祥的
+[[inauspicious]]

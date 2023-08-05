@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>artificial</strong></pre>
-|   |   |   |
-|---|---|---|
-|artificial [ˌɑ:tɪˈfɪʃl]|(1)adj. not sincere 虚假的(2)adj. humanly contrived often on a natural model ⼈造的|[[spurious]]|
+[ˌɑ:tɪˈfɪʃl]
+(1)adj. not sincere 虚假的(2)adj. humanly contrived often on a natural model ⼈造的
+[[spurious]]

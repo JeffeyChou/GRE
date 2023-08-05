@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>taint</strong></pre>
-|   |   |   |
-|---|---|---|
-|taint|[teɪnt]|(1)v. to contaminate morally 玷污(2)v. to affect with putrefaction 污染(3)n. something that causes a person or thing to be thought of as bad, dishonest, etc. 瑕疵|
+[teɪnt]
+(1)v. to contaminate morally 玷污(2)v. to affect with putrefaction 污染(3)n. something that causes a person or thing to be thought of as bad, dishonest, etc. 瑕疵

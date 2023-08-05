@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>chic</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|chic|[ʃi:k]|adj. following the current fashion or style 时髦的|[[elegant]]|
+[ʃi:k]
+adj. following the current fashion or style 时髦的
+[[elegant]]

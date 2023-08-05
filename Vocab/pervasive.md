@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>pervasive</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|pervasive|[pəˈveɪsɪv]|adj. existing in every part of something 普遍的，弥漫的|[[rife]]|
+[pəˈveɪsɪv]
+adj. existing in every part of something 普遍的，弥漫的
+[[rife]]

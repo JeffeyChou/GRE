@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>acclaim</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|acclaim|[əˈkleɪm]|v. to praise in a very strong and enthusiastic way 称赞|[[hail]]|
+[əˈkleɪm]
+v. to praise in a very strong and enthusiastic way 称赞
+[[hail]]

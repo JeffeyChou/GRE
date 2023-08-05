@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>factious</strong></pre>
-|   |   |   |
-|---|---|---|
-|['fækʃəs]|adj. of or relating to faction 宗派的，派系的|[[schism]]|
+
+['fækʃəs]
+adj. of or relating to faction 宗派的，派系的
+[[schism]]

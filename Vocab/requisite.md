@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>requisite</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|requisite|[ˈrekwɪzɪt]|adj. needed for a particular purpose 必需的|[[essential]]|
+[ˈrekwɪzɪt]
+adj. needed for a particular purpose 必需的
+[[essential]]

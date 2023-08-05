@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>erroneous</strong></pre>
-|   |   |   |
-|---|---|---|
-|erroneous [ɪ'ronɪəs]|adj. not correct 错误的|[[inaccurate]]|
+[ɪ'ronɪəs]
+adj. not correct 错误的
+[[inaccurate]]

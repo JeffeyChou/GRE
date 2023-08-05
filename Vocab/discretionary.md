@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>discretionary</strong></pre>
-|   |   |
-|---|---|
-|discretionary [dɪˈskreʃənəri]|adj. done or used when necessary ⾃由决定的|
+[dɪˈskreʃənəri]
+adj. done or used when necessary ⾃由决定的

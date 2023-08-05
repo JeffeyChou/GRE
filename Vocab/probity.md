@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>probity</strong></pre>
-|   |   |   |
-|---|---|---|
-|probity|[ˈprəʊbəti]|n. the quality of a person who is completely honest 诚实，正直|
+[ˈprəʊbəti]
+n. the quality of a person who is completely honest 诚实，正直

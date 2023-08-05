@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>plethora</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|plethora|[ˈpleθərə]|n. excess, superfluity 过量|[[surfeit]], [[glut]]|
+[ˈpleθərə]
+n. excess, superfluity 过量
+[[surfeit]], [[glut]]

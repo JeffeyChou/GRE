@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>deleterious</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|deleterious|['dɛlə'tɪrɪəs]|adj. damaging or harmful [[有害的]]，有毒的|[[counterproductive]], [[detrimental]], [[devastating]]|
+['dɛlə'tɪrɪəs]
+adj. damaging or harmful [[有害的]]，有毒的
+[[counterproductive]], [[detrimental]], [[devastating]]

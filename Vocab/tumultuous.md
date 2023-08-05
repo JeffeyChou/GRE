@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>tumultuous</strong></pre>
-|   |   |   |
-|---|---|---|
-|tumultuous|[tu'mʌltʃuəs]|adj. involving a lot of violence, confusion, or disorder 骚乱的|
+[tu'mʌltʃuəs]
+adj. involving a lot of violence, confusion, or disorder 骚乱的

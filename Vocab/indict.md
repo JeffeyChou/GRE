@@ -8,6 +8,8 @@ aliases:
 ---
 
 <pre><strong>indict</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ɪnˈdaɪt]|v. to charge with a fault or offense 控告|[[excoriate]]|
+
+[ɪnˈdaɪt]
+v. to charge with a fault or offense 控告
+[[excoriate]]
+

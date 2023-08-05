@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>curtail</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|curtail|[kɜː'teɪl]|v. to reduce or limit 缩减|[[mitigate]]|
+[kɜː'teɪl]
+v. to reduce or limit 缩减
+[[mitigate]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>ubiquitous</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|ubiquitous|[ju:ˈbɪkwɪtəs]|adj. seeming to be seen everywhere ⽆处不在的|[[omnipresent]], [[universal]]|
+[ju:ˈbɪkwɪtəs]
+adj. seeming to be seen everywhere ⽆处不在的
+[[omnipresent]], [[universal]]

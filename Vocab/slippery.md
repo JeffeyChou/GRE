@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>slippery</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|slippery|[ˈslɪpəri]|(1)adj. not precise or fixed in meaning: ambiguous, elusive 难以抓住的，棘⼿的(2)adj. not to be trusted 不可靠的|[[elusive]]|
+[ˈslɪpəri]
+(1)adj. not precise or fixed in meaning: ambiguous, elusive 难以抓住的，棘⼿的(2)adj. not to be trusted 不可靠的
+[[elusive]]

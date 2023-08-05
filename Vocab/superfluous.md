@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>superfluous</strong></pre>
-|   |   |   |
-|---|---|---|
-|superfluous|[su:ˈpɜ:fluəs]|adj. beyond what is needed 多余的|
+[su:ˈpɜ:fluəs]
+adj. beyond what is needed 多余的

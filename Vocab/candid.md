@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>candid</strong></pre>
-|   |   |
-|---|---|
-|candid['kændɪd]|adj. expressing opinions and feelings in an honest and sincere way 真诚的|
+['kændɪd]
+adj. expressing opinions and feelings in an honest and sincere way 真诚的

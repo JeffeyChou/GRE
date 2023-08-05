@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>spurn</strong></pre>
-|   |   |   |
-|---|---|---|
-|spurn [spə:n]|v. to refuse to accept 拒绝|[[flout]]|
+[spə:n]
+v. to refuse to accept 拒绝
+[[flout]]

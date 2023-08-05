@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>demarcation</strong></pre>
-|   |   |   |
-|---|---|---|
-|demarcation|[ˌdi:mɑ:ˈkeɪʃn]|n. the establishment of boundaries or limits separating two areas, groups, or things 界限|
+[ˌdi:mɑ:ˈkeɪʃn]
+n. the establishment of boundaries or limits separating two areas, groups, or things 界限

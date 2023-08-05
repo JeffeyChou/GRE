@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>commonplace</strong></pre>
-|   |   |   |
-|---|---|---|
-|commonplace [ˈkɒmənpleɪs]|(1)n. something that happens or appears in many places and is not unusual 常⻅<mark style="background: #ABF7F7A6;">(2)n. an obvious or trite comment 陈词滥调</mark>|[[pervasive]]|
+[ˈkɒmənpleɪs]
+(1)n. something that happens or appears in many places and is not unusual 常⻅<mark style="background: #ABF7F7A6;">(2)n. an obvious or trite comment 陈词滥调</mark>
+[[pervasive]]

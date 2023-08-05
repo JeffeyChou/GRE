@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>obscure</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|obscure|[əbˈskjʊə]|(1)adj. not well-known 不出名的(2)adj. difficult to understand 费解的(3)v. to make difficult to understand or know 使...费解(4)v. to hide or cover 遮盖|[[anonymous]], [[opaque]], [[obfuscate]]|
+[əbˈskjʊə]
+(1)adj. not well-known 不出名的(2)adj. difficult to understand 费解的(3)v. to make difficult to understand or know 使...费解(4)v. to hide or cover 遮盖
+[[anonymous]], [[opaque]], [[obfuscate]]

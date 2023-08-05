@@ -8,6 +8,6 @@ aliases:
 ---
 
 <pre><strong>issusory</strong></pre>
-|   |   |
-|---|---|
-|[ɪˈlu:səri]|adj. base one something that is not true or real 虚假的|
+
+[ɪˈlu:səri]
+adj. base one something that is not true or real 虚假的

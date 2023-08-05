@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>totemic</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|totemic|[təʊ'temɪk]|adj. of, relating to, suggestive of, or characteristic of a totem or totemism 象征的|[[emblematic]]|
+[təʊ'temɪk]
+adj. of, relating to, suggestive of, or characteristic of a totem or totemism 象征的
+[[emblematic]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>detect</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|detect|[dɪˈtekt]|v. to discover or notice the presence of 发现|[[discern]]|
+[dɪˈtekt]
+v. to discover or notice the presence of 发现
+[[discern]]

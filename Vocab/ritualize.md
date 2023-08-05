@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>ritualize</strong></pre>
-|   |   |   |
-|---|---|---|
-|ritualize|[ˈrɪtʃuəlaɪz]|v. to make a ritual of 使...程式化|
+[ˈrɪtʃuəlaɪz]
+v. to make a ritual of 使...程式化

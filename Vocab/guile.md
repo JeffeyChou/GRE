@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>guile</strong></pre>
-|   |   |   |
-|---|---|---|
-|[gaɪl]|n. deceitful cunning 奸诈|[[deviousness]]|
+
+[gaɪl]
+n. deceitful cunning 奸诈
+[[deviousness]]

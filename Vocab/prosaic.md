@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>prosaic</strong></pre>
-|   |   |   |
-|---|---|---|
-|prosaic|[prə'zeɪk]|adj. dull or ordinary 乏味的|
+[prə'zeɪk]
+adj. dull or ordinary 乏味的

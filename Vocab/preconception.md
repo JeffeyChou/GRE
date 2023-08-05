@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>preconception</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|preconception|[ˌpri:kənˈsepʃn]|n. an idea or opinion that someone has before learning about orexperiencing something directly 先⼊之⻅|[[prejudice]]|
+[ˌpri:kənˈsepʃn]
+n. an idea or opinion that someone has before learning about orexperiencing something directly 先⼊之⻅
+[[prejudice]]

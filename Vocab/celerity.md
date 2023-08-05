@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>celerity</strong></pre>
-|   |   |   |
-|---|---|---|
-|celerity [sɪ'lerɪtɪ]|n. rapidity of motion or action 速度，迅速|[[dispatch]]|
+[sɪ'lerɪtɪ]
+n. rapidity of motion or action 速度，迅速
+[[dispatch]]

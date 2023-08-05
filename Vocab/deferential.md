@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>deferential</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|deferential|[ˌdefə'renʃl]|adj. showing or expressing deference 恭敬的|[[respectful]]|
+[ˌdefə'renʃl]
+adj. showing or expressing deference 恭敬的
+[[respectful]]

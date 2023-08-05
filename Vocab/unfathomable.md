@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>unfathomable</strong></pre>
-|   |   |   |
-|---|---|---|
-|unfathomable|[ʌn'fæðəməbl]|adj. impossible to understand 不可理解的|
+[ʌn'fæðəməbl]
+adj. impossible to understand 不可理解的

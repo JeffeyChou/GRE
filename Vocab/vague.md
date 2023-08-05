@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>vague</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|vague|[veɪg]|adj. not clear in meaning 模糊的，不确定的|[[nebulous]]|
+[veɪg]
+adj. not clear in meaning 模糊的，不确定的
+[[nebulous]]

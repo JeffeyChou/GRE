@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>incomprehensible</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ɪn,kɑmprɪ'hɛnsəbl]|adj. impossible to understand 费解的|[[inexplicable]]|
+
+[ɪn,kɑmprɪ'hɛnsəbl]
+adj. impossible to understand 费解的
+[[inexplicable]]

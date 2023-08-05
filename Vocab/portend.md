@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>portend</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|portend|[pɔ:ˈtend]|v. to give an omen or anticipatory sign of 预⾔|[[predict]], [[presage]]|
+[pɔ:ˈtend]
+v. to give an omen or anticipatory sign of 预⾔
+[[predict]], [[presage]]

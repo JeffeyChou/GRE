@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>precede</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|precede|[prɪ'sid]|v. to happen, go, or come before ⽐...先发⽣|[[predate]], [[antedate]]|
+[prɪ'sid]
+v. to happen, go, or come before ⽐...先发⽣
+[[predate]], [[antedate]]

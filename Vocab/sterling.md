@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>sterling</strong></pre>
-|   |   |
-|---|---|
-|sterling [ˈstɜ:lɪŋ]|adj. very good 优秀的|
+[ˈstɜ:lɪŋ]
+adj. very good 优秀的

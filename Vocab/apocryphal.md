@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>apocryphal</strong></pre>
-|   |   |   |
-|---|---|---|
-|apocryphal|[əˈpɒkrɪfl]|adj. of doubtful authenticity 虚假的|
+[əˈpɒkrɪfl]
+adj. of doubtful authenticity 虚假的

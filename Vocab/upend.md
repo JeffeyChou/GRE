@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>upend</strong></pre>
-|   |   |   |
-|---|---|---|
-|upend|[ʌpˈend]|v. to cause to be upside down 颠倒|
+[ʌpˈend]
+v. to cause to be upside down 颠倒

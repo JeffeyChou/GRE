@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>ameliorate</strong></pre>
-|   |   |
-|---|---|
-|ameliorate [ə'milɪə'ret]|v. to make better or more tolerable 改善|
+[ə'milɪə'ret]
+v. to make better or more tolerable 改善

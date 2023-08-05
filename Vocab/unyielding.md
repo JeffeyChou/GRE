@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>unyielding</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|unyielding|[ʌnˈji:ldɪŋ]|adj. characterized by firmness or obduracy 不屈的|[[implacable]]|
+[ʌnˈji:ldɪŋ]
+adj. characterized by firmness or obduracy 不屈的
+[[implacable]]

@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>deify</strong></pre>
-|   |   |   |
-|---|---|---|
-|deify|[ˈdeɪɪfaɪ]|v. to treat like a god or goddess 神化|
+[ˈdeɪɪfaɪ]
+v. to treat like a god or goddess 神化

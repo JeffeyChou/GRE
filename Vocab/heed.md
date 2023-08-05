@@ -8,6 +8,6 @@ aliases:
 ---
 
 <pre><strong>heed</strong></pre>
-|   |   |
-|---|---|
-|[hid]|v. to pay attention to 注意，留⼼|
+
+[hid]
+v. to pay attention to 注意，留⼼

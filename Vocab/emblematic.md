@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>emblematic</strong></pre>
-|   |   |   |
-|---|---|---|
-|emblematic [ˌembləˈmætɪk]|adj. representing something that cannot be seen by itself 象征的|[[totemic]]|
+[ˌembləˈmætɪk]
+adj. representing something that cannot be seen by itself 象征的
+[[totemic]]

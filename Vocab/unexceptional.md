@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>unexceptional</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|unexceptional|[ˌʌnɪkˈsepʃənl]|adj. not usually good, interesting, etc. 普通的|[[nondescript]]|
+[ˌʌnɪkˈsepʃənl]
+adj. not usually good, interesting, etc. 普通的
+[[nondescript]]

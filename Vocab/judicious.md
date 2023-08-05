@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>judicious</strong></pre>
-|   |   |   |
-|---|---|---|
-|judicious|[dʒuˈdɪʃəs]|adj. having or showing good judgment 审慎的|
+[dʒuˈdɪʃəs]
+adj. having or showing good judgment 审慎的

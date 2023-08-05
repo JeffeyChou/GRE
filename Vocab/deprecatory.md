@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>deprecatory</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|deprecatory|[ˌdeprə'keɪtərɪ]|adj. disapproving 反对的|[[detracting]]|
+[ˌdeprə'keɪtərɪ]
+adj. disapproving 反对的
+[[detracting]]

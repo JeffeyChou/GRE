@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>cumbersome</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|cumbersome|[ˈkʌmbəsəm]|(1)adj. hard to handle or manage because of size or weight 笨重的(2)adj. complicated and hard to do [[复杂]]难做的|[[unwieldy]]|
+[ˈkʌmbəsəm]
+(1)adj. hard to handle or manage because of size or weight 笨重的(2)adj. complicated and hard to do [[复杂]]难做的
+[[unwieldy]]

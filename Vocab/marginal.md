@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>marginal</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|marginal|[ˈmɑ:dʒɪnl]|(1)adj. not very important 不重要的(2)adj. not included in the main part of society or of a group 边缘的|[[peripheral]]|
+[ˈmɑ:dʒɪnl]
+(1)adj. not very important 不重要的(2)adj. not included in the main part of society or of a group 边缘的
+[[peripheral]]

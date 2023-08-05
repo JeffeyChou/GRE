@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>lambaste</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|lambaste|[læm'beɪst]|v. to criticize very harshly 严厉[[批评]]|[[denounce]], [[deride]]|
+[læm'beɪst]
+v. to criticize very harshly 严厉[[批评]]
+[[denounce]], [[deride]]

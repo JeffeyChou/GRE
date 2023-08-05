@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>allay</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|allay|[əˈle]|v. to subdue or reduce in intensity or severity 减轻|[[palliate]]|
+[əˈle]
+v. to subdue or reduce in intensity or severity 减轻
+[[palliate]]

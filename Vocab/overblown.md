@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>overblown</strong></pre>
-|   |   |   |
-|---|---|---|
-|overblown|[ˌəʊvəˈbləʊn]|adj. inflated 浮夸的，过分的|
+[ˌəʊvəˈbləʊn]
+adj. inflated 浮夸的，过分的

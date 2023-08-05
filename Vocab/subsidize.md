@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>subsidize</strong></pre>
-|   |   |   |
-|---|---|---|
-|subsidize|['sʌbsə'daɪz]|v. to help someone or something pay for the costs of 资助，补贴|
+['sʌbsə'daɪz]
+v. to help someone or something pay for the costs of 资助，补贴

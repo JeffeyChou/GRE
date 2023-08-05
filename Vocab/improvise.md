@@ -8,6 +8,6 @@ aliases:
 ---
 
 <pre><strong>improvise</strong></pre>
-|   |   |
-|---|---|
-|['ɪmprəvaɪz]|v. to speak or perform without preparation 即兴创作|
+
+['ɪmprəvaɪz]
+v. to speak or perform without preparation 即兴创作

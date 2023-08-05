@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>egalitarian</strong></pre>
-|   |   |
-|---|---|
-|egalitarian [iˌgælɪˈteəriən]|adj. aiming for equal wealth, status, etc. 平等主义的|
+[iˌgælɪˈteəriən]
+adj. aiming for equal wealth, status, etc. 平等主义的

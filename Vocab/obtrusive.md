@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>obtrusive</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|obtrusive|[əbˈtru:sɪv]|adj. noticeable in an unpleasant or annoying way 惹眼的|[[conspicuous]]|
+[əbˈtru:sɪv]
+adj. noticeable in an unpleasant or annoying way 惹眼的
+[[conspicuous]]

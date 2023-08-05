@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>disparage</strong></pre>
-|   |   |   |
-|---|---|---|
-|disparage [dɪˈspærɪdʒ]|v. to describe as unimportant, weak, bad, etc. [[贬低]]|[[sligh]]|
+[dɪˈspærɪdʒ]
+v. to describe as unimportant, weak, bad, etc. [[贬低]]
+[[sligh]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>unprecedented</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|unprecedented|[ʌnˈpresɪdentɪd]|adj. not done or experienced before 前所未有的|[[abnormal]]|
+[ʌnˈpresɪdentɪd]
+adj. not done or experienced before 前所未有的
+[[abnormal]]

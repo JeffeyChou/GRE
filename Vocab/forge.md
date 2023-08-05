@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>forge</strong></pre>
-|   |   |   |
-|---|---|---|
-|[fɔːdʒ]|(1)v. to form by heating and hammering 锻造(2)v. to make or imitate falsely especially with intent to defraud 伪造|[[fabricate]]|
+
+[fɔːdʒ]
+(1)v. to form by heating and hammering 锻造(2)v. to make or imitate falsely especially with intent to defraud 伪造
+[[fabricate]]

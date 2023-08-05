@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>damp</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|damp|[dæmp]|v. to make less strong or active 使减弱|[[palliate]]|
+[dæmp]
+v. to make less strong or active 使减弱
+[[palliate]]

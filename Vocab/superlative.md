@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>superlative</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|superlative|[su:ˈpɜ:rlətɪv]|adj. surpassing all others 最⾼级的，极好的|[[praiseworthy]]|
+[su:ˈpɜ:rlətɪv]
+adj. surpassing all others 最⾼级的，极好的
+[[praiseworthy]]

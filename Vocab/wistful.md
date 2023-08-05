@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>wistful</strong></pre>
-|   |   |   |
-|---|---|---|
-|wistful|[ˈwɪstfl]|adj. having or showing sad thoughts and feelings about something that you want to have or do and especially about something that made you happy in the past 伤感的，依依不舍的|
+[ˈwɪstfl]
+adj. having or showing sad thoughts and feelings about something that you want to have or do and especially about something that made you happy in the past 伤感的，依依不舍的

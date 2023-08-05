@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>lucrative</strong></pre>
-|   |   |   |
-|---|---|---|
-|lucrative|[ˈlu:krətɪv]|adj. producing money or wealth 获利丰厚的|
+[ˈlu:krətɪv]
+adj. producing money or wealth 获利丰厚的

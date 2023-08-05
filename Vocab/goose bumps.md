@@ -8,6 +8,6 @@ aliases:
 ---
 
 <pre><strong>goose bumps</strong></pre>
-|   |   |
-|---|---|
-|[guːsbʌmps]|n. small bumps on your skin that are caused by cold, fear, or a suddenfeeling of excitement 鸡⽪疙瘩|
+
+[guːsbʌmps]
+n. small bumps on your skin that are caused by cold, fear, or a suddenfeeling of excitement 鸡⽪疙瘩

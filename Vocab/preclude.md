@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>preclude</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|preclude|[prɪˈklu:d]|v. to make impossible by necessary consequence: rule out in advance排除，防⽌|[[prevent]], [[rule out]]|
+[prɪˈklu:d]
+v. to make impossible by necessary consequence: rule out in advance排除，防⽌
+[[prevent]], [[rule out]]

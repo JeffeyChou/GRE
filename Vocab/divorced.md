@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>divorced</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|divorced|[dɪˈvɔ:st]|adj. very different and separate from each other 分离的|[[untethered]], [[abstracted]]|
+[dɪˈvɔ:st]
+adj. very different and separate from each other 分离的
+[[untethered]], [[abstracted]]

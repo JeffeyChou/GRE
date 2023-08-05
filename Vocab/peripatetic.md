@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>peripatetic</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|peripatetic|[ˌperipəˈtetɪk]|adj. pedestrian, itinerant 巡回的|[[itinerant]]|
+[ˌperipəˈtetɪk]
+adj. pedestrian, itinerant 巡回的
+[[itinerant]]

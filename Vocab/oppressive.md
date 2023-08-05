@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>oppressive</strong></pre>
-|   |   |
-|---|---|
-|oppressive [əˈpresɪv]|(1)adj. very cruel or unfair 残酷的(2)adj. overwhelming or depressing to the spirit or senses 令⼈窒息的|
+[əˈpresɪv]
+(1)adj. very cruel or unfair 残酷的(2)adj. overwhelming or depressing to the spirit or senses 令⼈窒息的

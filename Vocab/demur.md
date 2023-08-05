@@ -9,7 +9,7 @@ aliases:
 ---
 
 <pre><strong>demur</strong></pre>
-|   |   |   |
-|---|---|---|
-|demur|[dɪˈmɜ:]|v. to disagree politely with another person’s statement or suggestion 表示反对|
+[dɪˈmɜ:]
+v. to disagree politely with another person’s statement or suggestion 表示反对
+
 [[admonish]]

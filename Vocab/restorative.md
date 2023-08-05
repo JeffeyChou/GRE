@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>restorative</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|restorative|[rɪˈstɔ:rətɪv]|adj. having the ability to make a person feel strong or healthy again 恢复健康的|[[tonic]]|
+[rɪˈstɔ:rətɪv]
+adj. having the ability to make a person feel strong or healthy again 恢复健康的
+[[tonic]]

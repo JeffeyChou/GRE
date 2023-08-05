@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>espouse</strong></pre>
-|   |   |   |
-|---|---|---|
-|espouse [ɪˈspaʊz]|v. to express support for 拥护|[[champion]], [[advocate]], [[defend]]|
+[ɪˈspaʊz]
+v. to express support for 拥护
+[[champion]], [[advocate]], [[defend]]

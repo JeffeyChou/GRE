@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>permeable</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|permeable|[ˈpɜ:miəbl]|adj. allowing liquids or gases to pass through 可渗透的|[[porous]]|
+[ˈpɜ:miəbl]
+adj. allowing liquids or gases to pass through 可渗透的
+[[porous]]

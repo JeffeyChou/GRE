@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>shirk</strong></pre>
-|   |   |
-|---|---|
-|shirk [ʃə:k]|v. to avoid doing something that you are supposed to do 逃避|
+[ʃə:k]
+v. to avoid doing something that you are supposed to do 逃避

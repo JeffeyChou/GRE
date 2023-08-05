@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>provisional</strong></pre>
-|   |   |   |
-|---|---|---|
-|provisional|[prəˈvɪʒənəl]|adj. serving for the time being 临时的，暂时的|
+[prəˈvɪʒənəl]
+adj. serving for the time being 临时的，暂时的

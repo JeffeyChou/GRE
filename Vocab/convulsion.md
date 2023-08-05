@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>convulsion</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|convulsion|[kənˈvʌlʃn]|n. a sudden change or disturbance that affects a country, organization, etc. 动乱|[[upheaval]]|
+[kənˈvʌlʃn]
+n. a sudden change or disturbance that affects a country, organization, etc. 动乱
+[[upheaval]]

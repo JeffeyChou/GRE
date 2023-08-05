@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>orderly</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|orderly|[ˈɔ:dəli]|adj. arranged or organized in a logical or regular way 有秩序的|[[coherent]]|
+[ˈɔ:dəli]
+adj. arranged or organized in a logical or regular way 有秩序的
+[[coherent]]

@@ -9,7 +9,7 @@ aliases:
 ---
 
 <pre><strong>balk at</strong></pre>
-|   |   |   |
-|---|---|---|
-|balk at|[bɔ:k]|phrase. 回避|
+[bɔ:k]
+phrase. 回避
+
 [[hedge]], [[shrink]], [[shy away]], [[sidestep]]

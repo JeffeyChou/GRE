@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>exactitude</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ɪgˈzæktɪtju:d]|n. the quality or state of being accurate and correct 精确性|[[meticulousness]]|
+
+[ɪgˈzæktɪtju:d]
+n. the quality or state of being accurate and correct 精确性
+[[meticulousness]]

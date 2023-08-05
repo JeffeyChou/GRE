@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>aplomb</strong></pre>
-|   |   |   |
-|---|---|---|
-|aplomb|[ə'plɑm]|n. complete and confident composure or self-assurance 镇定，泰然⾃若|
+[ə'plɑm]
+n. complete and confident composure or self-assurance 镇定，泰然⾃若

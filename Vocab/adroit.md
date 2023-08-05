@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>adroit</strong></pre>
-|   |   |   |
-|---|---|---|
-|adroit [əˈdrɔɪt]|adj. very clever or skillful 精明的，灵巧的|[[nimble]], [[dexterous]], [[deft]], [[acumen]]|
+[əˈdrɔɪt]
+adj. very clever or skillful 精明的，灵巧的
+[[nimble]], [[dexterous]], [[deft]], [[acumen]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>champion</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|champion|[ˈtʃæmpiən]|v. to fight or speak publicly in support of ⽀持|[[defend]], [[espouse]], [[support]]|
+[ˈtʃæmpiən]
+v. to fight or speak publicly in support of ⽀持
+[[defend]], [[espouse]], [[support]]

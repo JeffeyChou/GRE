@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>unimpeachable</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|unimpeachable|[ˌʌnɪmˈpi:tʃəbl]|adj. very reliable and trusted 毋庸置疑的|[[blameless]]|
+[ˌʌnɪmˈpi:tʃəbl]
+adj. very reliable and trusted 毋庸置疑的
+[[blameless]]

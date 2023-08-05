@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>pretext</strong></pre>
-|   |   |   |
-|---|---|---|
-|pretext|[ˈpri:tekst]|n. a reason that you give to hide your real reason for doing something借⼝|
+[ˈpri:tekst]
+n. a reason that you give to hide your real reason for doing something借⼝

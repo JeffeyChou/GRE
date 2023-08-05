@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>anathema</strong></pre>
-|   |   |
-|---|---|
-|anathema [əˈnæθəmə]|n. someone or something that is very strongly disliked ⾮常讨厌的⼈或物|
+[əˈnæθəmə]
+n. someone or something that is very strongly disliked ⾮常讨厌的⼈或物

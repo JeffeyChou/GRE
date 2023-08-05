@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>omnipresent</strong></pre>
-|   |   |   |
-|---|---|---|
-|omnipresent [,ɑmnɪ'prɛznt]|adj. present in all places at all times ⽆处不在的|[[ubiquitous]], [[universal]]|
+[,ɑmnɪ'prɛznt]
+adj. present in all places at all times ⽆处不在的
+[[ubiquitous]], [[universal]]

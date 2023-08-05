@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>outstrip</strong></pre>
-|   |   |   |
-|---|---|---|
-|outstrip|[ˌaʊtˈstrɪp]|v. to get ahead of 超过|
+[ˌaʊtˈstrɪp]
+v. to get ahead of 超过

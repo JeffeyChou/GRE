@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>sanguine</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|sanguine|[ˈsæŋgwɪn]|adj. confident and hopeful 乐观的|[[optimistic]]|
+[ˈsæŋgwɪn]
+adj. confident and hopeful 乐观的
+[[optimistic]]

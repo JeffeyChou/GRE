@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>precocious</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|precocious|[prɪ'kəʊʃəs]|adj. exhibiting mature qualities at an unusually early age 早熟的|[[mature]]|
+[prɪ'kəʊʃəs]
+adj. exhibiting mature qualities at an unusually early age 早熟的
+[[mature]]

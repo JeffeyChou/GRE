@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>maverick</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|maverick|[ˈmævərɪk]|n. a person who refuses to follow the customs or rules of a group 特⽴独⾏的⼈|[[nonconformist]]|
+[ˈmævərɪk]
+n. a person who refuses to follow the customs or rules of a group 特⽴独⾏的⼈
+[[nonconformist]]

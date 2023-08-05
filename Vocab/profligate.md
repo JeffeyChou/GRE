@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>profligate</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|profligate|[prɑfləɡɪt]|adj. wildly extravagant 挥霍的|[[extravagant]], [[prodigal]]|
+[prɑfləɡɪt]
+adj. wildly extravagant 挥霍的
+[[extravagant]], [[prodigal]]

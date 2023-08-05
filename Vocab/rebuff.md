@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>rebuff</strong></pre>
-|   |   |   |
-|---|---|---|
-|rebuff|[rɪˈbʌf]|v. to refuse in a rude way 拒绝|
+[rɪˈbʌf]
+v. to refuse in a rude way 拒绝

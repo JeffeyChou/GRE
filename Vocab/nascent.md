@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>nascent</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|nascent|[ˈnæsnt]|adj. beginning to exist 刚出现的|[[budding]], [[unformed]]|
+[ˈnæsnt]
+adj. beginning to exist 刚出现的
+[[budding]], [[unformed]]

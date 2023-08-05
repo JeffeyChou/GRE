@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>proponent</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|proponent|[prə'pəʊnənt]|n. a person who argues for or supports something ⽀持者|[[defender]], [[champion]]|
+[prə'pəʊnənt]
+n. a person who argues for or supports something ⽀持者
+[[defender]], [[champion]]

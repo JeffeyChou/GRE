@@ -8,6 +8,8 @@ aliases:
 ---
 
 <pre><strong>indiscernible</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|indiscernible|[ˌɪndɪˈsɜ:nəbl]|adj. impossible to see, hear, or know clearly 难以理解的|[[imperceptible]]|
+
+indiscernible
+[ˌɪndɪˈsɜ:nəbl]
+adj. impossible to see, hear, or know clearly 难以理解的
+[[imperceptible]]

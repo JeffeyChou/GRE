@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>circuitous</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|circuitous|[səˈkju:ɪtəs]|adj. not straight, short, and direct 拐弯抹⻆的|[[indirect]]|
+[səˈkju:ɪtəs]
+adj. not straight, short, and direct 拐弯抹⻆的
+[[indirect]]

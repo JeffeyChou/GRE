@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>abstruse</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|abstruse|[əbˈstru:s]|adj. hard to understand 难理解的|[[esoteric]], [[arcane]], [[recondite]]|
+[əbˈstru:s]
+adj. hard to understand 难理解的
+[[esoteric]], [[arcane]], [[recondite]]

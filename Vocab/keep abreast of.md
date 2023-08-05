@@ -9,6 +9,4 @@ aliases:
 ---
 
 <pre><strong>keep abreast of</strong></pre>
-|   |   |
-|---|---|
-|keep abreast of|phrase. 了解...的最新情况|
+phrase. 了解...的最新情况

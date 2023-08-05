@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>avaricious</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|avaricious|[ˌævə'rɪʃəs]|adj. excessively acquisitive especially in seeking to hoard riches 贪婪的|[[rapacious]]|
+[ˌævə'rɪʃəs]
+adj. excessively acquisitive especially in seeking to hoard riches 贪婪的
+[[rapacious]]

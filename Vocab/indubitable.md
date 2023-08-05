@@ -8,6 +8,8 @@ aliases:
 ---
 
 <pre><strong>indubitable</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|indubitable|[ɪn'djuːbɪtəbl]|adj. too evident to be doubted 不容置疑的|[[incontrovertible]]|
+
+indubitable
+[ɪn'djuːbɪtəbl]
+adj. too evident to be doubted 不容置疑的
+[[incontrovertible]]

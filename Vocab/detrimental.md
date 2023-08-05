@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>detrimental</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|detrimental|[,detrɪ'mentl]|adj. causing damage or injury [[有害的]]|[[deleterious]]|
+[,detrɪ'mentl]
+adj. causing damage or injury [[有害的]]
+[[deleterious]]

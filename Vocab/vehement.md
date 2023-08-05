@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>vehement</strong></pre>
-|   |   |   |
-|---|---|---|
-|vehement|[ˈvi:əmənt]|adj. showing strong and often angry feelings 激烈的|
+[ˈvi:əmənt]
+adj. showing strong and often angry feelings 激烈的

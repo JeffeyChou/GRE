@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>preside</strong></pre>
-|   |   |   |
-|---|---|---|
-|preside|[prɪˈzaɪd]|v. to be in charge of something 主持|
+[prɪˈzaɪd]
+v. to be in charge of something 主持

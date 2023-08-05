@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>limpid</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|limpid|[ˈlɪmpɪd]|adj. marked by transparency 清晰的|[[pellucid]]|
+[ˈlɪmpɪd]
+adj. marked by transparency 清晰的
+[[pellucid]]

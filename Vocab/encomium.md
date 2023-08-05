@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>encomium</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|encomium|[enˈkəʊmiəm]|n. glowing and warmly enthusiastic praise 赞美|[[tribute]]|
+[enˈkəʊmiəm]
+n. glowing and warmly enthusiastic praise 赞美
+[[tribute]]

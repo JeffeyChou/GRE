@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>buttress</strong></pre>
-|   |   |   |
-|---|---|---|
-|buttress [ˈbʌtrəs]|v. to support, strengthen, or defend [[⽀持]]|[[bolster]]|
+[ˈbʌtrəs]
+v. to support, strengthen, or defend [[⽀持]]
+[[bolster]]

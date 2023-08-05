@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>resemblance</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|resemblance|[rɪˈzembləns]|n. the state of looking or being like someone or something else 相似|[[homogeneity]]|
+[rɪˈzembləns]
+n. the state of looking or being like someone or something else 相似
+[[homogeneity]]

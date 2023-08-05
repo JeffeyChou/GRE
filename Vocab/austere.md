@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>austere</strong></pre>
-|   |   |   |
-|---|---|---|
-|austere|[ɔ'stɪr]|adj. simple or plain 朴素的|
+[ɔ'stɪr]
+adj. simple or plain 朴素的

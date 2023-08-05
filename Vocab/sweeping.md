@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>sweeping</strong></pre>
-|   |   |   |
-|---|---|---|
-|sweeping|['swipɪŋ]|adj. including or involving many things 彻底的|
+['swipɪŋ]
+adj. including or involving many things 彻底的

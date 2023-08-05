@@ -8,6 +8,8 @@ aliases:
 ---
 
 <pre><strong>infamy</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|infamy|[ˈɪnfəmi]|n. evil reputation brought about by something grossly criminal,shocking, or brutal 声名狼藉|[[opprobrium]]|
+
+infamy
+[ˈɪnfəmi]
+n. evil reputation brought about by something grossly criminal,shocking, or brutal 声名狼藉
+[[opprobrium]]

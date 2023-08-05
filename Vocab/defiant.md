@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>defiant</strong></pre>
-|   |   |   |
-|---|---|---|
-|defiant|[dɪ'faɪənt]|adj. refusing to obey something or someone 蔑视的，挑战的|
+[dɪ'faɪənt]
+adj. refusing to obey something or someone 蔑视的，挑战的

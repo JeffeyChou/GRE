@@ -9,6 +9,7 @@ aliases:
 ---
 
 <pre><strong>loquacious</strong></pre>
-|   |   |   |
-|---|---|---|
-|loquacious [ləˈkweɪʃəs]|adj. liking to talk and talking smoothly and easily 健谈的|[[garrulous]]|l
+[ləˈkweɪʃəs]
+adj. liking to talk and talking smoothly and easily 健谈的
+[[garrulous]]
+l

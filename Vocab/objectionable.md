@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>objectionable</strong></pre>
-|   |   |   |
-|---|---|---|
-|objectionable|[əbˈdʒekʃənəbl]|adj. causing people to be offended 令⼈反感的|
+[əbˈdʒekʃənəbl]
+adj. causing people to be offended 令⼈反感的

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>discrepancy</strong></pre>
-|   |   |   |
-|---|---|---|
-|discrepancy [dɪs'krɛpənsi]|n. a difference especially between things that should be the same [[⽭盾]]|[[incongruity]]|
+[dɪs'krɛpənsi]
+n. a difference especially between things that should be the same [[⽭盾]]
+[[incongruity]]

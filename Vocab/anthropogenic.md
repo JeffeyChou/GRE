@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>anthropogenic</strong></pre>
-|   |   |   |
-|---|---|---|
-|anthropogenic|[ˌænθrəpə'dʒnɪk]|adj. of, relating to, or resulting from the influence of human beings on nature ⼈为的|
+[ˌænθrəpə'dʒnɪk]
+adj. of, relating to, or resulting from the influence of human beings on nature ⼈为的

@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>impetuous</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ɪmˈpetʃuəs]|adj. acting or done quickly and without thought 鲁莽的|[[precipitate]]|
+
+[ɪmˈpetʃuəs]
+adj. acting or done quickly and without thought 鲁莽的
+[[precipitate]]

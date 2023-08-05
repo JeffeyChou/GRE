@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>subordinate</strong></pre>
-|   |   |   |
-|---|---|---|
-|subordinate|[səˈbɔ:dɪnət]|(1)adj. in a position of less power or authority than someone else 级别低的(2)adj. less important than someone or something else 次要的(3)n. someone who has less power or authority than someone else 下属|
+[səˈbɔ:dɪnət]
+(1)adj. in a position of less power or authority than someone else 级别低的(2)adj. less important than someone or something else 次要的(3)n. someone who has less power or authority than someone else 下属

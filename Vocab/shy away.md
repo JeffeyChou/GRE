@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>shy away</strong></pre>
-|   |   |
-|---|---|
-|shy away [ʃai əˈwei]|phrase. 回避|
+[ʃai əˈwei]
+phrase. 回避

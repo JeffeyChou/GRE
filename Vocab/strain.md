@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>strain</strong></pre>
-|   |   |
-|---|---|
-|strain [stren]|v. to make violent efforts 尽量使⼒|
+[stren]
+v. to make violent efforts 尽量使⼒

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>conundrum</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|conundrum|[kəˈnʌndrəm]|n. a confusing or difficult problem 复杂难解的问题|[[riddle]], [[puzzle]], [[enigma]]|
+[kəˈnʌndrəm]
+n. a confusing or difficult problem 复杂难解的问题
+[[riddle]], [[puzzle]], [[enigma]]

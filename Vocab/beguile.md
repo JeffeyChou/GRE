@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>beguile</strong></pre>
-|   |   |   |
-|---|---|---|
-|beguile|[bɪ'ɡaɪl]|v. to trick or deceive [[欺骗]]|
+[bɪ'ɡaɪl]
+v. to trick or deceive [[欺骗]]

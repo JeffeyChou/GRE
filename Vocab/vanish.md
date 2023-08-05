@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>vanish</strong></pre>
-|   |   |   |
-|---|---|---|
-|vanish|[ˈvænɪʃ]|v. to disappear entirely without a clear explanation 消失|
+[ˈvænɪʃ]
+v. to disappear entirely without a clear explanation 消失

@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>frugal</strong></pre>
-|   |   |   |
-|---|---|---|
-|['fruɡl]|adj. simple and plain 简朴的|[[thrifty]]|
+
+['fruɡl]
+adj. simple and plain 简朴的
+[[thrifty]]

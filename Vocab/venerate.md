@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>venerate</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|venerate|[ˈvenəreɪt]|v. to feel or show deep respect for 崇敬|[[honor]], [[respect]]|
+[ˈvenəreɪt]
+v. to feel or show deep respect for 崇敬
+[[honor]], [[respect]]

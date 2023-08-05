@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>pressing</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|pressing|['prɛsɪŋ]|adj. urgently important 紧迫的，重要的|[[exigent]], [[critical]]|
+['prɛsɪŋ]
+adj. urgently important 紧迫的，重要的
+[[exigent]], [[critical]]

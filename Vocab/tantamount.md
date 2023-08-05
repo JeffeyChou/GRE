@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>tantamount</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|tantamount|[ˈtæntəmaʊnt]|adj. equal to something in value, meaning, or effect 等同于|[[synonymous]]|
+[ˈtæntəmaʊnt]
+adj. equal to something in value, meaning, or effect 等同于
+[[synonymous]]

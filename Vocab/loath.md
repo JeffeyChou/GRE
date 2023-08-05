@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>loath</strong></pre>
-|   |   |   |
-|---|---|---|
-|loath [ləʊθ]|adj. not wanting or willing to do something 不情愿的|[[reluctant]], [[unwilling]], [[disinclined]]|
+[ləʊθ]
+adj. not wanting or willing to do something 不情愿的
+[[reluctant]], [[unwilling]], [[disinclined]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>aggravate</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|aggravate|['æɡrəvet]|v. to make more serious or severe 加剧|[[exacerbate]]|
+['æɡrəvet]
+v. to make more serious or severe 加剧
+[[exacerbate]]

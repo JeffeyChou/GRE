@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>umbrage</strong></pre>
-|   |   |   |
-|---|---|---|
-|umbrage|[ˈʌmbrɪdʒ]|n. a feeling of being offended by what someone has said or done ⽣⽓|
+[ˈʌmbrɪdʒ]
+n. a feeling of being offended by what someone has said or done ⽣⽓

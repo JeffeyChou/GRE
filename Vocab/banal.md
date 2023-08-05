@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>banal</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|banal|[bəˈnæl]|adj. lacking originality, freshness, or novelty 陈腐的，平凡的|[[stale]]|
+[bəˈnæl]
+adj. lacking originality, freshness, or novelty 陈腐的，平凡的
+[[stale]]

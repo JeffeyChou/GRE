@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>blunt</strong></pre>
-|   |   |
-|---|---|
-|blunt[blʌnt]|(1)adj. having a thick edge or point 钝的<mark style="background: #ABF7F7A6;">(2)adj. being straight to the point 直⾔不讳的</mark>|
+[blʌnt]
+(1)adj. having a thick edge or point 钝的<mark style="background: #ABF7F7A6;">(2)adj. being straight to the point 直⾔不讳的</mark>

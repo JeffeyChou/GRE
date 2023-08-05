@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>prolix</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|prolix|[prəʊ'lɪks]|adj. using too many words 冗⻓的|[[verbose]], [[long-winded]]|
+[prəʊ'lɪks]
+adj. using too many words 冗⻓的
+[[verbose]], [[long-winded]]

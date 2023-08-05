@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>ecstasy</strong></pre>
-|   |   |   |
-|---|---|---|
-|ecstasy [ˈekstəsi]|n. a state of very great happiness 狂喜|[[euphoria]]|
+[ˈekstəsi]
+n. a state of very great happiness 狂喜
+[[euphoria]]

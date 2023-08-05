@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>counterproductive</strong></pre>
-|   |   |   |
-|---|---|---|
-|counterproductive [,kaʊntɚprə'dʌktɪv]|adj. tending to hinder the attainment of a desired goal 事与愿违的|[[deleterious]]|
+[,kaʊntɚprə'dʌktɪv]
+adj. tending to hinder the attainment of a desired goal 事与愿违的
+[[deleterious]]

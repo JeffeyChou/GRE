@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>utopia</strong></pre>
-|   |   |   |
-|---|---|---|
-|utopia|[ju:'təʊpɪə]|n. an impractical scheme for social improvement 不切实际的幻想|
+[ju:'təʊpɪə]
+n. an impractical scheme for social improvement 不切实际的幻想

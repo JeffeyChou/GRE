@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>temper</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|temper|[ˈtempə]|v. to make less severe or extreme 缓和|[[modulate]], [[mitigate]], [[neutralize]]|
+[ˈtempə]
+v. to make less severe or extreme 缓和
+[[modulate]], [[mitigate]], [[neutralize]]

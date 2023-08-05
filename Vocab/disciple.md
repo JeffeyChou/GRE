@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>disciple</strong></pre>
-|   |   |   |
-|---|---|---|
-|disciple [dɪ'saɪpl]|n. a convinced adherent of a school or individual 信徒|[[adherent]]|
+[dɪ'saɪpl]
+n. a convinced adherent of a school or individual 信徒
+[[adherent]]

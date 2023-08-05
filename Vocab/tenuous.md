@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>tenuous</strong></pre>
-|   |   |   |
-|---|---|---|
-|tenuous [ˈtenjuəs]|(1)adj. very thin 纤细的(2)adj. having little substance or strength 脆弱的|[[exiguous]]|
+[ˈtenjuəs]
+(1)adj. very thin 纤细的(2)adj. having little substance or strength 脆弱的
+[[exiguous]]

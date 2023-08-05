@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>tonic</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|tonic|[ˈtɒnɪk]|adj. increasing or restoring physical or mental tone 恢复健康的|[[restorative]]|
+[ˈtɒnɪk]
+adj. increasing or restoring physical or mental tone 恢复健康的
+[[restorative]]

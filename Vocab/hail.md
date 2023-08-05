@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>hail</strong></pre>
-|   |   |   |
-|---|---|---|
-|[heɪl]|v. to greet with enthusiastic approval 称赞|[[acclaim]]|
+
+[heɪl]
+v. to greet with enthusiastic approval 称赞
+[[acclaim]]

@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>tendentious</strong></pre>
-|   |   |
-|---|---|
-|tendentious [tɛn'dɛnʃəs]|adj. expressing a strong opinion 有倾向性的|
+[tɛn'dɛnʃəs]
+adj. expressing a strong opinion 有倾向性的

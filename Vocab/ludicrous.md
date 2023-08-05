@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>ludicrous</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|ludicrous|['ludɪkrəs]|adj. very foolish 荒唐可笑的|[[risible]]|
+['ludɪkrəs]
+adj. very foolish 荒唐可笑的
+[[risible]]

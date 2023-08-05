@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>camaraderie</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|camaraderie|[ˌkæməˈrɑ:dəri]|n. a feeling of good friendship among the people in a group 情谊，友情|[[solidarity]]|
+[ˌkæməˈrɑ:dəri]
+n. a feeling of good friendship among the people in a group 情谊，友情
+[[solidarity]]

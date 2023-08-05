@@ -8,6 +8,6 @@ aliases:
 ---
 
 <pre><strong>flummery</strong></pre>
-|   |   |
-|---|---|
-|[ˈflʌməri]|n. mummery, mumbo jumbo 假恭维，胡⾔乱语|
+
+[ˈflʌməri]
+n. mummery, mumbo jumbo 假恭维，胡⾔乱语

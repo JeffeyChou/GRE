@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>opportune</strong></pre>
-|   |   |   |
-|---|---|---|
-|opportune [ˈɒpətju:n]|adj. done or happening at the right time 适时的|[[timely]]|
+[ˈɒpətju:n]
+adj. done or happening at the right time 适时的
+[[timely]]

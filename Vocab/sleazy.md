@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>sleazy</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|sleazy|['sliːzɪ]|(1)adj. dirty and in bad condition form being neglected 肮脏的(2)adj. dishonest or immoral 不诚实的，邪恶的|[[sordid]]|
+['sliːzɪ]
+(1)adj. dirty and in bad condition form being neglected 肮脏的(2)adj. dishonest or immoral 不诚实的，邪恶的
+[[sordid]]

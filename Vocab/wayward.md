@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>wayward</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|wayward|[ˈweɪwəd]|adj. following one’s own capricious, wanton, or depraved inclinations 任性的|[[errant]], [[unpredictable]]|
+[ˈweɪwəd]
+adj. following one’s own capricious, wanton, or depraved inclinations 任性的
+[[errant]], [[unpredictable]]

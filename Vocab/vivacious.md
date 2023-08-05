@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>vivacious</strong></pre>
-|   |   |   |
-|---|---|---|
-|vivacious|[vɪˈveɪʃəs]|adj. happy and lively in a way that is attractive 活泼的|
+[vɪˈveɪʃəs]
+adj. happy and lively in a way that is attractive 活泼的

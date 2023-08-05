@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>stale</strong></pre>
-|   |   |   |
-|---|---|---|
-|stale [steɪl]|adj. tedious from familiarity 陈旧的，厌倦的|[[banal]]|
+[steɪl]
+adj. tedious from familiarity 陈旧的，厌倦的
+[[banal]]

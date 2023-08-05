@@ -8,6 +8,8 @@ aliases:
 ---
 
 <pre><strong>inception</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ɪnˈsepʃn]|n. the time at which something begins 开始|[[foundation]]|****
+
+[ɪnˈsepʃn]
+n. the time at which something begins 开始
+[[foundation]]
+****

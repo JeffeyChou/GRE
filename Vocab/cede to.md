@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>cede to</strong></pre>
-|   |   |   |
-|---|---|---|
-|cede to [si:d]|phrase. 让与|[[left to]]|
+[si:d]
+phrase. 让与
+[[left to]]

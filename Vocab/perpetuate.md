@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>perpetuate</strong></pre>
-|   |   |   |
-|---|---|---|
-|perpetuate|[pəˈpetʃueɪt]|v. to make perpetual or cause to last indefinitely 使…永存|
+[pəˈpetʃueɪt]
+v. to make perpetual or cause to last indefinitely 使…永存

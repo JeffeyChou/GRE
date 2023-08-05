@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>conjecture</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|conjecture|[kənˈdʒektʃə]|n. an opinion or idea formed without proof or sufficient evidence 推测|[[speculation]]|
+[kənˈdʒektʃə]
+n. an opinion or idea formed without proof or sufficient evidence 推测
+[[speculation]]

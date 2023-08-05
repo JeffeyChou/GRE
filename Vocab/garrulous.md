@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>garrulous</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ˈgærələs]|adj. tending to talk a lot 喋喋不休的|[[loquacious]]|
+
+[ˈgærələs]
+adj. tending to talk a lot 喋喋不休的
+[[loquacious]]

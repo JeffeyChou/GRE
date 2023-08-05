@@ -9,6 +9,7 @@ aliases:
 ---
 
 <pre><strong>reluctant</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|reluctant|[rɪˈlʌktənt]|adj. feeling or showing doubt about doing something: not willing or eager to do something 不情愿的|[[unwilling]], [[loath]]|r
+[rɪˈlʌktənt]
+adj. feeling or showing doubt about doing something: not willing or eager to do something 不情愿的
+[[unwilling]], [[loath]]
+r

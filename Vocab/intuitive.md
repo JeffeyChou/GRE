@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>intuitive</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|intuitive|[ɪnˈtju:ɪtɪv]|adj. agreeing with what seems naturally right 凭直觉的|[[spontaneous]]|
+[ɪnˈtju:ɪtɪv]
+adj. agreeing with what seems naturally right 凭直觉的
+[[spontaneous]]

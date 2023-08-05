@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>erratic</strong></pre>
-|   |   |   |
-|---|---|---|
-|erratic [ɪˈrætɪk]|adj. acting, moving, or changing in ways that are not expected or usual难以预测的|[[fickle]], [[versatile]], [[volatile]], [[flighty]], [[capricious]]|
+[ɪˈrætɪk]
+adj. acting, moving, or changing in ways that are not expected or usual难以预测的
+[[fickle]], [[versatile]], [[volatile]], [[flighty]], [[capricious]]

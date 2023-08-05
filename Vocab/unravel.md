@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>unravel</strong></pre>
-|   |   |
-|---|---|
-|un[[ravel]] [ʌn'rævl]|v. to find the correct explanation for 阐明，解开|
+un[[ravel]] [ʌn'rævl]
+v. to find the correct explanation for 阐明，解开

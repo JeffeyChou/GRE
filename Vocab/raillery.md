@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>raillery</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|raillery|[ˈreɪləri]|n. friendly joking about or with somebody 开玩笑|[[banter]]|
+[ˈreɪləri]
+n. friendly joking about or with somebody 开玩笑
+[[banter]]

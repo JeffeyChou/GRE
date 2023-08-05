@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>jarring</strong></pre>
-|   |   |   |
-|---|---|---|
-|jarring|['dʒɑ:ɪŋ]|adj. 刺⽿的，不和谐的|
+['dʒɑ:ɪŋ]
+adj. 刺⽿的，不和谐的

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>quiescent</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|quiescent|[kwiˈesnt]|adj. marked by inactivity or repose 不活跃的，静⽌的|[[abeyant]], [[calm]]|
+[kwiˈesnt]
+adj. marked by inactivity or repose 不活跃的，静⽌的
+[[abeyant]], [[calm]]

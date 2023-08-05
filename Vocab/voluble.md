@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>voluble</strong></pre>
-|   |   |   |
-|---|---|---|
-|voluble|['vɑljəbl]|adj. talking a lot in an energetic and rapid way 健谈的|
+['vɑljəbl]
+adj. talking a lot in an energetic and rapid way 健谈的

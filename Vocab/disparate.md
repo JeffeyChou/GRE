@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>disparate</strong></pre>
-|   |   |   |
-|---|---|---|
-|disparate [ˈdɪspərət]|adj. different from each other 不同的|[[heterogeneous]], [[diverse]], [[dissimilar]], [[variant]]|
+[ˈdɪspərət]
+adj. different from each other 不同的
+[[heterogeneous]], [[diverse]], [[dissimilar]], [[variant]]

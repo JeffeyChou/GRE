@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>risible</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|risible|[ˈrɪzəbl]|adj. deserving to be laughed at 可笑的|[[ludicrous]]|
+[ˈrɪzəbl]
+adj. deserving to be laughed at 可笑的
+[[ludicrous]]

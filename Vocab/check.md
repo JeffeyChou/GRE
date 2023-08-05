@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>check</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|check|[tʃek]|n. a sudden stoppage of a forward course or progress 阻⽌|[[stem]]|
+[tʃek]
+n. a sudden stoppage of a forward course or progress 阻⽌
+[[stem]]

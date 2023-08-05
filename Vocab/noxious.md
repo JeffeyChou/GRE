@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>noxious</strong></pre>
-|   |   |
-|---|---|
-|noxious ['nɑkʃəs]|adj. harmful to living things 有害的，有毒的|
+['nɑkʃəs]
+adj. harmful to living things 有害的，有毒的

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>sporadic</strong></pre>
-|   |   |   |
-|---|---|---|
-|sporadic[spə'rædɪk]|adj. occurring occasionally, singly, or in irregular or random instances 零星的|[[occasional]], [[fitful]]|
+[spə'rædɪk]
+adj. occurring occasionally, singly, or in irregular or random instances 零星的
+[[occasional]], [[fitful]]

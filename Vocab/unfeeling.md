@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>unfeeling</strong></pre>
-|   |   |   |
-|---|---|---|
-|unfeeling|[ʌnˈfi:lɪŋ]|adj. not kind or sympathetic toward other people ⽆情的|
+[ʌnˈfi:lɪŋ]
+adj. not kind or sympathetic toward other people ⽆情的

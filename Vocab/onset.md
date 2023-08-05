@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>onset</strong></pre>
-|   |   |
-|---|---|
-|onset [ˈɒnset]|n. the beginning of something 开始|
+[ˈɒnset]
+n. the beginning of something 开始

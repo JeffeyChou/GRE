@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>slug</strong></pre>
-|     |     |     |
-| --- | --- | --- |
-slug|[/slʌɡ/]|a small creature with a soft body, that moves very slowly and eats garden plants|
+slug
+[/slʌɡ/]
+a small creature with a soft body, that moves very slowly and eats garden plants

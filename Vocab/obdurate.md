@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>obdurate</strong></pre>
-|   |   |   |
-|---|---|---|
-|obdurate [ˈɒbdjərət]|adj. refusing to do what other people want 固执的|[[intransigent]], [[fortitude]]|
+[ˈɒbdjərət]
+adj. refusing to do what other people want 固执的
+[[intransigent]], [[fortitude]]

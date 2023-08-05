@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>paucity</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|paucity|[ˈpɔ:səti]|n. a small amount of something 不⾜|[[dearth]]|
+[ˈpɔ:səti]
+n. a small amount of something 不⾜
+[[dearth]]

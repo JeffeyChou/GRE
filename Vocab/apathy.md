@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>apathy</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|apathy|['æpəθɪ]|n. the feeling of not having much emotion or interest 冷漠|[[passivity]]|
+['æpəθɪ]
+n. the feeling of not having much emotion or interest 冷漠
+[[passivity]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>acerbic</strong></pre>
-|   |   |   |
-|---|---|---|
-|acerbic [əˈsɜ:bɪk]|adj. expressing harsh or sharp criticism in a clever way 尖刻的|[[mordant]], [[vitriolic]], [[caustic]], [[cutting]], [[scathing]], [[harsh]]|
+[əˈsɜ:bɪk]
+adj. expressing harsh or sharp criticism in a clever way 尖刻的
+[[mordant]], [[vitriolic]], [[caustic]], [[cutting]], [[scathing]], [[harsh]]

@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>immaterial</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ˌɪməˈtɪəriəl]|adj. not important or significant 不重要的|[[inconsequential]]|
+
+[ˌɪməˈtɪəriəl]
+adj. not important or significant 不重要的
+[[inconsequential]]

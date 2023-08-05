@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>absolve</strong></pre>
-|   |   |   |
-|---|---|---|
-|absolve [əbˈzɒlv]|v. to make free from guilt, responsibility, etc. 免罪|[[exonerate]]|
+[əbˈzɒlv]
+v. to make free from guilt, responsibility, etc. 免罪
+[[exonerate]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>snag</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|snag|[snæg]|n. a concealed or unexpected difficulty or obstacle 障碍|[[hitch]]|
+[snæg]
+n. a concealed or unexpected difficulty or obstacle 障碍
+[[hitch]]

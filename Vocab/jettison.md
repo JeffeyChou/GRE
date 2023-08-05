@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>jettison</strong></pre>
-|   |   |   |
-|---|---|---|
-|jettison|[ˈdʒetɪsn]|v. to get rid of 丢弃|
+[ˈdʒetɪsn]
+v. to get rid of 丢弃

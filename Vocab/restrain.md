@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>restrain</strong></pre>
-|   |   |   |
-|---|---|---|
-|restrain|[rɪˈstreɪn]|(1)v. to prevent from doing something 阻⽌(2)v. to keep under control 控制|
+[rɪˈstreɪn]
+(1)v. to prevent from doing something 阻⽌(2)v. to keep under control 控制

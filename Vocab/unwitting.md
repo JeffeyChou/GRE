@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>unwitting</strong></pre>
-|   |   |   |
-|---|---|---|
-|un[[wit]]ting|[ʌn'wɪtɪŋ]|adj. not intended or planned ⽆意的|
+un[[wit]]ting
+[ʌn'wɪtɪŋ]
+adj. not intended or planned ⽆意的

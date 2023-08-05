@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>prying</strong></pre>
-|   |   |   |
-|---|---|---|
-|prying|['praiiŋ]|adj. trying to find out about other people’s private lives 窥探的，爱打听的|
+['praiiŋ]
+adj. trying to find out about other people’s private lives 窥探的，爱打听的

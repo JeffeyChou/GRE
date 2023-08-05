@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>mediate</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|mediate|[ˈmidiˌet]|v. to effect by action as an intermediary 调解|[[influence]]|
+[ˈmidiˌet]
+v. to effect by action as an intermediary 调解
+[[influence]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>stasis</strong></pre>
-|   |   |   |
-|---|---|---|
-|stasis [ˈstesɪs]|n. a slowing or stoppage of the normal flow of a bodily fluid or semifluid停滞|[[inertia]], [[stagnate]]|
+[ˈstesɪs]
+n. a slowing or stoppage of the normal flow of a bodily fluid or semifluid停滞
+[[inertia]], [[stagnate]]

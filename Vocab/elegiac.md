@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>elegiac</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|elegiac|[ˌelɪˈdʒaɪək]|adj. written in or consisting of elegiac couplets 哀悼的|[[plaintive]]|
+[ˌelɪˈdʒaɪək]
+adj. written in or consisting of elegiac couplets 哀悼的
+[[plaintive]]

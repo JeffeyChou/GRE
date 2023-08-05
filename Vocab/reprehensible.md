@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>reprehensible</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|reprehensible|[,rɛprɪ'hɛnsəbl]|adj. deserving very strong criticism 应受谴责的|[[deplorable]]|
+[,rɛprɪ'hɛnsəbl]
+adj. deserving very strong criticism 应受谴责的
+[[deplorable]]

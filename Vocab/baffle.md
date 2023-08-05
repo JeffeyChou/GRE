@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>baffle</strong></pre>
-|   |   |   |
-|---|---|---|
-|baffle|['bæfl]|v. to confuse completely 使困惑|
+['bæfl]
+v. to confuse completely 使困惑

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>belie</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|belie|[bɪˈlaɪ]|(1)v. to show to be false or wrong 证明...是错误的(2)v. disguise 掩饰(3)v. to present an appearance not in agreement with 与...不符|[[mask]]|
+[bɪˈlaɪ]
+(1)v. to show to be false or wrong 证明...是错误的(2)v. disguise 掩饰(3)v. to present an appearance not in agreement with 与...不符
+[[mask]]

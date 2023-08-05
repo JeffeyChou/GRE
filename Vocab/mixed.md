@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>mixed</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|mixed|[mɪkst]|(1)adj. combining characteristics of more than one kind 混合的(2)adj. including or accompanied by [[inconsistent]], [[incompatible]], or [[contrary]] elements ⽭盾的|[[inconsistent]]|
+[mɪkst]
+(1)adj. combining characteristics of more than one kind 混合的(2)adj. including or accompanied by [[inconsistent]], [[incompatible]], or [[contrary]] elements ⽭盾的
+[[inconsistent]]

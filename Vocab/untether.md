@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>untether</strong></pre>
-|   |   |   |
-|---|---|---|
-|untether [ʌn'teðə]|v. to free from or as if from a tether 脱离|[[divorce]]|
+[ʌn'teðə]
+v. to free from or as if from a tether 脱离
+[[divorce]]

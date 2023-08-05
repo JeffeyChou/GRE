@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>inconsequential</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ɪnˌkɒnsɪˈkwenʃl]|adj. not important 不重要的|[[trivial]], [[immaterial]]|
+
+[ɪnˌkɒnsɪˈkwenʃl]
+adj. not important 不重要的
+[[trivial]], [[immaterial]]

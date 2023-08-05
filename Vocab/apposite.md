@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>apposite</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|apposite|[ˈæpəzɪt]|adj. very appropriate 合适的|[[fitting]], [[germane]]|
+[ˈæpəzɪt]
+adj. very appropriate 合适的
+[[fitting]], [[germane]]

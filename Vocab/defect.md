@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>defect</strong></pre>
-|   |   |   |
-|---|---|---|
-|defect|['diːfekt]|n. an imperfection that impairs worth or utility 缺陷|
+['diːfekt]
+n. an imperfection that impairs worth or utility 缺陷

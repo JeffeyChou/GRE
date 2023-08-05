@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>remedy</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|remedy|[ˈremədi]|(1)n. a medicine or treatment that relieves pain or cures a usually minorillness 治疗药物(2)n. a way of solving or correcting a problem 改进措施(3)v. to solve, correct, or improve 纠正，弥补|[[panacea]]|
+[ˈremədi]
+(1)n. a medicine or treatment that relieves pain or cures a usually minorillness 治疗药物(2)n. a way of solving or correcting a problem 改进措施(3)v. to solve, correct, or improve 纠正，弥补
+[[panacea]]

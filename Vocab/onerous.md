@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>onerous</strong></pre>
-|   |   |   |
-|---|---|---|
-|onerous [ˈəʊnərəs]|adj. difficult and unpleasant to do or deal with 繁重的|[[burdensome]]|
+[ˈəʊnərəs]
+adj. difficult and unpleasant to do or deal with 繁重的
+[[burdensome]]

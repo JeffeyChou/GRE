@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>convoluted</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|convoluted|[ˈkɒnvəlu:tɪd]|adj. very complicated and difficult to understand [[复杂]]难解的|[[intricate]], [[tortuous]]|
+[ˈkɒnvəlu:tɪd]
+adj. very complicated and difficult to understand [[复杂]]难解的
+[[intricate]], [[tortuous]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>peripheral</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|peripheral|[pəˈrɪfərəl]|adj. of, relating to, involving, or forming a periphery or surface part 边缘的|[[marginal]]|
+[pəˈrɪfərəl]
+adj. of, relating to, involving, or forming a periphery or surface part 边缘的
+[[marginal]]

@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>stun</strong></pre>
-|   |   |   |
-|---|---|---|
-|stun|[stʌn]|v. to surprise or upset very much 使惊讶|
+[stʌn]
+v. to surprise or upset very much 使惊讶

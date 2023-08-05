@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>qualm</strong></pre>
-|   |   |   |
-|---|---|---|
-|qualm|[kwɑm]|n. a feeling of uneasiness about a point 不安，疑虑|
+[kwɑm]
+n. a feeling of uneasiness about a point 不安，疑虑

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>comprehensive</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|comprehensive|[ˌkɒmprɪˈhensɪv]|adj. covering completely or broadly 全⾯的|[[exhaustive]], [[sweeping]], [[generic]], [[inclusive]], [[encyclopedic]]|
+[ˌkɒmprɪˈhensɪv]
+adj. covering completely or broadly 全⾯的
+[[exhaustive]], [[sweeping]], [[generic]], [[inclusive]], [[encyclopedic]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>plaintive</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|plaintive|[ˈpleɪntɪv]|adj. expressing suffering or sadness 悲伤的|[[elegiac]]|
+[ˈpleɪntɪv]
+adj. expressing suffering or sadness 悲伤的
+[[elegiac]]

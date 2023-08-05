@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>banish</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|banish|['bænɪʃ]|v. to send away [[驱逐]]|[[expel]], [[oust]]|
+['bænɪʃ]
+v. to send away [[驱逐]]
+[[expel]], [[oust]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>kindred</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|kindred|['kɪndrɪd]|adj. alike or similar 同类的，相似的|[[affiliated]]|
+['kɪndrɪd]
+adj. alike or similar 同类的，相似的
+[[affiliated]]

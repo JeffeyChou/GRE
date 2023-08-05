@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>analytical</strong></pre>
-|   |   |   |
-|---|---|---|
-|analytical [ˌænəˈlɪtɪkl]|adj. doing something involves the use of logical reasoning 善于分析的，冷静客观的|[[dispassionate]]|
+[ˌænəˈlɪtɪkl]
+adj. doing something involves the use of logical reasoning 善于分析的，冷静客观的
+[[dispassionate]]

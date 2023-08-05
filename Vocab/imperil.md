@@ -8,6 +8,6 @@ aliases:
 ---
 
 <pre><strong>imperil</strong></pre>
-|   |   |
-|---|---|
-|[ɪmˈpɛrəl]|v. to bring into peril: endanger 危及|
+
+[ɪmˈpɛrəl]
+v. to bring into peril: endanger 危及

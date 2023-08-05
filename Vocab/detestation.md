@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>detestation</strong></pre>
-|   |   |   |
-|---|---|---|
-|detestation|[ˌdi:te'steɪʃn]|n. extreme hatred or dislike 憎恶|
+[ˌdi:te'steɪʃn]
+n. extreme hatred or dislike 憎恶

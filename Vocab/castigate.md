@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>castigate</strong></pre>
-|   |   |   |
-|---|---|---|
-|castigate [ˈkæstɪgeɪt]|v. to criticize harshly 严厉[[批评]]|[[chastise]]|
+[ˈkæstɪgeɪt]
+v. to criticize harshly 严厉[[批评]]
+[[chastise]]

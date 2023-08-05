@@ -8,6 +8,6 @@ aliases:
 ---
 
 <pre><strong>fealty</strong></pre>
-|   |   |
-|---|---|
-|['fiːəltɪ]|n. loyalty to a person, group, etc. 忠诚|
+
+['fiːəltɪ]
+n. loyalty to a person, group, etc. 忠诚

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>terse</strong></pre>
-|   |   |   |
-|---|---|---|
-|terse [tɜ:s]|adj. brief and direct in a way that may see rude or unfriendly 简短的|[[laconic]], [[curt]], [[taciturn]], [[succinct]]|
+[tɜ:s]
+adj. brief and direct in a way that may see rude or unfriendly 简短的
+[[laconic]], [[curt]], [[taciturn]], [[succinct]]

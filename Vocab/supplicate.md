@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>supplicate</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|supplicate|['sʌplikeit]|v. to ask humbly and earnestly of 恳求|[[entreat]], [[solicit]]|
+['sʌplikeit]
+v. to ask humbly and earnestly of 恳求
+[[entreat]], [[solicit]]

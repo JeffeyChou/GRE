@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>laborious</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|laborious|[lə'bɔːrɪəs]|adj. devoted to labor 勤劳的|[[arduous]]|
+[lə'bɔːrɪəs]
+adj. devoted to labor 勤劳的
+[[arduous]]

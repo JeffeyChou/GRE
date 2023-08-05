@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>nuance</strong></pre>
-|   |   |   |
-|---|---|---|
-|nuance ['nju:ɑ:ns]|n. a very small difference in color, tone, meaning, etc. 细微差别|[[subtlety]]|
+['nju:ɑ:ns]
+n. a very small difference in color, tone, meaning, etc. 细微差别
+[[subtlety]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>long-winded</strong></pre>
-|   |   |   |
-|---|---|---|
-|long-winded ['lɔŋ'wɪndɪd]|adj. using too many words in speaking or writing 冗⻓的|[[verbose]], [[prolix]]|
+['lɔŋ'wɪndɪd]
+adj. using too many words in speaking or writing 冗⻓的
+[[verbose]], [[prolix]]

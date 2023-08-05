@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>sequester</strong></pre>
-|   |   |   |
-|---|---|---|
-|sequester|[sɪ'kwɛstɚ]|v. to set apart 隔绝|
+[sɪ'kwɛstɚ]
+v. to set apart 隔绝

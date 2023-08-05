@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>hone</strong></pre>
-|   |   |   |
-|---|---|---|
-|[həʊn]|v. to make more acute, intense, or effective 磨砺，提升|[[enhance]]|
+
+[həʊn]
+v. to make more acute, intense, or effective 磨砺，提升
+[[enhance]]

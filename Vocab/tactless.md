@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>tactless</strong></pre>
-|   |   |   |
-|---|---|---|
-|tactless|['tæktləs]|adj. not showing or having tact 笨拙的|
+['tæktləs]
+adj. not showing or having tact 笨拙的

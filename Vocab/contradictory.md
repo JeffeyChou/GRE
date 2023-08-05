@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>contradictory</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|contradictory|[ˌkɒntrəˈdɪktəri]|adj. involving or having information that disagrees with other information⽭盾的|[[dichotomous]]|
+[ˌkɒntrəˈdɪktəri]
+adj. involving or having information that disagrees with other information⽭盾的
+[[dichotomous]]

@@ -9,6 +9,4 @@ aliases:
 ---
 
 <pre><strong>simmer with</strong></pre>
-|   |   |
-|---|---|
-|simmer with|phrase. 内⼼充满|
+phrase. 内⼼充满

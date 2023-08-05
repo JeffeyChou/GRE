@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>misuse</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|misuse|[ˌmɪsˈju:z]|(1)v. to use incorrectly 误⽤(2)v. [[abuse]], [[mistreat]] 虐待|[[abuse]]|
+[ˌmɪsˈju:z]
+(1)v. to use incorrectly 误⽤(2)v. [[abuse]], [[mistreat]] 虐待
+[[abuse]]

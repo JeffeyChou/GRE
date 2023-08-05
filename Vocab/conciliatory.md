@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>conciliatory</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|conciliatory|[kənˈsɪliətəri]|adj. willing to end a disagreement with someone 愿意和解的|[[placatory]]|
+[kənˈsɪliətəri]
+adj. willing to end a disagreement with someone 愿意和解的
+[[placatory]]

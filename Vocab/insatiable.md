@@ -8,6 +8,8 @@ aliases:
 ---
 
 <pre><strong>insatiable</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|insatiable|[ɪn'seɪʃəbl]|adj. always wanting more 不满⾜的|[[voracious]], [[quenchless]]|
+
+insatiable
+[ɪn'seɪʃəbl]
+adj. always wanting more 不满⾜的
+[[voracious]], [[quenchless]]

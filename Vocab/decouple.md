@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>decouple</strong></pre>
-|   |   |   |
-|---|---|---|
-|decouple|[di:ˈkʌpl]|v. to eliminate the interrelationship of 使...没有联系|
+[di:ˈkʌpl]
+v. to eliminate the interrelationship of 使...没有联系

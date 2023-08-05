@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>civility</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|civility|[səˈvɪləti]|n. polite actions and words 礼貌|[[comity]]|
+[səˈvɪləti]
+n. polite actions and words 礼貌
+[[comity]]

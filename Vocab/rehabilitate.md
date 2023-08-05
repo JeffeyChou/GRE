@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>rehabilitate</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|rehabilitate|[ˌri:əˈbɪlɪteɪt]|v. to restore to a former state 恢复|[[restore]]|
+[ˌri:əˈbɪlɪteɪt]
+v. to restore to a former state 恢复
+[[restore]]

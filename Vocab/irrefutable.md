@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>irrefutable</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|irrefutable|['ɪrɪ'fjʊtəbl]|adj. not able to be proved wrong ⽆法反驳的|[[undeniable]]|
+['ɪrɪ'fjʊtəbl]
+adj. not able to be proved wrong ⽆法反驳的
+[[undeniable]]

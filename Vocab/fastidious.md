@@ -8,6 +8,6 @@ aliases:
 ---
 
 <pre><strong>fastidious</strong></pre>
-|   |   |
-|---|---|
-|[fæ'stɪdɪəs]|adj. showing or demanding excessive delicacy or care 挑剔的，极其注重细节的|
+
+[fæ'stɪdɪəs]
+adj. showing or demanding excessive delicacy or care 挑剔的，极其注重细节的

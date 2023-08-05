@@ -9,8 +9,8 @@ aliases:
 ---
 
 <pre><strong>profitmonger</strong></pre>
-|   |   |   |
-|---|---|---|
-|profitmonger|[ˈprɒfɪt'mʌŋgə]|n. 唯利是图的⼈，商⼈|
+[ˈprɒfɪt'mʌŋgə]
+n. 唯利是图的⼈，商⼈
+
 
 [[-monger]]

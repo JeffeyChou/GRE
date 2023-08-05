@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>crumble</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|crumble|['krʌmbl]|v. to break into small pieces 崩溃，破碎|[[disintegrate]]|
+['krʌmbl]
+v. to break into small pieces 崩溃，破碎
+[[disintegrate]]

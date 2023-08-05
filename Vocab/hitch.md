@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>hitch</strong></pre>
-|   |   |   |
-|---|---|---|
-|[hɪtʃ]|n. a hidden problem that makes something more complicated or difficultto do 故障|[[snag]]|
+
+[hɪtʃ]
+n. a hidden problem that makes something more complicated or difficultto do 故障
+[[snag]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>annihilate</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|annihilate|[ə'naɪəlet]|v. to destroy completely 消灭，毁灭|[[destroy]]|
+[ə'naɪəlet]
+v. to destroy completely 消灭，毁灭
+[[destroy]]

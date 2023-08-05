@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>prevaricate</strong></pre>
-|   |   |   |
-|---|---|---|
-|prevaricate|[prɪ'værə'ket]|v. to deviate from the truth 闪烁其词|
+[prɪ'værə'ket]
+v. to deviate from the truth 闪烁其词

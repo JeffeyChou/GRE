@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>plastic</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|plastic|[ˈplæstɪk]|(1)adj. capable of adapting to varying conditions 可塑的(2)adj. not real or sincere 做作的|[[malleable]]|
+[ˈplæstɪk]
+(1)adj. capable of adapting to varying conditions 可塑的(2)adj. not real or sincere 做作的
+[[malleable]]

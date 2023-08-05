@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>minuscule</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|minuscule|[ˈmɪnəskju:l]|adj. very small 极⼩的|[[diminutive]]|
+[ˈmɪnəskju:l]
+adj. very small 极⼩的
+[[diminutive]]

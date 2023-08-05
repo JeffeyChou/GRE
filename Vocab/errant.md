@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>errant</strong></pre>
-|   |   |   |
-|---|---|---|
-|errant [ˈerənt]|(1)adj. moving about aimlessly or irregularly 不定的(2)adj. behaving wrongly ⾏为错误的|[[wayward]]|
+[ˈerənt]
+(1)adj. moving about aimlessly or irregularly 不定的(2)adj. behaving wrongly ⾏为错误的
+[[wayward]]

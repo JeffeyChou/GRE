@@ -9,6 +9,7 @@ aliases:
 ---
 
 <pre><strong>surfeit</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|surfeit|[ˈsɜ:fɪt]|n. an amount that is too much or more than you need 过量|[[glut]], [[plethora]]|su
+[ˈsɜ:fɪt]
+n. an amount that is too much or more than you need 过量
+[[glut]], [[plethora]]
+su

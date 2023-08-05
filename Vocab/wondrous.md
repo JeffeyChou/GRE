@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>wondrous</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|wondrous|['wʌndrəs]|adj. causing wonder 奇妙的|[[amazing]]|
+['wʌndrəs]
+adj. causing wonder 奇妙的
+[[amazing]]

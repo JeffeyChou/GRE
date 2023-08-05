@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>suffocate</strong></pre>
-|   |   |   |
-|---|---|---|
-|suffocate|[ˈsʌfəkeɪt]|(1)v. to impede or stop the development of 抑制(2)v. to stop the respiration of 窒息|
+[ˈsʌfəkeɪt]
+(1)v. to impede or stop the development of 抑制(2)v. to stop the respiration of 窒息

@@ -9,7 +9,8 @@ aliases:
 ---
 
 <pre><strong>defy</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|defy|[dɪˈfaɪ]|v. to confront with assured power of resistance 蔑视|[[disregard]], [[flout]]|
+[dɪˈfaɪ]
+v. to confront with assured power of resistance 蔑视
+[[disregard]], [[flout]]
+
 [[defiant]]

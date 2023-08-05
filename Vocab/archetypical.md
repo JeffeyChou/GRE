@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>archetypical</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|archetypical|[ɑ:kiˈtipikəl]|adj. being a perfect example of something 典型的|[[classic]]|
+[ɑ:kiˈtipikəl]
+adj. being a perfect example of something 典型的
+[[classic]]

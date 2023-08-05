@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>heterogeneous</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|heterogeneous|[ˌhetərəˈdʒi:niəs]|adj. made up of parts that are different 各种各样的|[[disparate]], [[dissimilar]]|
+[ˌhetərəˈdʒi:niəs]
+adj. made up of parts that are different 各种各样的
+[[disparate]], [[dissimilar]]

@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>glut</strong></pre>
-|   |   |   |
-|---|---|---|
-|[glʌt]|n. too much of something 过量|[[surfeit]], [[plethora]]|
+
+[glʌt]
+n. too much of something 过量
+[[surfeit]], [[plethora]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>tribute</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|tribute|[ˈtrɪbju:t]|(1)n. something that you say, give, or do to show respect or affection forsomeone 称赞(2)n. money or goods that a ruler or country gives to another ruler orcountry especially for protection 贡品|[[encomium]]|
+[ˈtrɪbju:t]
+(1)n. something that you say, give, or do to show respect or affection forsomeone 称赞(2)n. money or goods that a ruler or country gives to another ruler orcountry especially for protection 贡品
+[[encomium]]

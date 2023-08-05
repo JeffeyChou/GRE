@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>canned</strong></pre>
-|   |   |   |
-|---|---|---|
-|canned [kænd]|adj. not original or special ⽆新意的|[[formulaic]]|
+[kænd]
+adj. not original or special ⽆新意的
+[[formulaic]]

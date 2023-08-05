@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>nebulous</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|nebulous|[ˈnebjələs]|adj. not clear 模糊的|[[vague]]|
+[ˈnebjələs]
+adj. not clear 模糊的
+[[vague]]

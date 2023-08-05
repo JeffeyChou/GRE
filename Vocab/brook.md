@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>brook</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|brook|[brʊk]|v. to allow to exist or happen 容忍|[[tolerate]]|
+[brʊk]
+v. to allow to exist or happen 容忍
+[[tolerate]]

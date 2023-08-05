@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>lionize</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|lionize|[ˈlaɪənaɪz]|v. to treat as a very important and famous person 崇拜，把...视为名⼈|[[eulogize]]|
+[ˈlaɪənaɪz]
+v. to treat as a very important and famous person 崇拜，把...视为名⼈
+[[eulogize]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>altruistic</strong></pre>
-|   |   |   |
-|---|---|---|
-|altruistic [ˌæltrʊ'ɪstɪk]|adj. showing concern for the happiness and welfare of other people rather than for yourself ⽆私的|[[benevolent]]|
+[ˌæltrʊ'ɪstɪk]
+adj. showing concern for the happiness and welfare of other people rather than for yourself ⽆私的
+[[benevolent]]

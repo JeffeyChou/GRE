@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>pertain</strong></pre>
-|   |   |   |
-|---|---|---|
-|pertain|[pəˈteɪn]|(1)v. to relate to someone or something 有关(2)v. to belong as a part, member, accessory or product 从属|
+[pəˈteɪn]
+(1)v. to relate to someone or something 有关(2)v. to belong as a part, member, accessory or product 从属

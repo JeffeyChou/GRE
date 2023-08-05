@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>lugubrious</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|lugubrious|[ləˈgu:briəs]|adj. full of sadness or sorrow 悲伤的|[[gloomy]]|
+[ləˈgu:briəs]
+adj. full of sadness or sorrow 悲伤的
+[[gloomy]]

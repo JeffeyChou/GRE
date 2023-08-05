@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>patchwork</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|patchwork|[ˈpætʃwɜ:k]|n. something that is made up of different things ⼤杂烩|[[hodgepodge]], [[pastiche]]|
+[ˈpætʃwɜ:k]
+n. something that is made up of different things ⼤杂烩
+[[hodgepodge]], [[pastiche]]

@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>hamstring</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ˈhæmstrɪŋ]|v. to damage or ruin the force or effectiveness of 使⽆能为⼒|[[impair]]|
+
+[ˈhæmstrɪŋ]
+v. to damage or ruin the force or effectiveness of 使⽆能为⼒
+[[impair]]

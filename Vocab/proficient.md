@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>proficient</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|proficient|[prə'fɪʃənt]|adj. good at doing something 精通的|[[adept]]|
+[prə'fɪʃənt]
+adj. good at doing something 精通的
+[[adept]]

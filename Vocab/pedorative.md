@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>pedorative</strong></pre>
-|   |   |   |
-|---|---|---|
-|pejorative|[pɪ'dʒɔrətɪv]|adj. insulting to someone or something 轻蔑的|
+pejorative
+[pɪ'dʒɔrətɪv]
+adj. insulting to someone or something 轻蔑的

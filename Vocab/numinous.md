@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>numinous</strong></pre>
-|   |   |   |
-|---|---|---|
-|numinous [ˈnju:mɪnəs]|adj. having a mysterious, holy, or spiritual quality 神圣的adj. supernatural, mysterious 超⾃然的，神秘的|[[occult]]|
+[ˈnju:mɪnəs]
+adj. having a mysterious, holy, or spiritual quality 神圣的adj. supernatural, mysterious 超⾃然的，神秘的
+[[occult]]

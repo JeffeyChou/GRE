@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>exiguous</strong></pre>
-|   |   |   |
-|---|---|---|
-|[egˈzɪgjuəs]|adj. excessive scanty 稀少的|[[tenuous]]|
+
+[egˈzɪgjuəs]
+adj. excessive scanty 稀少的
+[[tenuous]]

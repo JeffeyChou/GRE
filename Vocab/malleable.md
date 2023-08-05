@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>malleable</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|malleable|[ˈmæliəbl]|adj. capable of being easily changed or influenced 可塑的，易变的|[[plastic]]|
+[ˈmæliəbl]
+adj. capable of being easily changed or influenced 可塑的，易变的
+[[plastic]]

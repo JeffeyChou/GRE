@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>modicum</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|modicum|[ˈmɒdɪkəm]|n. a small amount 少量|[[dearth]]|
+[ˈmɒdɪkəm]
+n. a small amount 少量
+[[dearth]]

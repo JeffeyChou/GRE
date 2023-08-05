@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>prestige</strong></pre>
-|   |   |   |
-|---|---|---|
-|prestige|[preˈsti:ʒ]|n. the respect and admiration that someone or something gets for beingsuccessful or important 威望|
+[preˈsti:ʒ]
+n. the respect and admiration that someone or something gets for beingsuccessful or important 威望

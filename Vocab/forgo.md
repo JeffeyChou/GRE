@@ -9,6 +9,5 @@ created: 2023-08-01 18:11:04
 ---
 
 <pre><strong>forgo</strong></pre>
-|   |   |   |
-|---|---|---|
-|forgo|[fɔ:'ɡəʊ]|v. to give up the use or enjoyment of 放弃|
+[fɔ:'ɡəʊ]
+v. to give up the use or enjoyment of 放弃

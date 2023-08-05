@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>synonymous</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|synonymous|[sɪˈnɒnɪməs]|adj. having the same connotations, implications, or reference 同义的|[[tantamount]]|
+[sɪˈnɒnɪməs]
+adj. having the same connotations, implications, or reference 同义的
+[[tantamount]]

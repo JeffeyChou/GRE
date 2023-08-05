@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>morbid</strong></pre>
-|   |   |   |
-|---|---|---|
-|morbid|['mɔrbɪd]|adj. not healthy or normal 病态的|
+['mɔrbɪd]
+adj. not healthy or normal 病态的

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>pugnacious</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|pugnacious|[pʌgˈneɪʃəs]|adj. showing a readiness or desire to fight or argue 好⽃的|[[truculent]], [[belligerent]]|
+[pʌgˈneɪʃəs]
+adj. showing a readiness or desire to fight or argue 好⽃的
+[[truculent]], [[belligerent]]

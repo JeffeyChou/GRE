@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>mimic</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|mimic|[ˈmɪmɪk]|(1)v. to copy especially of humor 模仿(2)v. to naturally look like 和...相似|[[camouflage]], [[replicate]]|
+[ˈmɪmɪk]
+(1)v. to copy especially of humor 模仿(2)v. to naturally look like 和...相似
+[[camouflage]], [[replicate]]

@@ -9,7 +9,8 @@ aliases:
 ---
 
 <pre><strong>enigmatic</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|enigmatic|[ˌenɪgˈmætɪk]|adj. full of mystery and difficult to understand 神秘难懂的|[[perplexing]]|
+[ˌenɪgˈmætɪk]
+adj. full of mystery and difficult to understand 神秘难懂的
+[[perplexing]]
+
 [[enigma]]

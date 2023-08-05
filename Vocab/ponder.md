@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>ponder</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|ponder|[ˈpɒndə]|v. to think about or consider carefully 深思熟虑|[[contemplate]]|
+[ˈpɒndə]
+v. to think about or consider carefully 深思熟虑
+[[contemplate]]

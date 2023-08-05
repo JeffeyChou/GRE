@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>unerring</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|unerring|[ʌnˈɜ:rɪŋ]|adj. always right and accurate 万⽆⼀失的|[[settled]]|
+[ʌnˈɜ:rɪŋ]
+adj. always right and accurate 万⽆⼀失的
+[[settled]]

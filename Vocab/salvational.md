@@ -9,6 +9,4 @@ aliases:
 ---
 
 <pre><strong>salvational</strong></pre>
-|   |   |
-|---|---|
-|salvational|adj. 救世主般的|
+adj. 救世主般的

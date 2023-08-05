@@ -8,6 +8,6 @@ aliases:
 ---
 
 <pre><strong>impotent</strong></pre>
-|   |   |
-|---|---|
-|['ɪmpətənt]|adj. lacking power or strength ⽆能的，⽆⼒的|
+
+['ɪmpətənt]
+adj. lacking power or strength ⽆能的，⽆⼒的

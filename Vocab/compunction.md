@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>compunction</strong></pre>
-|   |   |   |
-|---|---|---|
-|compunction|[kəmˈpʌŋkʃn]|n. a feeling of guilt or regret 后悔|
+[kəmˈpʌŋkʃn]
+n. a feeling of guilt or regret 后悔

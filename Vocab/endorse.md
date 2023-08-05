@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>endorse</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|endorse|[ɪnˈdɔ:s]|v. to publicly or officially say that you support or approve of ⽀持|[[sanction]], [[commend]], [[support]], [[authorize]]|
+[ɪnˈdɔ:s]
+v. to publicly or officially say that you support or approve of ⽀持
+[[sanction]], [[commend]], [[support]], [[authorize]]

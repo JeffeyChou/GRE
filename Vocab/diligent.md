@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>diligent</strong></pre>
-|   |   |   |
-|---|---|---|
-|diligent [ˈdɪlɪdʒənt]|adj. characterized by steady, earnest, and energetic effort 勤奋的|[[industrious]]|
+[ˈdɪlɪdʒənt]
+adj. characterized by steady, earnest, and energetic effort 勤奋的
+[[industrious]]

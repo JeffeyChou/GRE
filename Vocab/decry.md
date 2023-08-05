@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>decry</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|decry|[dɪˈkraɪ]|v. to say publicly and forcefully that you regard as bad, wrong, etc. 公开[[谴责]]|[[condemn]]|
+[dɪˈkraɪ]
+v. to say publicly and forcefully that you regard as bad, wrong, etc. 公开[[谴责]]
+[[condemn]]

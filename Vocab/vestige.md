@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>vestige</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|vestige|[ˈvestɪdʒ]|n. the last small part that remains of something that existed before 残留部分|[[relic]]|
+[ˈvestɪdʒ]
+n. the last small part that remains of something that existed before 残留部分
+[[relic]]

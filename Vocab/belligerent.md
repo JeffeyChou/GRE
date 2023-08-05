@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>belligerent</strong></pre>
-|   |   |   |
-|---|---|---|
-|belligerent [bi'lidʒərənt]|adj. feeling or showing readiness to fight 好战的|[[pugnacious]]， [[truculent]]|
+[bi'lidʒərənt]
+adj. feeling or showing readiness to fight 好战的
+[[pugnacious]]， [[truculent]]

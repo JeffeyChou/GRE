@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>prescriptive</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|prescriptive|[prɪˈskrɪptɪv]|adj. giving exact rules, directions, or instructions about how you should do something 指定的，规定的|[[exacting]]|
+[prɪˈskrɪptɪv]
+adj. giving exact rules, directions, or instructions about how you should do something 指定的，规定的
+[[exacting]]

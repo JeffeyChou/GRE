@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>unalloyed</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|unalloyed|[ˌʌnəˈlɔɪd]|adj. not mixed with something else 纯粹的|[[unqualified]]|
+[ˌʌnəˈlɔɪd]
+adj. not mixed with something else 纯粹的
+[[unqualified]]

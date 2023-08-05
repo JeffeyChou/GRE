@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>rapprochement</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|rapprochement|[ræ'prɒʃmɒ̃]|n. the development of friendlier relations between countries or groups of people who have been enemies 和解|[[reconciliation]]|
+[ræ'prɒʃmɒ̃]
+n. the development of friendlier relations between countries or groups of people who have been enemies 和解
+[[reconciliation]]

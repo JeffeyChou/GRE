@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>partisan</strong></pre>
-|   |   |   |
-|---|---|---|
-|partisan|['pɑrtəzn]|adj. devoted to or biased in support of a party, group, or cause 有偏⻅的|
+['pɑrtəzn]
+adj. devoted to or biased in support of a party, group, or cause 有偏⻅的

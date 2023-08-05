@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>recast</strong></pre>
-|   |   |   |
-|---|---|---|
-|recast|[ˌri:ˈkɑ:st]|v. remodel, refashion 改写|
+[ˌri:ˈkɑ:st]
+v. remodel, refashion 改写

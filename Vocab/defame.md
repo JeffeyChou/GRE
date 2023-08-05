@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>defame</strong></pre>
-|   |   |   |
-|---|---|---|
-|defame|[di'feim]|v. to hurt the reputation of especially by saying things that are false or unfair 诽谤|
+[di'feim]
+v. to hurt the reputation of especially by saying things that are false or unfair 诽谤

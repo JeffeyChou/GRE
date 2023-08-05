@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>dexterous</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|dexterous|[ˈdekstrəs]|adj. having or showing great skills or cleverness 机敏的|[[nimble]]|
+[ˈdekstrəs]
+adj. having or showing great skills or cleverness 机敏的
+[[nimble]]

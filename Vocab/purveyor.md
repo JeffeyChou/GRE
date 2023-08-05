@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>purveyor</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|purveyor|[pərˈveɪə]|n. one that purveys 供应商|[[supplier]]|
+[pərˈveɪə]
+n. one that purveys 供应商
+[[supplier]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>witless</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|witless|[ˈwɪtləs]|adj. very foolish or stupid 愚蠢的|[[dense]]|
+[ˈwɪtləs]
+adj. very foolish or stupid 愚蠢的
+[[dense]]

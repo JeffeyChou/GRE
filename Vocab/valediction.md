@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>valediction</strong></pre>
-|   |   |   |
-|---|---|---|
-|valediction|[ˌvælɪˈdɪkʃn]|n. an act of bidding farewell 告别|
+[ˌvælɪˈdɪkʃn]
+n. an act of bidding farewell 告别

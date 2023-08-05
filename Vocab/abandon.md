@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>abandon</strong></pre>
-|   |   |   |
-|---|---|---|
-|abandon [əˈbændən]|(1)v. to leave and never return to 放弃<mark style="background: #ABF7F7A6;">(2)v. to give over unrestrainedly 放纵</mark>|[[desert]], [[relinquish]]|
+[əˈbændən]
+(1)v. to leave and never return to 放弃<mark style="background: #ABF7F7A6;">(2)v. to give over unrestrainedly 放纵</mark>
+[[desert]], [[relinquish]]

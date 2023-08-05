@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>diatribe</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|diatribe|[ˈdaɪətraɪb]|n. an angry and usually long speech or piece of writing that strongly criticizes someone or something 抨击|[[rant]]|
+[ˈdaɪətraɪb]
+n. an angry and usually long speech or piece of writing that strongly criticizes someone or something 抨击
+[[rant]]

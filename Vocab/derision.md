@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>derision</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|derision|[dɪˈrɪʒn]|n. the feeling that people express when they criticize and laugh atsomeone or something in an insulting way 嘲笑|[[mockery]]|
+[dɪˈrɪʒn]
+n. the feeling that people express when they criticize and laugh atsomeone or something in an insulting way 嘲笑
+[[mockery]]

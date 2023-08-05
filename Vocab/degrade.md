@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>degrade</strong></pre>
-|   |   |   |
-|---|---|---|
-|degrade|[dɪ'ɡred]|(1)v. to lower in grade, rank, or status 贬低(2)v. to make the quality of worse 恶化<mark style="background: #ABF7F7A6;">(3)v. to wear down by erosion 腐蚀</mark>|
+[dɪ'ɡred]
+(1)v. to lower in grade, rank, or status 贬低(2)v. to make the quality of worse 恶化<mark style="background: #ABF7F7A6;">(3)v. to wear down by erosion 腐蚀</mark>

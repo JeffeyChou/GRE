@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>exacting</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ɪgˈzæktɪŋ]|adj. requiring much time, attention, or effort from someone 严格的|[[prescriptive]], [[rigorous]], [[demanding]]|
+
+[ɪgˈzæktɪŋ]
+adj. requiring much time, attention, or effort from someone 严格的
+[[prescriptive]], [[rigorous]], [[demanding]]

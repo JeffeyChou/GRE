@@ -9,7 +9,7 @@ aliases:
 ---
 
 <pre><strong>staunch</strong></pre>
-|   |   |
-|---|---|
-|staunch [stɔːntʃ]|adj. very devoted or loyal to a person, belief, or cause 坚定的，忠诚的|
+[stɔːntʃ]
+adj. very devoted or loyal to a person, belief, or cause 坚定的，忠诚的
+
 [[stalwart]]

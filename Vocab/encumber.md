@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>encumber</strong></pre>
-|   |   |   |
-|---|---|---|
-|encumber|[ɪnˈkʌmbə]|v. to impede or hamper the function or activity of 妨碍|
+[ɪnˈkʌmbə]
+v. to impede or hamper the function or activity of 妨碍

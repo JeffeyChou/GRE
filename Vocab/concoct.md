@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>concoct</strong></pre>
-|   |   |   |
-|---|---|---|
-|concoct|[kənˈkɒkt]|(1)v. to make by mixing different things together 混合⽽制(2)v. to invent or develop 编造|
+[kənˈkɒkt]
+(1)v. to make by mixing different things together 混合⽽制(2)v. to invent or develop 编造

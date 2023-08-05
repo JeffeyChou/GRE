@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>benign</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|benign|[bɪ'naɪn]|adj. showing kindness and gentleness 和善的|[[innocuous]], [[anodyne]]|
+[bɪ'naɪn]
+adj. showing kindness and gentleness 和善的
+[[innocuous]], [[anodyne]]

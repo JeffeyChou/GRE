@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>decline</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|decline|[dɪˈklaɪn]|(1)v. to become worse in condition or quality [[衰]]落(2)v. to say that you will not or cannot do something 拒绝|[[wane]]|
+[dɪˈklaɪn]
+(1)v. to become worse in condition or quality [[衰]]落(2)v. to say that you will not or cannot do something 拒绝
+[[wane]]

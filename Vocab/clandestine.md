@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>clandestine</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|clandestine|[klænˈdestɪn]|adj. marked by, held in, or conducted with secrecy 秘密的|[[covert]], [[surreptitious]]|
+[klænˈdestɪn]
+adj. marked by, held in, or conducted with secrecy 秘密的
+[[covert]], [[surreptitious]]

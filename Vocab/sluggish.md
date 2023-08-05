@@ -9,7 +9,8 @@ aliases:
 ---
 
 <pre><strong>sluggish</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|sluggish|[ˈslʌgɪʃ]|adj. moving slowly or lazily 缓慢的|dilatory, [[listless]]|
+[ˈslʌgɪʃ]
+adj. moving slowly or lazily 缓慢的
+dilatory, [[listless]]
+
 [[slug]]

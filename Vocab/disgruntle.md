@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>disgruntle</strong></pre>
-|   |   |   |
-|---|---|---|
-|disgruntle [dɪs'ɡrʌntl]|v. to make ill-humored or discontented 使不⾼兴|[[crestfallen]]|
+[dɪs'ɡrʌntl]
+v. to make ill-humored or discontented 使不⾼兴
+[[crestfallen]]

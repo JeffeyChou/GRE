@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>shrink</strong></pre>
-|   |   |   |
-|---|---|---|
-|shrink [ʃrɪŋk]|(1)v. to quickly move away from something shocking, frightening, ordisgusting 退缩，回避(2)v. to become smaller in amount, size, or value 缩⼩，减少|[[recoil]]|
+[ʃrɪŋk]
+(1)v. to quickly move away from something shocking, frightening, ordisgusting 退缩，回避(2)v. to become smaller in amount, size, or value 缩⼩，减少
+[[recoil]]

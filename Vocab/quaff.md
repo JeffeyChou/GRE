@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>quaff</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|quaff|[kwɒf]|v. to drink a large amount of quickly 痛饮|[[imbibe]]|
+[kwɒf]
+v. to drink a large amount of quickly 痛饮
+[[imbibe]]

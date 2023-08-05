@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>startling</strong></pre>
-|   |   |   |
-|---|---|---|
-|startling|['stɑrtlɪŋ]|adj. very surprising, shocking, or frightening 令⼈惊讶的|
+['stɑrtlɪŋ]
+adj. very surprising, shocking, or frightening 令⼈惊讶的

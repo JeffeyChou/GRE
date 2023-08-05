@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>bucolic</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|bucolic|[bju:ˈkɒlɪk]|adj. of or relating to the country or country life 乡村的|[[pastoral]]|
+[bju:ˈkɒlɪk]
+adj. of or relating to the country or country life 乡村的
+[[pastoral]]

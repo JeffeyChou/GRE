@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>taciturn</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|taciturn|[ˈtæsɪtɜ:n]|adj. temperamentally disinclined to talk 沉默寡⾔的|[[laconic]], [[terse]], [[curt]], [[reticent]]|
+[ˈtæsɪtɜ:n]
+adj. temperamentally disinclined to talk 沉默寡⾔的
+[[laconic]], [[terse]], [[curt]], [[reticent]]

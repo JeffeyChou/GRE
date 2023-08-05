@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>glean</strong></pre>
-|   |   |   |
-|---|---|---|
-|[gli:n]|v. to gather or collect in a gradual way 搜集，获取|[[obtain]]|
+
+[gli:n]
+v. to gather or collect in a gradual way 搜集，获取
+[[obtain]]

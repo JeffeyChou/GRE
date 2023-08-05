@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>rant</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|rant|[rænt]|(1)v. to talk loudly and in a way that shows anger 咆哮(2)v. to [[scold]] vehemently 严厉[[批评]]|[[diatribe]]|
+[rænt]
+(1)v. to talk loudly and in a way that shows anger 咆哮(2)v. to [[scold]] vehemently 严厉[[批评]]
+[[diatribe]]

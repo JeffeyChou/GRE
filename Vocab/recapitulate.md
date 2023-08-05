@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>recapitulate</strong></pre>
-|   |   |   |
-|---|---|---|
-|recapitulate|['rikə'pɪtʃə'let]|v. to give a brief summary of something 概括|
+['rikə'pɪtʃə'let]
+v. to give a brief summary of something 概括

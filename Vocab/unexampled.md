@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>unexampled</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|unexampled|[ˌʌnɪg'zɑ:mpld]|adj. having no example or parallel 前所未有的|[[novel]]|
+[ˌʌnɪg'zɑ:mpld]
+adj. having no example or parallel 前所未有的
+[[novel]]

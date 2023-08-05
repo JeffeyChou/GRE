@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>peregrinate</strong></pre>
-|   |   |   |
-|---|---|---|
-|peregrinate|['perɪgrɪˌneɪt]|v. to walk or travel over 旅⾏|
+['perɪgrɪˌneɪt]
+v. to walk or travel over 旅⾏

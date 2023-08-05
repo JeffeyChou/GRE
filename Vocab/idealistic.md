@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>idealistic</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ˌaɪdiəˈlɪstɪk]|adj. of or relating to idealists or idealism 空想的|[[quixotic]]|
+
+[ˌaɪdiəˈlɪstɪk]
+adj. of or relating to idealists or idealism 空想的
+[[quixotic]]

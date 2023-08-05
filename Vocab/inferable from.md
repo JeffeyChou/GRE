@@ -8,6 +8,8 @@ aliases:
 ---
 
 <pre><strong>inferable from</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|inferable from|[ɪn'fɜ:rəbl] [frəm]|phrase. 能从...推断的|[[entailed by]]|
+
+inferable from
+[ɪn'fɜ:rəbl] [frəm]
+phrase. 能从...推断的
+[[entailed by]]

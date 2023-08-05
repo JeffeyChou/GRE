@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>abstinence</strong></pre>
-|   |   |
-|---|---|
-|abstinence ['æbstɪnəns]|n. the practice of not doing or having something that is wanted or enjoyable 节制|
+['æbstɪnəns]
+n. the practice of not doing or having something that is wanted or enjoyable 节制

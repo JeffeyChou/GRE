@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>offset</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|offset|[,ɔf'sɛt]|v. to create an equal balance between two things 补偿，抵消|[[compensate]]|
+[,ɔf'sɛt]
+v. to create an equal balance between two things 补偿，抵消
+[[compensate]]

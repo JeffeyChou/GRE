@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>jejune</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|jejune|[dʒɪˈdʒu:n]|(1)adj. not interesting 乏味的(2)adj. too simple 幼稚的|[[vapid]]|
+[dʒɪˈdʒu:n]
+(1)adj. not interesting 乏味的(2)adj. too simple 幼稚的
+[[vapid]]

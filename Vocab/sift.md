@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>sift</strong></pre>
-|   |   |
-|---|---|
-|sift ['sɪft]|v. to go through very carefully in order to find something useful or valuable 筛选|
+['sɪft]
+v. to go through very carefully in order to find something useful or valuable 筛选

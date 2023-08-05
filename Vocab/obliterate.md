@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>obliterate</strong></pre>
-|   |   |   |
-|---|---|---|
-|obliterate|[əˈblɪtəreɪt]|v. to destroy completely so that nothing is left 清除，摧毁|
+[əˈblɪtəreɪt]
+v. to destroy completely so that nothing is left 清除，摧毁

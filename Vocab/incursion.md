@@ -8,6 +8,6 @@ aliases:
 ---
 
 <pre><strong>incursion</strong></pre>
-|   |   |
-|---|---|
-|[ɪnˈkɜ:ʃn]|n. a sudden invasion or attack ⼊侵|
+
+[ɪnˈkɜ:ʃn]
+n. a sudden invasion or attack ⼊侵

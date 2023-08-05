@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>feigned</strong></pre>
-|   |   |   |
-|---|---|---|
-|[feɪnd]|adj. not genuine or real 假的|[[false]]|
+
+[feɪnd]
+adj. not genuine or real 假的
+[[false]]

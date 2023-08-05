@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>germane</strong></pre>
-|   |   |   |
-|---|---|---|
-|[dʒɜ:ˈmeɪn]|adj. relating to a subject in an appropriate way 密切相关的|[[relevant]], [[apposite]]|
+
+[dʒɜ:ˈmeɪn]
+adj. relating to a subject in an appropriate way 密切相关的
+[[relevant]], [[apposite]]

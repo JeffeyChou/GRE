@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>preachy</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|preachy|[ˈpri:tʃi]|adj. trying to teach something in a way that is annoying or unwanted 爱说教的|[[sanctimonious]], [[didactic]]|
+[ˈpri:tʃi]
+adj. trying to teach something in a way that is annoying or unwanted 爱说教的
+[[sanctimonious]], [[didactic]]

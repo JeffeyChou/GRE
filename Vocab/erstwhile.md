@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>erstwhile</strong></pre>
-|   |   |   |
-|---|---|---|
-|erstwhile [ˈɜ:stwaɪl]|adj. in the past 过去的|[[onetime]]|
+[ˈɜ:stwaɪl]
+adj. in the past 过去的
+[[onetime]]

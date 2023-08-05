@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>corroborate</strong></pre>
-|   |   |   |
-|---|---|---|
-|corroborate|[kə'rɑbəret]|v. to support with evidence or authority 证实|
+[kə'rɑbəret]
+v. to support with evidence or authority 证实

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>bolster</strong></pre>
-|   |   |   |
-|---|---|---|
-|bolster [ˈbəʊlstə]|v. to give support to [[⽀持]]|[[buttress]], [[prop up]]|
+[ˈbəʊlstə]
+v. to give support to [[⽀持]]
+[[buttress]], [[prop up]]

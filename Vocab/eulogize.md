@@ -8,6 +8,8 @@ aliases:
 ---
 
 <pre><strong>eulogize</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ˈju:lədʒaɪz]|v. to speak or write in high praise of 赞美|[[lionize]]|
+
+[ˈju:lədʒaɪz]
+v. to speak or write in high praise of 赞美
+[[lionize]]
+

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>pellucid</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|pellucid|[pəˈlu:sɪd]|adj. very clear 清晰的|[[limpid]]|
+[pəˈlu:sɪd]
+adj. very clear 清晰的
+[[limpid]]

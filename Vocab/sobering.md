@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>sobering</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|sobering|[ˈsəʊbərɪŋ]|adj. making you feel serious and thoughtful 严肃的|[[staid]]|
+[ˈsəʊbərɪŋ]
+adj. making you feel serious and thoughtful 严肃的
+[[staid]]

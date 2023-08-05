@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>flummox</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ˈflʌməks]|v. confuse 使困惑|[[confound]]|
+
+[ˈflʌməks]
+v. confuse 使困惑
+[[confound]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>buoy</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|buoy|[bɔɪ]|v. to cause to feel happy or confident 使振奋|[[help]]|
+[bɔɪ]
+v. to cause to feel happy or confident 使振奋
+[[help]]

@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>impecunious</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ˌɪmpɪˈkju:niəs]|adj. having little or no money 贫穷的|[[indigent]]|
+
+[ˌɪmpɪˈkju:niəs]
+adj. having little or no money 贫穷的
+[[indigent]]

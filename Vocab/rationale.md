@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>rationale</strong></pre>
-|   |   |   |
-|---|---|---|
-|rationale|[ˌræʃəˈnɑ:l]|n. the reason or explanation for something 根本原因，逻辑依据|
+[ˌræʃəˈnɑ:l]
+n. the reason or explanation for something 根本原因，逻辑依据

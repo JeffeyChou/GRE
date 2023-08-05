@@ -8,6 +8,6 @@ aliases:
 ---
 
 <pre><strong>incommensurable</strong></pre>
-|   |   |
-|---|---|
-|[ˌɪnkəˈmenʃərəbl]|adj. not commensurable broadly 不能相⽐的|
+
+[ˌɪnkəˈmenʃərəbl]
+adj. not commensurable broadly 不能相⽐的

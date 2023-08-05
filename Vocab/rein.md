@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>rein</strong></pre>
-|   |   |   |
-|---|---|---|
-|rein|[reɪn]|v. to control or direct with or as if with reins 统治，控制|
+[reɪn]
+v. to control or direct with or as if with reins 统治，控制

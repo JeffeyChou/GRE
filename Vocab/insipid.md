@@ -8,6 +8,8 @@ aliases:
 ---
 
 <pre><strong>insipid</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|insipid|[ɪnˈsɪpɪd]|adj. not interesting or exciting 枯燥乏味的|[[bland]]|
+
+insipid
+[ɪnˈsɪpɪd]
+adj. not interesting or exciting 枯燥乏味的
+[[bland]]

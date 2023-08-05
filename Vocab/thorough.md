@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>thorough</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|thorough|[ˈθʌrə]|(1)adj. careful about doing something in an accurate and exact way 周密的(2)adj. complete or absolute 彻底的|[[meticulous]]|
+[ˈθʌrə]
+(1)adj. careful about doing something in an accurate and exact way 周密的(2)adj. complete or absolute 彻底的
+[[meticulous]]

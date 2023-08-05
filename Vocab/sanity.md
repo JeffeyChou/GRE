@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>sanity</strong></pre>
-|   |   |   |
-|---|---|---|
-|sanity|[ˈsænəti]|(1)n. the condition of having a healthy mind 精神正常(2)n. the condition of being based on reason or good judgment 通情达理|
+[ˈsænəti]
+(1)n. the condition of having a healthy mind 精神正常(2)n. the condition of being based on reason or good judgment 通情达理

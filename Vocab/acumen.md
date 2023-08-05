@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>acumen</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|acumen|[əˈkjumən]|n. the ability to think clearly and make good decisions 敏锐|[[shrewdness]]|
+[əˈkjumən]
+n. the ability to think clearly and make good decisions 敏锐
+[[shrewdness]]

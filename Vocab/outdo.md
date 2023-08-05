@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>outdo</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|outdo|[ˌaʊtˈdu:]|v. to be better than 超过|[[eclipse]], [[outstrip]]|
+[ˌaʊtˈdu:]
+v. to be better than 超过
+[[eclipse]], [[outstrip]]

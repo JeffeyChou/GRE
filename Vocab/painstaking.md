@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>painstaking</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|painstaking|[ˈpeɪnzteɪkɪŋ]|adj. showing or done with great care and effort 煞费苦⼼的|[[meticulous]]|
+[ˈpeɪnzteɪkɪŋ]
+adj. showing or done with great care and effort 煞费苦⼼的
+[[meticulous]]

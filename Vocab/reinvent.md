@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>reinvent</strong></pre>
-|   |   |   |
-|---|---|---|
-|reinvent|[ˌriɪnˈvɛnt]|v. to make major changes or improvements to 改造|
+[ˌriɪnˈvɛnt]
+v. to make major changes or improvements to 改造

@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>hyperbole</strong></pre>
-|   |   |   |
-|---|---|---|
-|[haɪˈpɜ:bəli]|n. language that describes something as better or worse than it really is夸⼤|[[exaggeration]]|
+
+[haɪˈpɜ:bəli]
+n. language that describes something as better or worse than it really is夸⼤
+[[exaggeration]]

@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>conducive</strong></pre>
-|   |   |   |
-|---|---|---|
-|conducive|[kən'dusɪv]|adj. making it easy, possible, or likely for something to happen or exist有助于...的|
+[kən'dusɪv]
+adj. making it easy, possible, or likely for something to happen or exist有助于...的

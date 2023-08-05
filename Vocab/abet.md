@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>abet</strong></pre>
-|   |   |   |
-|---|---|---|
-|abet [ə'bet]|v. to actively [[second]] and encourage ⽀持，怂恿|[[instigate]]|
+[ə'bet]
+v. to actively [[second]] and encourage ⽀持，怂恿
+[[instigate]]

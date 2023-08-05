@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>vitriolic</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|vitriolic|[,vɪtrɪ'ɑlɪk]|adj. bitterly scathing 尖酸刻薄的|acerbic, [[opprobrium]]|
+[,vɪtrɪ'ɑlɪk]
+adj. bitterly scathing 尖酸刻薄的
+acerbic, [[opprobrium]]

@@ -9,7 +9,8 @@ aliases:
 ---
 
 <pre><strong>sidestep</strong></pre>
-|   |   |   |
-|---|---|---|
-|sidestep [ˈsaɪdstep]|v. bypass, evade 回避|[[circumvent]]|
+[ˈsaɪdstep]
+v. bypass, evade 回避
+[[circumvent]]
+
 [[shy away]], [[shun]], [[shrink]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>outmoded</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|outmoded|[aʊt'məʊdɪd]|adj. not modern or current 过时的|[[unfashionable]], [[obsolete]], [[fusty]]|
+[aʊt'məʊdɪd]
+adj. not modern or current 过时的
+[[unfashionable]], [[obsolete]], [[fusty]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>vigilant</strong></pre>
-|   |   |   |
-|---|---|---|
-|vigilant ['vɪdʒələnt]|adj. carefully noticing problems or signs of danger 警惕的|[[careful]]|
+['vɪdʒələnt]
+adj. carefully noticing problems or signs of danger 警惕的
+[[careful]]

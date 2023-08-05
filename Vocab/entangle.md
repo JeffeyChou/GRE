@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>entangle</strong></pre>
-|   |   |
-|---|---|
-|entangle [ɪn'tæŋgl]|v. to cause to get caught in or twisted with something else 使纠缠|
+[ɪn'tæŋgl]
+v. to cause to get caught in or twisted with something else 使纠缠

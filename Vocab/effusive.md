@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>effusive</strong></pre>
-|   |   |   |
-|---|---|---|
-|effusive [ɪˈfju:sɪv]|adj. expressing a lot of emotion 溢于⾔表的，感情丰富的|[[emotional]]|
+[ɪˈfju:sɪv]
+adj. expressing a lot of emotion 溢于⾔表的，感情丰富的
+[[emotional]]

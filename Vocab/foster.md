@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>foster</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ˈfɒstə]|(1)v. affording, receiving, or sharing nurture or parental care though notrelated by blood or legal ties 养育(2)v. to help grow or develop 促进|[[spur]], [[adop]]|
+
+[ˈfɒstə]
+(1)v. affording, receiving, or sharing nurture or parental care though notrelated by blood or legal ties 养育(2)v. to help grow or develop 促进
+[[spur]], [[adop]]

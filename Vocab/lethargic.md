@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>lethargic</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|lethargic|[lə'θɑ:dʒɪk]|adj. feeling a lack of energy or a lack of interest in doing things ⽆精打采的|[[somnolent]], [[slumberous]]|
+[lə'θɑ:dʒɪk]
+adj. feeling a lack of energy or a lack of interest in doing things ⽆精打采的
+[[somnolent]], [[slumberous]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>composed</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|composed|[kəmˈpəʊzd]|adj. calm and in control of your emotions 镇定的|[[unperturbed]], [[collected]], [[coolheaded]]|
+[kəmˈpəʊzd]
+adj. calm and in control of your emotions 镇定的
+[[unperturbed]], [[collected]], [[coolheaded]]

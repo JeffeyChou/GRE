@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>snobbish</strong></pre>
-|   |   |   |
-|---|---|---|
-|snobbish|[ˈsnɑ:bɪʃ]|adj. being, characteristic of, or befitting a snob 势利的|
+[ˈsnɑ:bɪʃ]
+adj. being, characteristic of, or befitting a snob 势利的

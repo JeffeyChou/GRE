@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>cryptic</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|cryptic|[ˈkrɪptɪk]|adj. difficult to understand 难解的|[[elusive]]|
+[ˈkrɪptɪk]
+adj. difficult to understand 难解的
+[[elusive]]

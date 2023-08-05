@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>novice</strong></pre>
-|   |   |   |
-|---|---|---|
-|novice [ˈnɒvɪs]|n. a person who has just started learning or doing something 新⼿|[[tyro]]|
+[ˈnɒvɪs]
+n. a person who has just started learning or doing something 新⼿
+[[tyro]]

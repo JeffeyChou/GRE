@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>caterwaul</strong></pre>
-|   |   |   |
-|---|---|---|
-|caterwaul [ˈkætəwɔ:l]|v. to make a very loud and unpleasant sound 发出让⼈不爽的噪⾳|[[shriek]]|c
+[ˈkætəwɔ:l]
+v. to make a very loud and unpleasant sound 发出让⼈不爽的噪⾳
+[[shriek]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>dilatory</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|dilatory|[ˈdɪlətəri]|adj. characterized by procrastination 拖延的|[[sluggish]], [[remiss]], [[laggard]]|
+[ˈdɪlətəri]
+adj. characterized by procrastination 拖延的
+[[sluggish]], [[remiss]], [[laggard]]

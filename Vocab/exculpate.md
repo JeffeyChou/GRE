@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>exculpate</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ˈekskʌlpeɪt]|v. to prove that someone is not guilty of doing something wrong 开脱罪⾏|[[vindicate]]|
+
+[ˈekskʌlpeɪt]
+v. to prove that someone is not guilty of doing something wrong 开脱罪⾏
+[[vindicate]]

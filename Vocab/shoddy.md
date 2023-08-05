@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>shoddy</strong></pre>
-|   |   |
-|---|---|
-|shoddy ['ʃɑdi]|adj. poorly done or made 粗制滥造的|
+['ʃɑdi]
+adj. poorly done or made 粗制滥造的

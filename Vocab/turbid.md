@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>turbid</strong></pre>
-|   |   |   |
-|---|---|---|
-|turbid|['tɜːbɪd]|adj. cloudy or muddy 浑浊的，混乱的|
+['tɜːbɪd]
+adj. cloudy or muddy 浑浊的，混乱的

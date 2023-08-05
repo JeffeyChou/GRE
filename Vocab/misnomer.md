@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>misnomer</strong></pre>
-|   |   |   |
-|---|---|---|
-|misnomer|[,mɪs'nomɚ]|n. a name that is wrong or not proper or appropriate 名称误⽤|
+[,mɪs'nomɚ]
+n. a name that is wrong or not proper or appropriate 名称误⽤

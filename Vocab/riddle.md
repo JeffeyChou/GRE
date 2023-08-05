@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>riddle</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|riddle|[ˈrɪdl]|n. a mystifying, misleading, or puzzling question posed as a problem tobe solved or guessed 谜|[[conundrum]], [[enigma]], [[puzzle]]|
+[ˈrɪdl]
+n. a mystifying, misleading, or puzzling question posed as a problem tobe solved or guessed 谜
+[[conundrum]], [[enigma]], [[puzzle]]

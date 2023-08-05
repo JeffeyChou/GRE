@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>contingent</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|contingent|[kənˈtɪndʒənt]|adj. depending on something else that might or might not happen 取决于|[[circumstantial]]|
+[kənˈtɪndʒənt]
+adj. depending on something else that might or might not happen 取决于
+[[circumstantial]]

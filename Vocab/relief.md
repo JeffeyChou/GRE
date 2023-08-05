@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>relief</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|relief|[rɪˈli:f]|n. the removal or reducing of something that is painful or unpleasant 解脱|[[respite]]|
+[rɪˈli:f]
+n. the removal or reducing of something that is painful or unpleasant 解脱
+[[respite]]

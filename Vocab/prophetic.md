@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>prophetic</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|prophetic|[prəˈfetɪk]|adj. forestelling events 有预⻅的|[[prescient]]|
+[prəˈfetɪk]
+adj. forestelling events 有预⻅的
+[[prescient]]

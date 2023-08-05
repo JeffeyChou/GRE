@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>presage</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|presage|[ˈpresɪdʒ]|v. to give or be a sign of 预示|[[portend]]|
+[ˈpresɪdʒ]
+v. to give or be a sign of 预示
+[[portend]]

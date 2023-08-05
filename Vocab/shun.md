@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>shun</strong></pre>
-|   |   |   |
-|---|---|---|
-|shun [ʃʌn]|v. to avoid 避免|[[eschew]]|
+[ʃʌn]
+v. to avoid 避免
+[[eschew]]

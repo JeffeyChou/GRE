@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>bland</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|bland|[blænd]|(1)adj. not interesting or exciting 乏味的(2)adj. showing no emotion, concern, etc. ⽆动于衷的|[[insipid]]|
+[blænd]
+(1)adj. not interesting or exciting 乏味的(2)adj. showing no emotion, concern, etc. ⽆动于衷的
+[[insipid]]

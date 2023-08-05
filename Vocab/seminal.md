@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>seminal</strong></pre>
-|   |   |   |
-|---|---|---|
-|seminal|[ˈsemɪnl]|adj. having a strong influence on ideas, works, events, etc., that come later 开创性的|
+[ˈsemɪnl]
+adj. having a strong influence on ideas, works, events, etc., that come later 开创性的

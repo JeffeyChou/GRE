@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>contemplate</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|contemplate|[ˈkɒntəmpleɪt]|v. to think deeply or carefully about 深⼊思考|[[ponder]]|
+[ˈkɒntəmpleɪt]
+v. to think deeply or carefully about 深⼊思考
+[[ponder]]

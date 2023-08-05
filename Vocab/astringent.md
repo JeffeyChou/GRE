@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>astringent</strong></pre>
-|   |   |
-|---|---|
-|astringent [əˈstrɪndʒənt]|adj. having a sharp or bitter quality 严厉的|
+[əˈstrɪndʒənt]
+adj. having a sharp or bitter quality 严厉的

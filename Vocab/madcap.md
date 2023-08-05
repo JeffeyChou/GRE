@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>madcap</strong></pre>
-|   |   |   |
-|---|---|---|
-|madcap|[ˈmædkæp]|adj. marked by capriciousness, recklessness, or foolishness 愚蠢的，鲁莽的|
+[ˈmædkæp]
+adj. marked by capriciousness, recklessness, or foolishness 愚蠢的，鲁莽的

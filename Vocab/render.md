@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>render</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|render|[ˈrɛndɚ]|v. to reproduce or represent by artistic or verbal means 呈现，再现|[[reproduce]]|
+[ˈrɛndɚ]
+v. to reproduce or represent by artistic or verbal means 呈现，再现
+[[reproduce]]

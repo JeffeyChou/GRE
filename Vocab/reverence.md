@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>reverence</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|reverence|['rɛvərəns]|n. honor or respect that is felt for or shown to 尊敬|[[veneration]]|
+['rɛvərəns]
+n. honor or respect that is felt for or shown to 尊敬
+[[veneration]]

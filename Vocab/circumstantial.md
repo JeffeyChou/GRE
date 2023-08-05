@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>circumstantial</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|circumstantial|[ˌsɜ:kəmˈstænʃl]|adj. belonging to, consisting in, or dependent on circumstances 依情况⽽定的|[[contingent]]|
+[ˌsɜ:kəmˈstænʃl]
+adj. belonging to, consisting in, or dependent on circumstances 依情况⽽定的
+[[contingent]]

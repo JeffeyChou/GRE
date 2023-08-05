@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>trifling</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|trifling|[ˈtraɪflɪŋ]|adj. having little value or importance 微不⾜道的|[[minimal]]|
+[ˈtraɪflɪŋ]
+adj. having little value or importance 微不⾜道的
+[[minimal]]

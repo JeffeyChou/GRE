@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>perilous</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|perilous|[ˈperələs]|adj. full of danger 危险的|[[dangerous]], [[precarious]]|
+[ˈperələs]
+adj. full of danger 危险的
+[[dangerous]], [[precarious]]

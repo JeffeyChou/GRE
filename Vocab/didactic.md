@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>didactic</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|didactic|[daɪˈdæktɪk]|adj. designed or intended to teach people something 说教的|[[preachy]]|
+[daɪˈdæktɪk]
+adj. designed or intended to teach people something 说教的
+[[preachy]]

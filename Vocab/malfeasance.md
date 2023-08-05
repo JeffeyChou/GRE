@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>malfeasance</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|malfeasance|[ˌmæl'fi:zəns]|n. wrongdoing or misconduct especially by a public official 渎职|[[fraudulence]]|
+[ˌmæl'fi:zəns]
+n. wrongdoing or misconduct especially by a public official 渎职
+[[fraudulence]]

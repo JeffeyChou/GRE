@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>tractable</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|tractable|[ˈtræktəbl]|adj. capable of being easily led, taught, or controlled 驯服的，温顺的|[[compliant]]|
+[ˈtræktəbl]
+adj. capable of being easily led, taught, or controlled 驯服的，温顺的
+[[compliant]]

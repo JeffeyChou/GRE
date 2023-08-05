@@ -9,7 +9,7 @@ aliases:
 ---
 
 <pre><strong>salutary</strong></pre>
-|   |   |   |
-|---|---|---|
-|salutary|[ˈsæljətri]|adj. having a good or helpful result especially after something unpleasant has happened 有益的|
+[ˈsæljətri]
+adj. having a good or helpful result especially after something unpleasant has happened 有益的
+
 [[salubrious]]

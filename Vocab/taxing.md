@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>taxing</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|taxing|[ˈtæksɪŋ]|adj. requiring a lot of effort, energy, etc. 费劲的|[[arduous]]|
+[ˈtæksɪŋ]
+adj. requiring a lot of effort, energy, etc. 费劲的
+[[arduous]]

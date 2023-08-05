@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>unassailable</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|unassailable|[ˌʌnəˈseɪləbl]|adj. not able to be doubted 毋庸置疑的|[[sound]]|
+[ˌʌnəˈseɪləbl]
+adj. not able to be doubted 毋庸置疑的
+[[sound]]

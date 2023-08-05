@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>onetime</strong></pre>
-|   |   |   |
-|---|---|---|
-|onetime ['wʌntaɪm]|adj. having been someone or something specified in the past 过去的|[[erstwhile]]|
+['wʌntaɪm]
+adj. having been someone or something specified in the past 过去的
+[[erstwhile]]

@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>impair</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ɪmˈpeə]|v. to make weaker or worse 损害|[[hamstring]], [[undermine]], [[vitiate]], [[compromise]], [[undercut]]|
+
+[ɪmˈpeə]
+v. to make weaker or worse 损害
+[[hamstring]], [[undermine]], [[vitiate]], [[compromise]], [[undercut]]

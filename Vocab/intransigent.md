@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>intransigent</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|intransigent|[ɪnˈtrænsɪdʒənt]|adj. completely unwilling to change 不妥协的|[[obdurate]], [[resolute]]|
+[ɪnˈtrænsɪdʒənt]
+adj. completely unwilling to change 不妥协的
+[[obdurate]], [[resolute]]

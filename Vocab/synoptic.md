@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>synoptic</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|synoptic|[sɪ'nɑptɪk]|adj. affording a general view of a whole 概要的|[[abridged]]|
+[sɪ'nɑptɪk]
+adj. affording a general view of a whole 概要的
+[[abridged]]

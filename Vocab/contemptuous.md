@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>contemptuous</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|contemptuous|[kən'tɛmptʃuəs]|adj. feeling or showing deep hatred or disapproval 轻蔑的|[[disdainful]]|
+[kən'tɛmptʃuəs]
+adj. feeling or showing deep hatred or disapproval 轻蔑的
+[[disdainful]]

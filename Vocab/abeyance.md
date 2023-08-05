@@ -9,7 +9,8 @@ aliases:
 ---
 
 <pre><strong>abeyance</strong></pre>
-|   |   |   |
-|---|---|---|
-|abeyance [ə'beɪəns]|n. a state of temporary inactivity 中⽌|[[quiescence]]|
+[ə'beɪəns]
+n. a state of temporary inactivity 中⽌
+[[quiescence]]
+
 [[abeyant]], [[quiescent]]

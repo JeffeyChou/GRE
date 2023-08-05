@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>ascetic</strong></pre>
-|   |   |
-|---|---|
-|ascetic [əˈsetɪk]|adj. relating to having a strict and simple way of living that avoids physical pleasure 苦⾏的|
+[əˈsetɪk]
+adj. relating to having a strict and simple way of living that avoids physical pleasure 苦⾏的

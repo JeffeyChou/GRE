@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>deplorable</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|deplorable|[dɪ'plɔrəbl]|(1)adj. lamentable 可悲的(2)adj. deserving censure or contempt 应受[[谴责]]的|[[reprehensible]]|
+[dɪ'plɔrəbl]
+(1)adj. lamentable 可悲的(2)adj. deserving censure or contempt 应受[[谴责]]的
+[[reprehensible]]

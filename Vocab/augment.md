@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>augment</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|augment|[ɔ:gˈment]|v. to make greater, more numerous, larger, or more intense 增加|[[extend]], [[expand]], [[enhance]]|
+[ɔ:gˈment]
+v. to make greater, more numerous, larger, or more intense 增加
+[[extend]], [[expand]], [[enhance]]

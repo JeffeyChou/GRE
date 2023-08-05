@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>disinformation</strong></pre>
-|   |   |   |
-|---|---|---|
-|disinformation [ˌdɪsˌɪnfərˈmeɪʃn]|n. false information deliberately 故意的假情报|[[mendacity]]|
+[ˌdɪsˌɪnfərˈmeɪʃn]
+n. false information deliberately 故意的假情报
+[[mendacity]]

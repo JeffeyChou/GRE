@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>salubrious</strong></pre>
-|   |   |   |
-|---|---|---|
-|salubrious|[sə'lubrɪəs]|adj. making good health possible or likely 有益健康的|
+[sə'lubrɪəs]
+adj. making good health possible or likely 有益健康的

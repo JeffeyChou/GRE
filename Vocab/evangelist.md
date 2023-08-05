@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>evangelist</strong></pre>
-|   |   |
-|---|---|
-|[ɪˈvændʒəlɪst]|n. an enthusiastic advocate 热情的推动者|
+
+[ɪˈvændʒəlɪst]
+n. an enthusiastic advocate 热情的推动者
+

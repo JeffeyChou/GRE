@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>malinger</strong></pre>
-|   |   |   |
-|---|---|---|
-|malinger|[məˈlɪŋɡɚ]|v. to pretend or exaggerate incapacity or illness 装病|
+[məˈlɪŋɡɚ]
+v. to pretend or exaggerate incapacity or illness 装病

@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>manacle</strong></pre>
-|   |   |   |
-|---|---|---|
-|manacle|['mænəkl]|v. to restrain from movement, progress, or action 束缚|
+['mænəkl]
+v. to restrain from movement, progress, or action 束缚

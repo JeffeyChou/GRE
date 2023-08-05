@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>condign</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|condign|[kənˈdaɪn]|adj. deserved, appropriate 适当的|[[meet]]|
+[kənˈdaɪn]
+adj. deserved, appropriate 适当的
+[[meet]]

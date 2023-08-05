@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>meet</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|meet|[mi:t]|adj. precisely adapted to a particular situation, need, or circumstance 合适的|[[condign]]|
+[mi:t]
+adj. precisely adapted to a particular situation, need, or circumstance 合适的
+[[condign]]

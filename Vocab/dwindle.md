@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>dwindle</strong></pre>
-|   |   |   |
-|---|---|---|
-|dwindle [ˈdwɪndl]|v. to gradually become smaller 逐渐减少，逐渐变⼩|[[contract]]|
+[ˈdwɪndl]
+v. to gradually become smaller 逐渐减少，逐渐变⼩
+[[contract]]

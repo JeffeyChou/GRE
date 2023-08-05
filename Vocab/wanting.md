@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>wanting</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|wanting|[ˈwɒntɪŋ]|adj. not having all that is needed or expected 有缺陷的|[[flawed]]|
+[ˈwɒntɪŋ]
+adj. not having all that is needed or expected 有缺陷的
+[[flawed]]

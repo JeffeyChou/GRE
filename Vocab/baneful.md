@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>baneful</strong></pre>
-|   |   |   |
-|---|---|---|
-|baneful|[ˈbeɪnfl]|adj. causing destructive or serious damage [[有害的]]|
+[ˈbeɪnfl]
+adj. causing destructive or serious damage [[有害的]]

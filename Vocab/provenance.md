@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>provenance</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|provenance|[ˈprɒvənəns]|n. the origin or source of something 起源|[[origin]]|
+[ˈprɒvənəns]
+n. the origin or source of something 起源
+[[origin]]

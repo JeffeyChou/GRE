@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>conceivable</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|conceivable|[kən'sivəbl]|adj. imaginable or possible 可想象的|[[plausible]]|
+[kən'sivəbl]
+adj. imaginable or possible 可想象的
+[[plausible]]

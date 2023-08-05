@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>protract</strong></pre>
-|   |   |   |
-|---|---|---|
-|protract|[prəˈtrækt]|(1)v. delay, defer 拖延(2)v. to extend forward or outward 延⻓|
+[prəˈtrækt]
+(1)v. delay, defer 拖延(2)v. to extend forward or outward 延⻓

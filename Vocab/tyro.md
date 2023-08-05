@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>tyro</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|tyro|[ˈtaɪrəʊ]|n. a person who has just started learning or doing something 新⼿|[[novice]], [[neophyte]]|
+[ˈtaɪrəʊ]
+n. a person who has just started learning or doing something 新⼿
+[[novice]], [[neophyte]]

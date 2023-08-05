@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>oversell</strong></pre>
-|   |   |   |
-|---|---|---|
-|oversell|[ˌəʊvəˈsel]|(1)v. to make excessive claims for 吹嘘(2)v. to sell too much or too many 过多出售|
+[ˌəʊvəˈsel]
+(1)v. to make excessive claims for 吹嘘(2)v. to sell too much or too many 过多出售

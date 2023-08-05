@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>shriek</strong></pre>
-|   |   |   |
-|---|---|---|
-|shriek [ʃri:k]|v. to make a loud, high-pitched cry 尖叫|[[caterwaul]]|
+[ʃri:k]
+v. to make a loud, high-pitched cry 尖叫
+[[caterwaul]]

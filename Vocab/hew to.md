@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>hew to</strong></pre>
-|   |   |   |
-|---|---|---|
-|[hjuː]|phrase. 遵守|[[conform to]]|
+
+[hjuː]
+phrase. 遵守
+[[conform to]]

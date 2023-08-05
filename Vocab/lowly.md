@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>lowly</strong></pre>
-|   |   |
-|---|---|
-|lowly [ˈləʊli]|adj. in a low position, manner, or degree 卑微的|l
+[ˈləʊli]
+adj. in a low position, manner, or degree 卑微的
+l

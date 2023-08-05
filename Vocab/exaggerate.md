@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>exaggerate</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ɪgˈzædʒəreɪt]|v. to think of or describe something as larger or greater than it really is夸⼤|[[hyperbole]], [[overrate]]|
+
+[ɪgˈzædʒəreɪt]
+v. to think of or describe something as larger or greater than it really is夸⼤
+[[hyperbole]], [[overrate]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>sanctimonious</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|sanctimonious|[ˌsæŋktɪˈməʊniəs]|adj. pretending to be morally better than other people 假装（⽐别⼈）圣洁的|[[preachy]], [[didactic]]|
+[ˌsæŋktɪˈməʊniəs]
+adj. pretending to be morally better than other people 假装（⽐别⼈）圣洁的
+[[preachy]], [[didactic]]

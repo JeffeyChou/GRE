@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>crestfallen</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|crestfallen|['krestfɔːlən]|adj. very sad and disappointed 不⾼兴的|[[disgruntled]]|
+['krestfɔːlən]
+adj. very sad and disappointed 不⾼兴的
+[[disgruntled]]

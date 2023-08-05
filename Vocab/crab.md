@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>crab</strong></pre>
-|   |   |   |
-|---|---|---|
-|crab [kræb]|v. to complain about peevishly 抱怨|[[excoriate]]|
+[kræb]
+v. to complain about peevishly 抱怨
+[[excoriate]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>irresolution</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|irresolution|[ɪˌrezə'lu:ʃn]|n. the state of not being certain about what to do 犹豫不决|[[vacillation]]|
+[ɪˌrezə'lu:ʃn]
+n. the state of not being certain about what to do 犹豫不决
+[[vacillation]]

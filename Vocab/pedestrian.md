@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>pedestrian</strong></pre>
-|   |   |   |
-|---|---|---|
-|pedestrian|[pəˈdestriən]|adj. commonplace, unimaginative 乏味的|
+[pəˈdestriən]
+adj. commonplace, unimaginative 乏味的

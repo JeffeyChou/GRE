@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>cerebral</strong></pre>
-|   |   |   |
-|---|---|---|
-|cerebral|[sə'ribrəl]|(1)adj. of or relating to the brain ⼤脑的(2)adj. intellectual and not emotional 理性的|
+[sə'ribrəl]
+(1)adj. of or relating to the brain ⼤脑的(2)adj. intellectual and not emotional 理性的

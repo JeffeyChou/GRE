@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>timid</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|timid|[ˈtɪmɪd]|adj. feeling or showing a lack of courage or confidence 胆怯的，羞怯的|[[diffident]]|
+[ˈtɪmɪd]
+adj. feeling or showing a lack of courage or confidence 胆怯的，羞怯的
+[[diffident]]

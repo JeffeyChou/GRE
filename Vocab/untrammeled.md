@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>untrammeled</strong></pre>
-|   |   |   |
-|---|---|---|
-|untrammeled [ʌn'træmld]|adj. not confined, limited, or impeded 没有限制的|[[unrestrained]]|
+[ʌn'træmld]
+adj. not confined, limited, or impeded 没有限制的
+[[unrestrained]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>whimsical</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|whimsical|[ˈwɪmzɪkl]|adj. subject to erratic behavior or unpredictable change 难以预测的|[[capricious]]|
+[ˈwɪmzɪkl]
+adj. subject to erratic behavior or unpredictable change 难以预测的
+[[capricious]]

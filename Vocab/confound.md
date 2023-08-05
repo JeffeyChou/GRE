@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>confound</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|confound|[kənˈfaʊnd]|(1)v. to surprise and confuse 使迷惑<mark style="background: #ABF7F7A6;">(2)v. to prove wrong 证明…有误</mark>|[[perplex]], [[flummox]]|
+[kənˈfaʊnd]
+(1)v. to surprise and confuse 使迷惑<mark style="background: #ABF7F7A6;">(2)v. to prove wrong 证明…有误</mark>
+[[perplex]], [[flummox]]

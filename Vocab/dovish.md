@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>dovish</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|dovish|[ˈdʌvɪʃ]|adj. in favor of using peaceful and diplomatic methods to achieve something, rather than using force and violence 和平主义的|[[pacific]]|
+[ˈdʌvɪʃ]
+adj. in favor of using peaceful and diplomatic methods to achieve something, rather than using force and violence 和平主义的
+[[pacific]]

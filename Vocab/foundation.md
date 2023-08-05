@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>foundation</strong></pre>
-|   |   |   |
-|---|---|---|
-|[faʊnˈdeɪʃn]|(1)n. the act of founding 创建(2)n. a basis upon which something stands or is supported 基础，根据|[[inception]], [[bedrock]]|
+
+[faʊnˈdeɪʃn]
+(1)n. the act of founding 创建(2)n. a basis upon which something stands or is supported 基础，根据
+[[inception]], [[bedrock]]

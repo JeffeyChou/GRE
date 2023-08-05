@@ -9,7 +9,7 @@ aliases:
 ---
 
 <pre><strong>entreat</strong></pre>
-|   |   |
-|---|---|
-|entreat [ɪnˈtri:t]|v. to ask in a serious and emotional way 恳求|
+[ɪnˈtri:t]
+v. to ask in a serious and emotional way 恳求
+
 [[supplicate]], [[woo]]

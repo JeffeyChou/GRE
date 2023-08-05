@@ -9,7 +9,7 @@ aliases:
 ---
 
 <pre><strong>bogus</strong></pre>
-|   |   |
-|---|---|
-|bogus ['bogəs]|adj. not real or genuine 伪造的|
+['bogəs]
+adj. not real or genuine 伪造的
+
 [[forge]]

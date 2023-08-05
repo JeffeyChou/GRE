@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>fringe</strong></pre>
-|   |   |   |
-|---|---|---|
-|[frɪndʒ]|n. edge, periphery 边缘|[[marginal]], [[peripheral]]|
+
+[frɪndʒ]
+n. edge, periphery 边缘
+[[marginal]], [[peripheral]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>proclaim</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|proclaim|[prəˈkleɪm]|(1)v. to say or state in a public, official, or definite way 宣布(2)v. to show clearly 表明|[[profess]]|
+[prəˈkleɪm]
+(1)v. to say or state in a public, official, or definite way 宣布(2)v. to show clearly 表明
+[[profess]]

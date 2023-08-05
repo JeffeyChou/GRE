@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>succumb</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|succumb|[səˈkʌm]|(1)v. to stop trying to resist something 屈服(2)v. to die 死亡|[[yield]]|
+[səˈkʌm]
+(1)v. to stop trying to resist something 屈服(2)v. to die 死亡
+[[yield]]

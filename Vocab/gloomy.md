@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>gloomy</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ˈglu:mi]|adj. sad or depressed 忧郁的|[[lugubrious]], [[cheerless]]|
+
+[ˈglu:mi]
+adj. sad or depressed 忧郁的
+[[lugubrious]], [[cheerless]]

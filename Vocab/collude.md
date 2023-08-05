@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>collude</strong></pre>
-|   |   |   |
-|---|---|---|
-|collude|[kə'lʊd]|v. conspire, plot 串通|
+[kə'lʊd]
+v. conspire, plot 串通

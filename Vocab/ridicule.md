@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>ridicule</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|ridicule|[ˈrɪdɪkju:l]|n. the act of making fun of someone or something in a cruel or harshway 嘲弄v. to laugh at and make jokes about in a cruel or harsh way 嘲笑|[[derision]]|
+[ˈrɪdɪkju:l]
+n. the act of making fun of someone or something in a cruel or harshway 嘲弄v. to laugh at and make jokes about in a cruel or harsh way 嘲笑
+[[derision]]

@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>hodgepodge</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ˈhɒdʒpɒdʒ]|n. a mixture of different things ⼤杂烩|[[patchwork]], [[welter]], [[pastiche]]|
+
+[ˈhɒdʒpɒdʒ]
+n. a mixture of different things ⼤杂烩
+[[patchwork]], [[welter]], [[pastiche]]

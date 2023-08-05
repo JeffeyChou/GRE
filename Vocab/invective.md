@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>invective</strong></pre>
-|   |   |   |
-|---|---|---|
-|invective|[ɪnˈvɛktɪv]|n. insulting or abusive language 猛烈抨击|
+[ɪnˈvɛktɪv]
+n. insulting or abusive language 猛烈抨击

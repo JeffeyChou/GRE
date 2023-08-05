@@ -9,7 +9,7 @@ aliases:
 ---
 
 <pre><strong>balanced</strong></pre>
-|   |   |   |
-|---|---|---|
-|balanced|[ˈbælənst]|(1)adj. in a fair and reasonable way 公正的<mark style="background: #ABF7F7A6;">(2)adj. calm and thinks clearly, even in a difficult situation 沉着冷静的</mark>|
+[ˈbælənst]
+(1)adj. in a fair and reasonable way 公正的<mark style="background: #ABF7F7A6;">(2)adj. calm and thinks clearly, even in a difficult situation 沉着冷静的</mark>
+
 [[analytical]]

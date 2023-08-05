@@ -9,7 +9,7 @@ aliases:
 ---
 
 <pre><strong>scaremonger</strong></pre>
-|   |   |   |
-|---|---|---|
-|scaremonger|[ˈskeəmʌŋgə]|n. one inclined to raise or excite alarms especially needlessly 危⾔耸听者|
+[ˈskeəmʌŋgə]
+n. one inclined to raise or excite alarms especially needlessly 危⾔耸听者
+
 [[-monger]]

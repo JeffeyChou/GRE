@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>quixotic</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|quixotic|[kwɪkˈsɒtɪk]|adj. hopeful or romantic in a way that is not practical 不切实际的|[[idealistic]]|
+[kwɪkˈsɒtɪk]
+adj. hopeful or romantic in a way that is not practical 不切实际的
+[[idealistic]]

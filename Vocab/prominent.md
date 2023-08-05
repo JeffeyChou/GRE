@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>prominent</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|prominent|['prɒmɪnənt]|adj. easily notice or seen 显著的|[[conspicuous]], [[salient]]|
+['prɒmɪnənt]
+adj. easily notice or seen 显著的
+[[conspicuous]], [[salient]]

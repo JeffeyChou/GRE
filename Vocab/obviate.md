@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>obviate</strong></pre>
-|   |   |   |
-|---|---|---|
-|obviate|[ˈɒbvieɪt]|v. to make no longer necessary 避免，取消|
+[ˈɒbvieɪt]
+v. to make no longer necessary 避免，取消

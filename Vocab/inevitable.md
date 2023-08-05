@@ -8,6 +8,8 @@ aliases:
 ---
 
 <pre><strong>inevitable</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|inevitable|[ɪnˈevɪtəbl]|adj. sure to happen 必然的|[[unavoidable]], [[preordained]], [[ineluctable]]|
+
+inevitable
+[ɪnˈevɪtəbl]
+adj. sure to happen 必然的
+[[unavoidable]], [[preordained]], [[ineluctable]]

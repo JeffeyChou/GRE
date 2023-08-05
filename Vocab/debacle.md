@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>debacle</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|debacle|[dɪˈbɑkəl]|n. a great disaster or complete failure 彻底失败|[[fiasco]]|
+[dɪˈbɑkəl]
+n. a great disaster or complete failure 彻底失败
+[[fiasco]]

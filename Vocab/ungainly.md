@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>ungainly</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|ungainly|[ʌn'ɡenli]|adj. moving in an awkward or clumsy way 笨拙的，不优雅的|[[awkward]]|
+[ʌn'ɡenli]
+adj. moving in an awkward or clumsy way 笨拙的，不优雅的
+[[awkward]]

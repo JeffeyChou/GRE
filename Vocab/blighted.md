@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>blighted</strong></pre>
-|   |   |
-|---|---|
-|blighted ['blaitid]|adj. in a badly damaged or deteriorated condition 枯萎的|
+['blaitid]
+adj. in a badly damaged or deteriorated condition 枯萎的

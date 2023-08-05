@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>unprepossessing</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|unprepossessing|[ˌʌnˌpri:pəˈzesɪŋ]|adj. looking rather plain or ordinary 不吸引⼈的|[[unremarkable]]|
+[ˌʌnˌpri:pəˈzesɪŋ]
+adj. looking rather plain or ordinary 不吸引⼈的
+[[unremarkable]]

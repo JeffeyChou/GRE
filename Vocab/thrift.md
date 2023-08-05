@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>thrift</strong></pre>
-|   |   |   |
-|---|---|---|
-|thrift|[θrɪft]|n. careful use of money so that it is not wasted 节约|
+[θrɪft]
+n. careful use of money so that it is not wasted 节约

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>vacuous</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|vacuous|[ˈvækjuəs]|adj. having or showing a lack of intelligence or serious thought 空洞的|[[paucity]]|
+[ˈvækjuəs]
+adj. having or showing a lack of intelligence or serious thought 空洞的
+[[paucity]]

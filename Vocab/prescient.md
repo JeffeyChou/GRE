@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>prescient</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|prescient|[ˈpresiənt]|adj. able to know or predict what was going to happen in the future 有预知能⼒的|[[prophetic]]|
+[ˈpresiənt]
+adj. able to know or predict what was going to happen in the future 有预知能⼒的
+[[prophetic]]

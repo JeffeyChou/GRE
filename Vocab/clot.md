@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>clot</strong></pre>
-|   |   |   |
-|---|---|---|
-|clot|[klɑt]|v. to become thick and partly solid 凝结|
+[klɑt]
+v. to become thick and partly solid 凝结

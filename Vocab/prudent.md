@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>prudent</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|prudent|[ˈpru:dnt]|adj. having or showing careful good judgment 审慎的|[[circumspect]], [[provident]]|
+[ˈpru:dnt]
+adj. having or showing careful good judgment 审慎的
+[[circumspect]], [[provident]]

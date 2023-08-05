@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>quirky</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|quirky|['kwɜ:kɪ]|adj. odd or unpredictable in their appearance, character, or behavior. 奇怪的|[[unconventional]]|
+['kwɜ:kɪ]
+adj. odd or unpredictable in their appearance, character, or behavior. 奇怪的
+[[unconventional]]

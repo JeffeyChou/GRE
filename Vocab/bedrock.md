@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>bedrock</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|bedrock|[ˈbedrɒk]|n. basis 基础|[[foundation]]|
+[ˈbedrɒk]
+n. basis 基础
+[[foundation]]

@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>obligatory</strong></pre>
-|   |   |   |
-|---|---|---|
-|obligatory|[əˈblɪgətri]|(1)adj. required by a law or rule 强制性的(2)adj. always or often included as a familiar and expected part ofsomething 习惯性的|
+[əˈblɪgətri]
+(1)adj. required by a law or rule 强制性的(2)adj. always or often included as a familiar and expected part ofsomething 习惯性的

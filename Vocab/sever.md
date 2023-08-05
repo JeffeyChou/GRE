@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>sever</strong></pre>
-|   |   |   |
-|---|---|---|
-|sever|[ˈsevə]|v. to put or keep apart 割断，断绝|
+[ˈsevə]
+v. to put or keep apart 割断，断绝

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>burgeon</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|burgeon|['bɜːdʒən]|v. to grow or develop quickly 迅速⽣⻓|[[expand]], [[flourish]]|
+['bɜːdʒən]
+v. to grow or develop quickly 迅速⽣⻓
+[[expand]], [[flourish]]

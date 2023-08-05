@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>crass</strong></pre>
-|   |   |   |
-|---|---|---|
-|crass|[kræs]|adj. having or showing no understanding of what is proper or acceptable 愚钝的|
+[kræs]
+adj. having or showing no understanding of what is proper or acceptable 愚钝的

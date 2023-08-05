@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>wherewithal</strong></pre>
-|   |   |   |
-|---|---|---|
-|wherewithal|[ˈweəwɪðɔ:l]|n. the money, skill, etc., that is needed to get or do something 必要⼿段（钱或技能）|
+[ˈweəwɪðɔ:l]
+n. the money, skill, etc., that is needed to get or do something 必要⼿段（钱或技能）

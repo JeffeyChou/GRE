@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>hinder</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ˈhɪndə]|v. to make slow or difficult 妨碍|[[stymie]], [[inhibit]], [[block]]|
+
+[ˈhɪndə]
+v. to make slow or difficult 妨碍
+[[stymie]], [[inhibit]], [[block]]

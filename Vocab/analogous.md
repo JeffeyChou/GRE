@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>analogous</strong></pre>
-|   |   |   |
-|---|---|---|
-|analogous [əˈnæləgəs]|adj. similar in some way 类似的|[[comparable]]|
+[əˈnæləgəs]
+adj. similar in some way 类似的
+[[comparable]]

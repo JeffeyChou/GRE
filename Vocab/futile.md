@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>futile</strong></pre>
-|   |   |   |
-|---|---|---|
-|['fjʊtaɪl]|adj. pointless or useless ⽆⽤的|[[pointless]]|
+
+['fjʊtaɪl]
+adj. pointless or useless ⽆⽤的
+[[pointless]]

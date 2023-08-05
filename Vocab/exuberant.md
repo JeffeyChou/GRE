@@ -8,6 +8,6 @@ aliases:
 ---
 
 <pre><strong>exuberant</strong></pre>
-|   |   |
-|---|---|
-|[ɪgˈzju:bərənt]|(1)adj. very lively, happy, or energetic 热情洋溢的(2)adj. existing in large amounts 过度的|
+
+[ɪgˈzju:bərənt]
+(1)adj. very lively, happy, or energetic 热情洋溢的(2)adj. existing in large amounts 过度的

@@ -8,6 +8,8 @@ aliases:
 ---
 
 <pre><strong>indigent</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|indigent|[ˈɪndɪdʒənt]|adj. very poor 贫穷的|[[impecunious]]|
+
+indigent
+[ˈɪndɪdʒənt]
+adj. very poor 贫穷的
+[[impecunious]]

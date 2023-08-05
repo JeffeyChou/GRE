@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>vainglorious</strong></pre>
-|   |   |   |
-|---|---|---|
-|[[vain]][[glorious]]|[,vein'ɡlɔ:riəs]|adj. having or showing too much pride in your abilities or achievements⾃负的|
+[[vain]][[glorious]]
+[,vein'ɡlɔ:riəs]
+adj. having or showing too much pride in your abilities or achievements⾃负的

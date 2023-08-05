@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>nonconformist</strong></pre>
-|   |   |   |
-|---|---|---|
-|nonconformist [ˌnɒnkənˈfɔ:mɪst]|n. a person who does not behave the way most people behave 不守成规者|[[maverick]]|
+[ˌnɒnkənˈfɔ:mɪst]
+n. a person who does not behave the way most people behave 不守成规者
+[[maverick]]

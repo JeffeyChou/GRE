@@ -9,6 +9,7 @@ aliases:
 ---
 
 <pre><strong>unbounded</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|unbounded|[ʌnˈbaʊndɪd]|adj. not limited in any way ⽆限的|[[immoderate]], [[expansive]]|****
+[ʌnˈbaʊndɪd]
+adj. not limited in any way ⽆限的
+[[immoderate]], [[expansive]]
+****

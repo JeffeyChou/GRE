@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>stave off</strong></pre>
-|   |   |   |
-|---|---|---|
-|stave off [steɪv ɔf]|phrase. 延缓|[[forestall]]|
+[steɪv ɔf]
+phrase. 延缓
+[[forestall]]

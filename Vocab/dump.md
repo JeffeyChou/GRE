@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>dump</strong></pre>
-|   |   |   |
-|---|---|---|
-|dump [dʌmp]|v. to leave or get rid of quickly or without concern 倾倒，丢下|[[disgorge]]|
+[dʌmp]
+v. to leave or get rid of quickly or without concern 倾倒，丢下
+[[disgorge]]

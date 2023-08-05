@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>churlish</strong></pre>
-|   |   |   |
-|---|---|---|
-|churlish|[ˈtʃɜ:lɪʃ]|adj. not polite ⽆礼的|
+[ˈtʃɜ:lɪʃ]
+adj. not polite ⽆礼的

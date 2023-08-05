@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>reconciliation</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|reconciliation|[ˌrekənsɪliˈeɪʃn]|n. the act of causing two people or groups to become friendly again after an argument or disagreement 和解|[[rapprochement]]|
+[ˌrekənsɪliˈeɪʃn]
+n. the act of causing two people or groups to become friendly again after an argument or disagreement 和解
+[[rapprochement]]

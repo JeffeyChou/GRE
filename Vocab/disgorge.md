@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>disgorge</strong></pre>
-|   |   |   |
-|---|---|---|
-|disgorge [dɪsˈgɔ:dʒ]|v. to let out or release 排出|[[dump]]|
+[dɪsˈgɔ:dʒ]
+v. to let out or release 排出
+[[dump]]

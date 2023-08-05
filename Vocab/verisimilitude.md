@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>verisimilitude</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|verisimilitude|[ˌverɪsɪˈmɪlɪtju:d]|n. the quality of seeming real 逼真|[[realism]]|
+[ˌverɪsɪˈmɪlɪtju:d]
+n. the quality of seeming real 逼真
+[[realism]]

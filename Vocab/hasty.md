@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>hasty</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ˈheɪsti]|adj. fast and typically superficial 匆忙的，草率的|[[impulsive]], [[rapid]]|
+
+[ˈheɪsti]
+adj. fast and typically superficial 匆忙的，草率的
+[[impulsive]], [[rapid]]

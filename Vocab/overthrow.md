@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>overthrow</strong></pre>
-|   |   |   |
-|---|---|---|
-|overthrow|[ˌəʊvəˈθrəʊ]|v. to remove from power especially by force 推翻，废除|
+[ˌəʊvəˈθrəʊ]
+v. to remove from power especially by force 推翻，废除

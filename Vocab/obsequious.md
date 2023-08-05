@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>obsequious</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|obsequious|[əbˈsi:kwiəs]|adj. too eager to help or obey someone important 谄媚的|[[sycophantic]]|
+[əbˈsi:kwiəs]
+adj. too eager to help or obey someone important 谄媚的
+[[sycophantic]]

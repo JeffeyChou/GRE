@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>narcissism</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|narcissism|['nɑrsɪ'sɪzəm]|n. egoism, egocentrism ⾃恋|self-[[flattery]]|
+['nɑrsɪ'sɪzəm]
+n. egoism, egocentrism ⾃恋
+self-[[flattery]]

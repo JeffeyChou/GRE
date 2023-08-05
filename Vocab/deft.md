@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>deft</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|deft|[deft]|adj. skillful and clever 灵巧的|[[canny]]|
+[deft]
+adj. skillful and clever 灵巧的
+[[canny]]

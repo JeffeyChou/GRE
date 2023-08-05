@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>impede</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ɪmˈpi:d]|v. to slow the movement, progress, or action of 阻碍|[[hamper]]|
+
+[ɪmˈpi:d]
+v. to slow the movement, progress, or action of 阻碍
+[[hamper]]

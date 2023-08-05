@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>utilitarian</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|utilitarian|[ˌju:tɪlɪˈteəriən]|adj. made to be useful rather than to be decorative or comfortable 实⽤的|[[functional]]|
+[ˌju:tɪlɪˈteəriən]
+adj. made to be useful rather than to be decorative or comfortable 实⽤的
+[[functional]]

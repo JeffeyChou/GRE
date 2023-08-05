@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>conspicuous</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|conspicuous|[kənˈspɪkjuəs]|adj. very easy to see or notice 显眼的|[[obtrusive]], [[prominent]], [[salient]], [[remarkable]]|
+[kənˈspɪkjuəs]
+adj. very easy to see or notice 显眼的
+[[obtrusive]], [[prominent]], [[salient]], [[remarkable]]

@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>nettle</strong></pre>
-|   |   |   |
-|---|---|---|
-|nettle|['netl]|v. to make angry 激怒|
+['netl]
+v. to make angry 激怒

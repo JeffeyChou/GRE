@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>retreat</strong></pre>
-|   |   |   |
-|---|---|---|
-|retreat|[rɪˈtri:t]|n. movement away from a place or situation especially because it isdangerous, unpleasant, etc. 撤退|
+[rɪˈtri:t]
+n. movement away from a place or situation especially because it isdangerous, unpleasant, etc. 撤退

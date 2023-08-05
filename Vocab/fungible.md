@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>fungible</strong></pre>
-|   |   |   |
-|---|---|---|
-|['fʌndʒɪbl]|adj. interchangeable 可取代的|[[interchangeable]]|
+
+['fʌndʒɪbl]
+adj. interchangeable 可取代的
+[[interchangeable]]

@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>obeisance</strong></pre>
-|   |   |   |
-|---|---|---|
-|obeisance|[əʊˈbeɪsns]|n. respect for someone or something 尊敬|
+[əʊˈbeɪsns]
+n. respect for someone or something 尊敬

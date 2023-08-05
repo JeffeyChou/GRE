@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>budding</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|budding|[ˈbʌdɪŋ]|adj. being in an early stage of development 萌芽期的|[[nascent]]|
+[ˈbʌdɪŋ]
+adj. being in an early stage of development 萌芽期的
+[[nascent]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>predilection</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|predilection|[ˌpri:dɪˈlekʃn]|n. a natural liking for something 偏爱|[[proclivity]], [[preference]]|
+[ˌpri:dɪˈlekʃn]
+n. a natural liking for something 偏爱
+[[proclivity]], [[preference]]

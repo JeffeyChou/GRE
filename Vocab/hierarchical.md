@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>hierarchical</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ˌhaɪəˈrɑ:kɪkl]|adj. of, relating to, or arranged in a hierarchy 等级制度的|[[stratified]]|
+
+[ˌhaɪəˈrɑ:kɪkl]
+adj. of, relating to, or arranged in a hierarchy 等级制度的
+[[stratified]]

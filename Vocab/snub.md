@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>snub</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|snub|[snʌb]|v. to ignore in a deliberate and insulting way 冷落|[[slight]]|
+[snʌb]
+v. to ignore in a deliberate and insulting way 冷落
+[[slight]]

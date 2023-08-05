@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>callow</strong></pre>
-|   |   |   |
-|---|---|---|
-|callow|[ˈkæləʊ]|adj. lacking adult sophistication 不成熟的|
+[ˈkæləʊ]
+adj. lacking adult sophistication 不成熟的

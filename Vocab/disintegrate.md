@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>disintegrate</strong></pre>
-|   |   |   |
-|---|---|---|
-|disintegrate [dɪs'ɪntɪɡret]|v. to break apart into many small parts or pieces 瓦解|[[crumble]]|
+[dɪs'ɪntɪɡret]
+v. to break apart into many small parts or pieces 瓦解
+[[crumble]]

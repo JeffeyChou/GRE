@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>dire</strong></pre>
-|   |   |
-|---|---|
-|dire [daɪr]|adj. exciting horror 可怕的，恐怖的|
+[daɪr]
+adj. exciting horror 可怕的，恐怖的

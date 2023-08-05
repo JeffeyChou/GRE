@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>recoil</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|recoil|[rɪˈkɔɪl]|v. to quickly move away from something that is shocking, frightening, or disgusting 畏缩，后退|[[shrink]]|
+[rɪˈkɔɪl]
+v. to quickly move away from something that is shocking, frightening, or disgusting 畏缩，后退
+[[shrink]]

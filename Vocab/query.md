@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>query</strong></pre>
-|   |   |   |
-|---|---|---|
-|query|['kwɪərɪ]|v. to ask questions or express doubt about 质疑|
+['kwɪərɪ]
+v. to ask questions or express doubt about 质疑

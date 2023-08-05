@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>cunning</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|cunning|['kʌnɪŋ]|adj. getting what is wanted in a clever and often deceptive way 狡猾的|[[crafty]]|
+['kʌnɪŋ]
+adj. getting what is wanted in a clever and often deceptive way 狡猾的
+[[crafty]]

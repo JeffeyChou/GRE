@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>penchant</strong></pre>
-|   |   |   |
-|---|---|---|
-|penchant|['pentʃənt]|n. a strong and continued inclination 倾向，嗜好|
+['pentʃənt]
+n. a strong and continued inclination 倾向，嗜好

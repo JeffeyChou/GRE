@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>elusive</strong></pre>
-|   |   |   |
-|---|---|---|
-|elusive [iˈlu:sɪv]|(1)adj. hard to find or capture 难抓住的(2)adj. hard to understand, define, or remember 难理解的|[[slippery]], [[evasive]], [[cryptic]]|
+[iˈlu:sɪv]
+(1)adj. hard to find or capture 难抓住的(2)adj. hard to understand, define, or remember 难理解的
+[[slippery]], [[evasive]], [[cryptic]]

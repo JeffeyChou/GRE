@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>spur</strong></pre>
-|   |   |   |
-|---|---|---|
-|spur [spɜ:]|v. to incite to action or accelerated growth or development 激励|[[foster]]|
+[spɜ:]
+v. to incite to action or accelerated growth or development 激励
+[[foster]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>anodyne</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|anodyne|[ˈænədaɪn]|adj. expressed in a way that is unlikely to offend anyone 不冒犯人的|[[innocuous]], [[benign]]|
+[ˈænədaɪn]
+adj. expressed in a way that is unlikely to offend anyone 不冒犯人的
+[[innocuous]], [[benign]]

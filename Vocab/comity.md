@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>comity</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|comity|['kɒmɪtɪ]|n. friendly social atmosphere 友谊|[[civility]]|
+['kɒmɪtɪ]
+n. friendly social atmosphere 友谊
+[[civility]]

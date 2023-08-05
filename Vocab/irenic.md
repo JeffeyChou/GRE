@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>irenic</strong></pre>
-|   |   |   |
-|---|---|---|
-|irenic|[aɪ'ri:nɪk]|adj. favoring, conducive to, or operating toward peace, moderation, or conciliation 和平主义的|
+[aɪ'ri:nɪk]
+adj. favoring, conducive to, or operating toward peace, moderation, or conciliation 和平主义的

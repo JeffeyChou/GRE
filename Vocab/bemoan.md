@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>bemoan</strong></pre>
-|   |   |
-|---|---|
-|bemoan [bɪˈməʊn]|v. to complain about 埋怨|
+[bɪˈməʊn]
+v. to complain about 埋怨

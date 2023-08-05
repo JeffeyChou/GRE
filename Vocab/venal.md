@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>venal</strong></pre>
-|   |   |   |
-|---|---|---|
-|venal|[ˈvi:nl]|adj. willing to do dishonest things in return for money 贪污的，唯利是图的|
+[ˈvi:nl]
+adj. willing to do dishonest things in return for money 贪污的，唯利是图的

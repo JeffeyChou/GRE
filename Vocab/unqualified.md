@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>unqualified</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|unqualified|[ˌʌnˈkwɒlɪfaɪd]|(1)adj. complete or total 完全的，不受限制的(2)adj. not having the skills, knowledge, or experience needed to do aparticular job or activity ⽆资格的|[[unalloyed]]|
+[ˌʌnˈkwɒlɪfaɪd]
+(1)adj. complete or total 完全的，不受限制的(2)adj. not having the skills, knowledge, or experience needed to do aparticular job or activity ⽆资格的
+[[unalloyed]]

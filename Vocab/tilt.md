@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>tilt</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|tilt|[tɪlt]|n. slant, bias 倾斜，偏⻅|[[list]]|
+[tɪlt]
+n. slant, bias 倾斜，偏⻅
+[[list]]

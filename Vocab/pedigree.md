@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>pedigree</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|pedigree|[ˈpɛdɪˌɡri]|n. an ancestral line 身世|[[origin]]|
+[ˈpɛdɪˌɡri]
+n. an ancestral line 身世
+[[origin]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>trenchant</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|trenchant|[ˈtrentʃənt]|adj. very strong, clear, and effective 有⼒的，有效的|[[profound]], [[incisive]]|
+[ˈtrentʃənt]
+adj. very strong, clear, and effective 有⼒的，有效的
+[[profound]], [[incisive]]

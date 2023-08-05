@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>redouble</strong></pre>
-|   |   |   |
-|---|---|---|
-|redouble|[,ri'dʌbl]|v. to greatly increase the size or amount of ⼤量增加|
+[,ri'dʌbl]
+v. to greatly increase the size or amount of ⼤量增加

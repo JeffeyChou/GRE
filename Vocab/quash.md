@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>quash</strong></pre>
-|   |   |   |
-|---|---|---|
-|quash|[kwɒʃ]|(1)v. to suppress or extinguish summarily and completely 平息(2)v. to nullify especially by judicial action 否决|
+[kwɒʃ]
+(1)v. to suppress or extinguish summarily and completely 平息(2)v. to nullify especially by judicial action 否决

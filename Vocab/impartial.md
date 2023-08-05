@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>impartial</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ɪmˈpɑ:ʃl]|adj. treating all people and groups equally 公正的|[[evenhanded]], [[disinterested]], [[fair]], [[detachment]]|
+
+[ɪmˈpɑ:ʃl]
+adj. treating all people and groups equally 公正的
+[[evenhanded]], [[disinterested]], [[fair]], [[detachment]]

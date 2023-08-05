@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>platitudinous</strong></pre>
-|   |   |   |
-|---|---|---|
-|platitudinous|[ˌplætɪ'tju:dɪnəs]|adj. having the characteristics of a platitude 陈腐的|
+[ˌplætɪ'tju:dɪnəs]
+adj. having the characteristics of a platitude 陈腐的

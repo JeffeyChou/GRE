@@ -9,6 +9,7 @@ aliases:
 ---
 
 <pre><strong>preoccupy</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|prejudice|[ˈpredʒudɪs]|(1)n. a feeling of like or dislike for someone or something especiallywhen it is not reasonable or logical 偏⻅(2)n. preconceived judgment or opinion 先⼊之⻅|[[preconception]]|
+prejudice
+[ˈpredʒudɪs]
+(1)n. a feeling of like or dislike for someone or something especiallywhen it is not reasonable or logical 偏⻅(2)n. preconceived judgment or opinion 先⼊之⻅
+[[preconception]]

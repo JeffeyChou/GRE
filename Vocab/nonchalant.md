@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>nonchalant</strong></pre>
-|   |   |   |
-|---|---|---|
-|nonchalant [,nɑnʃə'lɑnt]|adj. having an air of easy unconcern or indifference 冷漠的|[[insouciant]]|
+[,nɑnʃə'lɑnt]
+adj. having an air of easy unconcern or indifference 冷漠的
+[[insouciant]]

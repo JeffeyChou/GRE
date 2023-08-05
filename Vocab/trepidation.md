@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>trepidation</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|trepidation|[ˌtrepɪˈdeɪʃn]|n. a nervous or fearful feeling of uncertain agitation 不安|[[misgiving]], [[apprehension]]|
+[ˌtrepɪˈdeɪʃn]
+n. a nervous or fearful feeling of uncertain agitation 不安
+[[misgiving]], [[apprehension]]

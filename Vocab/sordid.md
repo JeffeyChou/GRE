@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>sordid</strong></pre>
-|   |   |   |
-|---|---|---|
-|sordid|['sɔːdɪd]|(1)adj. very dirty 肮脏的(2)adj. very bad or dishonest 卑鄙的，不诚实的|
+['sɔːdɪd]
+(1)adj. very dirty 肮脏的(2)adj. very bad or dishonest 卑鄙的，不诚实的

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>respite</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|respite|[ˈrespaɪt]|n. an interval of rest or relief 喘息|[[lull]], [[relief]], [[break]]|
+[ˈrespaɪt]
+n. an interval of rest or relief 喘息
+[[lull]], [[relief]], [[break]]

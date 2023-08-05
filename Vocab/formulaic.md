@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>formulaic</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ˌfɔ:mjuˈleɪɪk]|adj. being not original and having been used many times before in similar situations ⽼套的，公式化的|[[canned]]|
+
+[ˌfɔ:mjuˈleɪɪk]
+adj. being not original and having been used many times before in similar situations ⽼套的，公式化的
+[[canned]]

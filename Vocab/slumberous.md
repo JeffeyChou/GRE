@@ -9,7 +9,8 @@ aliases:
 ---
 
 <pre><strong>slumberous</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|slumberous|['slʌmbərəs]|adj. marked by or suggestive of a state of sleep or lethargy 昏睡的|[[lethargic]]|
+['slʌmbərəs]
+adj. marked by or suggestive of a state of sleep or lethargy 昏睡的
+[[lethargic]]
+
 [[slumber]]

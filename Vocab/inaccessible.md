@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>inaccessible</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ˌɪnækˈsesəbl]|adj. difficult or impossible to reach, approach, or understand 难以到达的，难以理解的|[[opaque]]|
+
+[ˌɪnækˈsesəbl]
+adj. difficult or impossible to reach, approach, or understand 难以到达的，难以理解的
+[[opaque]]

@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>reticent</strong></pre>
-|   |   |   |
-|---|---|---|
-|reticent|[ˈretɪsnt]|adj. not willing to tell people about things 缄默的|
+[ˈretɪsnt]
+adj. not willing to tell people about things 缄默的

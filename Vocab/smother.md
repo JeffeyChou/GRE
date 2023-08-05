@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>smother</strong></pre>
-|   |   |   |
-|---|---|---|
-|smother|[ˈsmʌðə]|(1)v. to try to keep from happening 抑制(2)v. to kill by depriving of air 使窒息⽽死|
+[ˈsmʌðə]
+(1)v. to try to keep from happening 抑制(2)v. to kill by depriving of air 使窒息⽽死

@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>put to rest</strong></pre>
-|   |   |   |
-|---|---|---|
-|put to rest|phrase. 排除|[[eliminated]]|
+phrase. 排除
+[[eliminated]]

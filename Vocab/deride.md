@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>deride</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|deride|[dɪˈraɪd]|v. to laugh at or insult contemptuously 鄙视|[[lambaste]]|
+[dɪˈraɪd]
+v. to laugh at or insult contemptuously 鄙视
+[[lambaste]]

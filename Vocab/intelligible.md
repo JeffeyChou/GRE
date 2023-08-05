@@ -8,6 +8,9 @@ aliases:
 ---
 
 <pre><strong>intelligible</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|intelligible|[ɪnˈtelɪdʒəbl]|adj. able to be understood 可理解的|[[readable]]|
+
+intelligible
+[ɪnˈtelɪdʒəbl]
+adj. able to be understood 可理解的
+[[readable]]
+

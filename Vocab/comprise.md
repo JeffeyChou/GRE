@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>comprise</strong></pre>
-|   |   |   |
-|---|---|---|
-|comprise|[kəm'praɪz]|v. to include or consist of 包含|
+[kəm'praɪz]
+v. to include or consist of 包含

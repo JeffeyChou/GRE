@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>terrific</strong></pre>
-|   |   |
-|---|---|
-|terrific [tə'rɪfɪk]|adj. extremely good 极好的|
+[tə'rɪfɪk]
+adj. extremely good 极好的

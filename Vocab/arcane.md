@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>arcane</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|arcane|[ɑ:ˈkeɪn]|adj. secret or mysterious 难懂的|[[esoteric]], [[recondite]], [[abstruse]]|
+[ɑ:ˈkeɪn]
+adj. secret or mysterious 难懂的
+[[esoteric]], [[recondite]], [[abstruse]]

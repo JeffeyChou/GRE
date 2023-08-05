@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>malodorous</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|malodorous|[ˌmælˈəʊdərəs]|adj. having a bad smell 难闻的|[[noisome]]|
+[ˌmælˈəʊdərəs]
+adj. having a bad smell 难闻的
+[[noisome]]

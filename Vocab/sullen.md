@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>sullen</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|sullen|[ˈsʌlən]|adj. dismal, gloomy 郁郁寡欢的|[[surly]], [[grumpy]]|
+[ˈsʌlən]
+adj. dismal, gloomy 郁郁寡欢的
+[[surly]], [[grumpy]]

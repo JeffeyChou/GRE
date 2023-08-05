@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>rattle</strong></pre>
-|   |   |   |
-|---|---|---|
-|rattle|[ˈrætl]|v. to make nervous 使紧张，使不安|
+[ˈrætl]
+v. to make nervous 使紧张，使不安

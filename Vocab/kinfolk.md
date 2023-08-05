@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>kinfolk</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|kinfolk|['kɪnfəʊk]|n. a person's relatives 亲戚|[[relative]]|
+['kɪnfəʊk]
+n. a person's relatives 亲戚
+[[relative]]

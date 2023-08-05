@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>skittish</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|skittish|['skɪtɪʃ]|adj. easily frightened or excited 易受惊的|[[restive]], [[fractious]]|
+['skɪtɪʃ]
+adj. easily frightened or excited 易受惊的
+[[restive]], [[fractious]]

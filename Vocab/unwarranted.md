@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>unwarranted</strong></pre>
-|   |   |   |
-|---|---|---|
-|unwarranted [ʌnˈwɒrəntɪd]|adj. if you describe something as unwarranted, you are critical of it because there is no need or reason for it ⽆根据的|[[groundless]], [[baseless]]|
+[ʌnˈwɒrəntɪd]
+adj. if you describe something as unwarranted, you are critical of it because there is no need or reason for it ⽆根据的
+[[groundless]], [[baseless]]

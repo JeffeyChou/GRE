@@ -9,6 +9,6 @@ created: 2023-08-01 18:11:04
 ---
 
 <pre><strong>dissemble</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|dissemble|[di'sembl]|v. to hide your true feelings, opinions, etc. 伪装|[[duplicity]]|
+[di'sembl]
+v. to hide your true feelings, opinions, etc. 伪装
+[[duplicity]]

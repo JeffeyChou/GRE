@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>unremitting</strong></pre>
-|   |   |   |
-|---|---|---|
-|un[[remit]]ting [ˌʌnrɪˈmɪtɪŋ]|adj. not stopping or growing weaker 不停的|[[unceasing]]|
+un[[remit]]ting [ˌʌnrɪˈmɪtɪŋ]
+adj. not stopping or growing weaker 不停的
+[[unceasing]]

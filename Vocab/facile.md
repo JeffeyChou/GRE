@@ -8,6 +8,6 @@ aliases:
 ---
 
 <pre><strong>facile</strong></pre>
-|   |   |
-|---|---|
-|[ˈfæsaɪl]|adj. not showing enough thought or effort 肤浅的，轻率的|
+
+[ˈfæsaɪl]
+adj. not showing enough thought or effort 肤浅的，轻率的

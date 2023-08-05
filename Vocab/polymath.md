@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>polymath</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|polymath|[ˈpɒlimæθ]|n. someone who knows a lot about many different things 博学者|[[encyclopedic]]|
+[ˈpɒlimæθ]
+n. someone who knows a lot about many different things 博学者
+[[encyclopedic]]

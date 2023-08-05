@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>slapdash</strong></pre>
-|   |   |   |
-|---|---|---|
-|slapdash|[ˈslæpdæʃ]|adj. quick and careless 草率的|
+[ˈslæpdæʃ]
+adj. quick and careless 草率的

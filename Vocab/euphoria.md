@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>euphoria</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ju:ˈfɔ:riə]|n. a feeling of great happiness and excitement 狂喜|[[ecstasy]]|
+
+[ju:ˈfɔ:riə]
+n. a feeling of great happiness and excitement 狂喜
+[[ecstasy]]

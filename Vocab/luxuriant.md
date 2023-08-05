@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>luxuriant</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|luxuriant|[lʌgˈʒʊəriənt]|(1)adj. yielding abundantly 茂盛的(2)adj. abundantly and often extravagantly rich and varied 丰富的|[[rampant]]|
+[lʌgˈʒʊəriənt]
+(1)adj. yielding abundantly 茂盛的(2)adj. abundantly and often extravagantly rich and varied 丰富的
+[[rampant]]

@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>veracity</strong></pre>
-|   |   |   |
-|---|---|---|
-|veracity|[vəˈræsəti]|n. truth or accuracy 真实|
+[vəˈræsəti]
+n. truth or accuracy 真实

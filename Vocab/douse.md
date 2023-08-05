@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>douse</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|douse|[daʊs]|v. extinguish 熄灭|[[extinguish]]|
+[daʊs]
+v. extinguish 熄灭
+[[extinguish]]

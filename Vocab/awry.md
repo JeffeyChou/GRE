@@ -9,7 +9,7 @@ aliases:
 ---
 
 <pre><strong>awry</strong></pre>
-|   |   |   |
-|---|---|---|
-|awry|[əˈraɪ]|(1)adv. not working correctly or happening in the expected way 出错地(2)adj. not straight or neat 歪斜的|
+[əˈraɪ]
+(1)adv. not working correctly or happening in the expected way 出错地(2)adj. not straight or neat 歪斜的
+
 [[list]],[[tilt]]

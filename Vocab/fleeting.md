@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>fleeting</strong></pre>
-|   |   |   |
-|---|---|---|
-|['flitɪŋ]|adj. lasting for only a short time 短暂的|[[momentary]]|
+
+['flitɪŋ]
+adj. lasting for only a short time 短暂的
+[[momentary]]

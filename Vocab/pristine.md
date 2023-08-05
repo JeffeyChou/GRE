@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>pristine</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|pristine|[ˈprɪsti:n]|(1)adj. belonging to the earliest period or state 原始的(2)adj. not spoiled, corrupted, or polluted 崭新的|[[unblemished]]|
+[ˈprɪsti:n]
+(1)adj. belonging to the earliest period or state 原始的(2)adj. not spoiled, corrupted, or polluted 崭新的
+[[unblemished]]

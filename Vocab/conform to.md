@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>conform to</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|conform to|[kənˈfɔ:m]|(1)v. to obey or agree with something 遵从(2)v. to be in agreement or harmony 与...⼀致|[[square with]]|
+[kənˈfɔ:m]
+(1)v. to obey or agree with something 遵从(2)v. to be in agreement or harmony 与...⼀致
+[[square with]]

@@ -8,6 +8,6 @@ aliases:
 ---
 
 <pre><strong>gaffe</strong></pre>
-|   |   |
-|---|---|
-|[gæf]|n. a mistake made in a social situation 失礼|
+
+[gæf]
+n. a mistake made in a social situation 失礼

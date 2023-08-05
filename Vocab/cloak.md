@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>cloak</strong></pre>
-|   |   |   |
-|---|---|---|
-|cloak|[klok]|v. to hide or disguise 掩盖|
+[klok]
+v. to hide or disguise 掩盖

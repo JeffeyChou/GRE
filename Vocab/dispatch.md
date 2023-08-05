@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>dispatch</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|dispatch|[dɪˈspætʃ]|(1)v. to send quickly to a particular place for a particular purpose 派遣(2)n. promptness and efficiency in performance or transmission 迅速|[[celerity]]|
+[dɪˈspætʃ]
+(1)v. to send quickly to a particular place for a particular purpose 派遣(2)n. promptness and efficiency in performance or transmission 迅速
+[[celerity]]

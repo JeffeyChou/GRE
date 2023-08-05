@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>pilfer</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|pilfer|[ˈpɪlfə]|v. to steal things that are not very valuable or to steal a small amount ofsomething 偷窃|[[appropriate]]|
+[ˈpɪlfə]
+v. to steal things that are not very valuable or to steal a small amount ofsomething 偷窃
+[[appropriate]]

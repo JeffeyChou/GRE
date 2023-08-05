@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>mollify</strong></pre>
-|   |   |   |
-|---|---|---|
-|mollify|[ˈmɒlɪfaɪ]|v. to make less angry 平息，抚慰|
+[ˈmɒlɪfaɪ]
+v. to make less angry 平息，抚慰

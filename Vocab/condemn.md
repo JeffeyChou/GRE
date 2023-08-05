@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>condemn</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|condemn|[kənˈdem]|v. to say in a strong and definitive way that someone or something isbad or wrong 谴责|[[decry]]|
+[kənˈdem]
+v. to say in a strong and definitive way that someone or something isbad or wrong 谴责
+[[decry]]

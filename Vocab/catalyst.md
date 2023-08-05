@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>catalyst</strong></pre>
-|   |   |   |
-|---|---|---|
-|catalyst [ˈkætlɪst]|n. an agent that provokes or speeds significant change or action 催化剂，促进因素|[[factor]]|
+[ˈkætlɪst]
+n. an agent that provokes or speeds significant change or action 催化剂，促进因素
+[[factor]]

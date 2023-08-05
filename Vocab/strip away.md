@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>strip away</strong></pre>
-|   |   |   |
-|---|---|---|
-|strip away [strip əˈwei]|phrase. to remove it completely 除去|[[remove]], [[divest]]|
+[strip əˈwei]
+phrase. to remove it completely 除去
+[[remove]], [[divest]]

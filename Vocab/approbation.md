@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>approbation</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|approbation|[ˌæprəˈbeɪʃn]|n. an act of approving formally or officially 赞同|[[adulation]], [[commendation]]|
+[ˌæprəˈbeɪʃn]
+n. an act of approving formally or officially 赞同
+[[adulation]], [[commendation]]

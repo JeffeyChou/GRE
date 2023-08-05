@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>ring true</strong></pre>
-|   |   |   |
-|---|---|---|
-|ring true|phrase. 听来真实|[[resonate]]|
+phrase. 听来真实
+[[resonate]]

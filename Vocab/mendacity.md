@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>mendacity</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|mendacity|[menˈdæsəti]|n. lacking of honesty 不诚实|[[hypocrisy]], [[disinformation]]|
+[menˈdæsəti]
+n. lacking of honesty 不诚实
+[[hypocrisy]], [[disinformation]]

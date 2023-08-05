@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>flagrant</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ˈfleɪgrənt]|adj. conspicuously offensive 明⽬张胆的|[[egregious]]|
+
+[ˈfleɪgrənt]
+adj. conspicuously offensive 明⽬张胆的
+[[egregious]]

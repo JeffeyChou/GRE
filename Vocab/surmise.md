@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>surmise</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|surmise|[səˈmaɪz]|(1)v. to form an opinion about something without definitely knowing the truth 推测(2)n. a thought or idea based on scanty evidence 猜测|[[infer]]|
+[səˈmaɪz]
+(1)v. to form an opinion about something without definitely knowing the truth 推测(2)n. a thought or idea based on scanty evidence 猜测
+[[infer]]

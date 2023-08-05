@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>intimate</strong></pre>
-|   |   |   |
-|---|---|---|
-|intimate|['ɪntɪmət]|(1)adj. having a very close relationship 亲密的(2)v. to say or suggest in an indirect way 暗示|
+['ɪntɪmət]
+(1)adj. having a very close relationship 亲密的(2)v. to say or suggest in an indirect way 暗示

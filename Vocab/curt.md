@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>curt</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|curt|[kɜ:t]|(1)adj. sparing of words 话少的(2)adj. marked by rude or peremptory shortness 唐突⽆礼的|[[laconic]], [[terse]], [[taciturn]]|
+[kɜ:t]
+(1)adj. sparing of words 话少的(2)adj. marked by rude or peremptory shortness 唐突⽆礼的
+[[laconic]], [[terse]], [[taciturn]]

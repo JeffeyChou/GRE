@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>profusion</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|profusion|[prəˈfju:ʒn]|n. a large amount of something ⼤量|[[wealth]]|
+[prəˈfju:ʒn]
+n. a large amount of something ⼤量
+[[wealth]]

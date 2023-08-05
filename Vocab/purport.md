@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>purport</strong></pre>
-|   |   |   |
-|---|---|---|
-|purport|[pəˈpɔ:t]|(1)v. to claim to be or do a particular thing when this claim may not betrue （假意）声称(2)n. the main or general meaning of something 意义|
+[pəˈpɔ:t]
+(1)v. to claim to be or do a particular thing when this claim may not betrue （假意）声称(2)n. the main or general meaning of something 意义

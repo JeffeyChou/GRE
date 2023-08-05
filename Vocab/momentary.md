@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>momentary</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|momentary|[ˈməʊməntri]|adj. lasting a very short time 短暂的|[[evanescent]]|
+[ˈməʊməntri]
+adj. lasting a very short time 短暂的
+[[evanescent]]

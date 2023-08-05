@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>competing</strong></pre>
-|   |   |   |
-|---|---|---|
-|competing|[kəm'pitɪŋ]|adj. used for ideas, requirements, or interests that cannot all be right or satisfied at the same time 相互⽭盾的|
+[kəm'pitɪŋ]
+adj. used for ideas, requirements, or interests that cannot all be right or satisfied at the same time 相互⽭盾的

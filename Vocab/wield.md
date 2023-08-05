@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>wield</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|wield|[wi:ld]|v. to have and use (power, influence, etc.) ⾏使，施加|[[exert]]|
+[wi:ld]
+v. to have and use (power, influence, etc.) ⾏使，施加
+[[exert]]

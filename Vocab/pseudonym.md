@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>pseudonym</strong></pre>
-|   |   |   |
-|---|---|---|
-|pseudonym|[ˈsu:dənɪm]|n. a name that someone uses instead of his or her real name 笔名，假名|
+[ˈsu:dənɪm]
+n. a name that someone uses instead of his or her real name 笔名，假名

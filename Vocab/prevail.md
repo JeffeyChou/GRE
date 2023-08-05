@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>prevail</strong></pre>
-|   |   |
-|---|---|
-|[prɪˈveɪl]|(1)v. to be usual, common, or popular 流⾏(2)v. to defeat an opponent especially in a long or difficult contest 占优势|
+[prɪˈveɪl]
+(1)v. to be usual, common, or popular 流⾏(2)v. to defeat an opponent especially in a long or difficult contest 占优势

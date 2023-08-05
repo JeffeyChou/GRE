@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>circumscribe</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|circumscribe|[ˈsɜ:kəmskraɪb]|v. to limit the size or amount of 限制|[[confine]], [[limit]]|
+[ˈsɜ:kəmskraɪb]
+v. to limit the size or amount of 限制
+[[confine]], [[limit]]

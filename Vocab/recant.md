@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>recant</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|recant|[rɪˈkænt]|v. to publicly say that you no longer have an opinion or belief that youonce had 宣布放弃|[[repudiate]]|
+[rɪˈkænt]
+v. to publicly say that you no longer have an opinion or belief that youonce had 宣布放弃
+[[repudiate]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>deterioration</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|deterioration|[dɪˌtɪərɪə'reɪʃn]|n. the act or process of becoming worse 恶化|[[decay]], [[decline]]|
+[dɪˌtɪərɪə'reɪʃn]
+n. the act or process of becoming worse 恶化
+[[decay]], [[decline]]

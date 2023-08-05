@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>sham</strong></pre>
-|   |   |   |
-|---|---|---|
-|sham|[ʃæm]|n. cheep falseness 假东⻄，赝品|
+[ʃæm]
+n. cheep falseness 假东⻄，赝品

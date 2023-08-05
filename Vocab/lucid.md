@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>lucid</strong></pre>
-|   |   |
-|---|---|
-|lucid [lu:'sɪd]|adj. very clear and easy to understand 清晰的，易懂的|
+[lu:'sɪd]
+adj. very clear and easy to understand 清晰的，易懂的

@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>occlude</strong></pre>
-|   |   |   |
-|---|---|---|
-|occlude|[əˈklu:d]|v. to close up or block off 阻闭|
+[əˈklu:d]
+v. to close up or block off 阻闭

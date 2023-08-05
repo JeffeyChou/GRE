@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>unceasing</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|unceasing|[ʌnˈsi:sɪŋ]|adj. never stopping 不停的|[[unremitting]]|
+[ʌnˈsi:sɪŋ]
+adj. never stopping 不停的
+[[unremitting]]

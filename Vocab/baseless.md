@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>baseless</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|baseless|[ˈbeɪsləs]|adj. not true and is not based on facts [[⽆根据的]]|[[unfounded]], [[untenable]]|
+[ˈbeɪsləs]
+adj. not true and is not based on facts [[⽆根据的]]
+[[unfounded]], [[untenable]]

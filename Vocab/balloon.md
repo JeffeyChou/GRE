@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>balloon</strong></pre>
-|   |   |   |
-|---|---|---|
-|balloon|[bə'lun]|v. to become bigger quickly [[激增]]|
+[bə'lun]
+v. to become bigger quickly [[激增]]
+

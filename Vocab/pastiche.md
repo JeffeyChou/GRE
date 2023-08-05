@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>pastiche</strong></pre>
-|   |   |   |
-|---|---|---|
-|pastiche|[pæˈsti:ʃ]|n. a mixture of different things ⼤杂烩|
+[pæˈsti:ʃ]
+n. a mixture of different things ⼤杂烩

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>no-nonsense</strong></pre>
-|   |   |   |
-|---|---|---|
-|no-nonsense['nəu'nɔnsəns]|adj. very serious about doing things in a direct and efficient way without any foolishness or nonsense 严肃的，⾼效⼲练的|[[businesslike]]|
+['nəu'nɔnsəns]
+adj. very serious about doing things in a direct and efficient way without any foolishness or nonsense 严肃的，⾼效⼲练的
+[[businesslike]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>pointless</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|pointless|[ˈpɔɪntləs]|adj. having no meaning, purpose, or effect ⽆意义的|[[futile]]|
+[ˈpɔɪntləs]
+adj. having no meaning, purpose, or effect ⽆意义的
+[[futile]]

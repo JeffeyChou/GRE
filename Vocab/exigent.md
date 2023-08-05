@@ -8,7 +8,4 @@ aliases:
 ---
 
 <pre><strong>exigent</strong></pre>
-|   |   |   |
-|---|---|---|
-|['eksɪdʒənt]|adj. requiring immediate attention 迫切的|[[pressing]]|
 [[exigencies]]

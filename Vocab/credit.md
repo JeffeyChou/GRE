@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>credit</strong></pre>
-|   |   |   |
-|---|---|---|
-|credit|[ˈkredɪt]|(1)n. a record of how well you have paid your bills in the past 信⽤<mark style="background: #ABF7F7A6;">(2)v. to give honor or recognition to for doing something or for making something happen 赞扬</mark>|
+[ˈkredɪt]
+(1)n. a record of how well you have paid your bills in the past 信⽤<mark style="background: #ABF7F7A6;">(2)v. to give honor or recognition to for doing something or for making something happen 赞扬</mark>

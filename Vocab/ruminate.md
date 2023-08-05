@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>ruminate</strong></pre>
-|   |   |   |
-|---|---|---|
-|ruminate|['rumɪnet]|v. to think carefully and deeply about something 认真思考|
+['rumɪnet]
+v. to think carefully and deeply about something 认真思考

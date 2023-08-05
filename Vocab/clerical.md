@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>clerical</strong></pre>
-|   |   |   |
-|---|---|---|
-|clerical|['klɛrɪkl]|adj. of or relating to a clerk or office worker 职员的，牧师的|
+['klɛrɪkl]
+adj. of or relating to a clerk or office worker 职员的，牧师的

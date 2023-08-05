@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>obedience</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|obedience|[ə'bi:dɪəns]|n. the act of obeying 服从|[[submission]]|
+[ə'bi:dɪəns]
+n. the act of obeying 服从
+[[submission]]

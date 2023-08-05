@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>boon</strong></pre>
-|   |   |   |
-|---|---|---|
-|boon [bu:n]|n. something pleasant or helpful 好处，恩惠|[[benefit]]|
+[bu:n]
+n. something pleasant or helpful 好处，恩惠
+[[benefit]]

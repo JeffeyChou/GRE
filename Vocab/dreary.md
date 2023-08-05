@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>dreary</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|dreary|[ˈdrɪəri]|adj. causing unhappiness or sad feelings 枯燥乏味的|[[tedious]]|
+[ˈdrɪəri]
+adj. causing unhappiness or sad feelings 枯燥乏味的
+[[tedious]]

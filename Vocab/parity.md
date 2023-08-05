@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>parity</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|parity|[ˈpærəti]|n. the quality or state of being equal or equivalent 平等，相等|[[equality]]|
+[ˈpærəti]
+n. the quality or state of being equal or equivalent 平等，相等
+[[equality]]

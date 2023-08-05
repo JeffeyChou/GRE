@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>provincial</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|provincial|[prəˈvɪnʃl]|(1)adj. not knowing or caring about people and events in other places狭隘的(2)adj. of, relating to, or coming from a province 省的|[[insular]]|
+[prəˈvɪnʃl]
+(1)adj. not knowing or caring about people and events in other places狭隘的(2)adj. of, relating to, or coming from a province 省的
+[[insular]]

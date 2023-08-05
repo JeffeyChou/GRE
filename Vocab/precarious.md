@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>precarious</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|precarious|[prɪˈkeəriəs]|adj. not safe, strong, or steady 危险的，不稳固的|[[perilous]]|
+[prɪˈkeəriəs]
+adj. not safe, strong, or steady 危险的，不稳固的
+[[perilous]]

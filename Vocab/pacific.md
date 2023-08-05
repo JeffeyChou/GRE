@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>pacific</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|pacific|[pəˈsɪfɪk]|adj. loving peace 和平主义的|[[dovish]]|
+[pəˈsɪfɪk]
+adj. loving peace 和平主义的
+[[dovish]]

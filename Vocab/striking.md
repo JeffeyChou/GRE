@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>striking</strong></pre>
-|   |   |
-|---|---|
-|striking [ˈstraɪkɪŋ]|adj. attracting attention or notice through unusual or conspicuous qualities 引⼈注⽬的|
+[ˈstraɪkɪŋ]
+adj. attracting attention or notice through unusual or conspicuous qualities 引⼈注⽬的

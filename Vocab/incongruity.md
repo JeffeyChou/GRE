@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>incongruity</strong></pre>
-|   |   |   |
-|---|---|---|
-|[,ɪnkɑŋ'grʊəti]|n. something that is incongruous ⽭盾|[[discrepancy]]|
+
+[,ɪnkɑŋ'grʊəti]
+n. something that is incongruous ⽭盾
+[[discrepancy]]

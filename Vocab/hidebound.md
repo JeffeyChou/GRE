@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>hidebound</strong></pre>
-|   |   |   |
-|---|---|---|
-|hidebound|['haɪdbaʊnd]|adj. not willing to accept new or different ideas 迂腐守旧的|
+
+hidebound
+['haɪdbaʊnd]
+adj. not willing to accept new or different ideas 迂腐守旧的

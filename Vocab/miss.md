@@ -9,6 +9,8 @@ aliases:
 ---
 
 <pre><strong>miss</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|remiss|[rɪˈmɪs]|adj. not showing enough care and attention 懈怠的|[[dilatory]]|re
+remiss
+[rɪˈmɪs]
+adj. not showing enough care and attention 懈怠的
+[[dilatory]]
+re

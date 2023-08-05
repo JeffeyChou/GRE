@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>laconic</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|laconic|[ləˈkɒnɪk]|adj. using few words in speech or writing 简洁的|[[taciturn]], [[terse]], [[curt]]|
+[ləˈkɒnɪk]
+adj. using few words in speech or writing 简洁的
+[[taciturn]], [[terse]], [[curt]]

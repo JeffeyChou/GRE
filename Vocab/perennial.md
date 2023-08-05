@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>perennial</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|perennial|[pəˈreniəl]|adj. existing or continuing in the same way for a long time 持久的|[[long-standing]]|
+[pəˈreniəl]
+adj. existing or continuing in the same way for a long time 持久的
+[[long-standing]]

@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>alarmist</strong></pre>
-|   |   |   |
-|---|---|---|
-|alarmist|[əˈlɑ:mɪst]|adj. causing unnecessary fear or anxiety that something unpleasant or dangerous is going to happen 危⾔耸听的|
+[əˈlɑ:mɪst]
+adj. causing unnecessary fear or anxiety that something unpleasant or dangerous is going to happen 危⾔耸听的

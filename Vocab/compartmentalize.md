@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>compartmentalize</strong></pre>
-|   |   |
-|---|---|
-|compartmentalize [ˌkɒmpɑ:t ˈmentəlaɪz]|v. to divide into separate sections 分开|
+[ˌkɒmpɑ:t ˈmentəlaɪz]
+v. to divide into separate sections 分开

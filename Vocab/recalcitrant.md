@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>recalcitrant</strong></pre>
-|   |   |   |
-|---|---|---|
-|recalcitrant|[rɪˈkælsɪtrənt]|adj. obstinately defiant of authority or restraint 倔强反抗的|
+[rɪˈkælsɪtrənt]
+adj. obstinately defiant of authority or restraint 倔强反抗的

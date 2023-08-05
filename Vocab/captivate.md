@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>captivate</strong></pre>
-|   |   |   |
-|---|---|---|
-|captivate [ˈkæptɪveɪt]|v. to attract and hold the attention of by being interesting, pretty, etc. 迷住|[[enamor]]|
+[ˈkæptɪveɪt]
+v. to attract and hold the attention of by being interesting, pretty, etc. 迷住
+[[enamor]]

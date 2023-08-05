@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>omit</strong></pre>
-|   |   |
-|---|---|
-|omit [ə'mɪt]|v. to leave out 遗漏|
+[ə'mɪt]
+v. to leave out 遗漏

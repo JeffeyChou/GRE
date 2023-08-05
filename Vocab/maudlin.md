@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>maudlin</strong></pre>
-|   |   |   |
-|---|---|---|
-|maudlin|[ˈmɔ:dlɪn]|adj. weakly and effusively sentimental 多愁善感的|
+[ˈmɔ:dlɪn]
+adj. weakly and effusively sentimental 多愁善感的

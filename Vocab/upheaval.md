@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>upheaval</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|upheaval|[ʌpˈhi:vl]|n. a major change or period of change that causes a lot of conflict,confusion, anger, etc. 剧变|[[convulsion]]|
+[ʌpˈhi:vl]
+n. a major change or period of change that causes a lot of conflict,confusion, anger, etc. 剧变
+[[convulsion]]

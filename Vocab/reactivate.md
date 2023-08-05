@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>reactivate</strong></pre>
-|   |   |   |
-|---|---|---|
-|reactivate|[riˈæktɪveɪt]|v. to make it work again after a period in which it has not been working 恢复|
+[riˈæktɪveɪt]
+v. to make it work again after a period in which it has not been working 恢复

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>auspicious</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|auspicious|[ɔ:ˈspɪʃəs]|adj. showing or suggesting that future success is likely 有望成功的|[[favorable]]|
+[ɔ:ˈspɪʃəs]
+adj. showing or suggesting that future success is likely 有望成功的
+[[favorable]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>opprobrium</strong></pre>
-|   |   |   |
-|---|---|---|
-|opprobrium [əˈprəʊbriəm]|(1)n. very strong disapproval or criticism of a person or thing especiallyby a large number of people 谴责(2)n. something that brings disgrace 耻辱|[[disdain]], [[vitriol]]|
+[əˈprəʊbriəm]
+(1)n. very strong disapproval or criticism of a person or thing especiallyby a large number of people 谴责(2)n. something that brings disgrace 耻辱
+[[disdain]], [[vitriol]]

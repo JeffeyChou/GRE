@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>dearth</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|dearth|[dɜ:θ]|n. the state or condition of not having enough of something 缺乏|[[paucity]], [[modicum]]|
+[dɜ:θ]
+n. the state or condition of not having enough of something 缺乏
+[[paucity]], [[modicum]]

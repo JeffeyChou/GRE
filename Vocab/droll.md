@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>droll</strong></pre>
-|   |   |   |
-|---|---|---|
-|droll|[drəʊl]|adj. having an odd and amusing quality 滑稽的|
+[drəʊl]
+adj. having an odd and amusing quality 滑稽的

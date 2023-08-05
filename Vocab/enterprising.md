@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>enterprising</strong></pre>
-|   |   |
-|---|---|
-|enterprising [ˈentəpraɪzɪŋ]|adj. having or showing the ability or desire to do new and difficult things有进取⼼的|
+[ˈentəpraɪzɪŋ]
+adj. having or showing the ability or desire to do new and difficult things有进取⼼的

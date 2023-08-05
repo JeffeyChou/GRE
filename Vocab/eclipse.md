@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>eclipse</strong></pre>
-|   |   |   |
-|---|---|---|
-|eclipse [ɪˈklɪps]|(1)n. a loss of power, success, popularity, etc. [[衰]](2)v. to make less important or popular 使…不重要，胜过|[[outdo]]|
+[ɪˈklɪps]
+(1)n. a loss of power, success, popularity, etc. [[衰]](2)v. to make less important or popular 使…不重要，胜过
+[[outdo]]

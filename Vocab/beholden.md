@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>beholden</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|beholden|[bɪ'holdən]|adj. being under obligation for a favor or gift ⽋…⼈情的|[[indebted]]|
+[bɪ'holdən]
+adj. being under obligation for a favor or gift ⽋…⼈情的
+[[indebted]]

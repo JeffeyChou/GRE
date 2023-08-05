@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>pastoral</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|pastoral|[ˈpɑ:stərəl]|adj. of or relating to the countryside or to the lives of people who live in the country 乡村的|[[bucolic]]|
+[ˈpɑ:stərəl]
+adj. of or relating to the countryside or to the lives of people who live in the country 乡村的
+[[bucolic]]

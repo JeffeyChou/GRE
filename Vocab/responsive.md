@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>responsive</strong></pre>
-|   |   |   |
-|---|---|---|
-|responsive|[rɪˈspɒnsɪv]|adj. quick to react or respond 反应敏捷的|
+[rɪˈspɒnsɪv]
+adj. quick to react or respond 反应敏捷的

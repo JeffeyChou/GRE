@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>construe</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|construe|[kən'stru]|v. to understand in a particular way 诠释，分析|[[interpret]]|
+[kən'stru]
+v. to understand in a particular way 诠释，分析
+[[interpret]]

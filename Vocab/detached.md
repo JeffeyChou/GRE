@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>detached</strong></pre>
-|   |   |   |
-|---|---|---|
-|detached|[dɪ'tætʃt]|adj. not influenced by emotions or personal interest 公正客观的|
+[dɪ'tætʃt]
+adj. not influenced by emotions or personal interest 公正客观的

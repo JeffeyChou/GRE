@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>abound</strong></pre>
-|   |   |   |
-|---|---|---|
-|abound [əˈbaʊnd]|v. to be present in large numbers or in great quantity 充满|[[proliferate]]|
+[əˈbaʊnd]
+v. to be present in large numbers or in great quantity 充满
+[[proliferate]]

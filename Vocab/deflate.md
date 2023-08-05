@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>deflate</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|deflate|[dɪˈfleɪt]|v. to reduce or cause to contract 使减少|[[soothe]]|
+[dɪˈfleɪt]
+v. to reduce or cause to contract 使减少
+[[soothe]]

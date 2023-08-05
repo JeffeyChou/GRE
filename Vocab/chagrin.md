@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>chagrin</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|chagrin|[ˈʃægrɪn]|n. a feeling of being frustrated or annoyed because of failure or disappointment 失望|[[vexation]]|
+[ˈʃægrɪn]
+n. a feeling of being frustrated or annoyed because of failure or disappointment 失望
+[[vexation]]

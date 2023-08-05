@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>implolitic</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ɪm'pɒlɪtɪk]|adj. unwise 不明智的|[[tactless]]|
+
+[ɪm'pɒlɪtɪk]
+adj. unwise 不明智的
+[[tactless]]

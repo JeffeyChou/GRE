@@ -8,6 +8,6 @@ aliases:
 ---
 
 <pre><strong>impenetrable</strong></pre>
-|   |   |
-|---|---|
-|[ɪm'penɪtrəbl]|adj. impossible to understand ⽆法理解的|
+
+[ɪm'penɪtrəbl]
+adj. impossible to understand ⽆法理解的

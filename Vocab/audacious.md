@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>audacious</strong></pre>
-|   |   |   |
-|---|---|---|
-|audacious [ɔ'deʃəs]|adj. very confident and daring ⼤胆的|[[striking]]|
+[ɔ'deʃəs]
+adj. very confident and daring ⼤胆的
+[[striking]]

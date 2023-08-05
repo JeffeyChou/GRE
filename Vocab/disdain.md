@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>disdain</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|disdain|[dɪsˈdeɪn]|n. a feeling of contempt for someone or something regarded as unworthy or inferior [[鄙视]]|[[opprobrium]], [[contempt]]|
+[dɪsˈdeɪn]
+n. a feeling of contempt for someone or something regarded as unworthy or inferior [[鄙视]]
+[[opprobrium]], [[contempt]]

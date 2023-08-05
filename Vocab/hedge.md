@@ -8,6 +8,6 @@ aliases:
 ---
 
 <pre><strong>hedge</strong></pre>
-|   |   |
-|---|---|
-|[hedʒ]|v. to avoid giving a promise or direct answer 回避|
+
+[hedʒ]
+v. to avoid giving a promise or direct answer 回避

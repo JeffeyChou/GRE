@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>mockery</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|mockery|[ˈmɒkəri]|n. insulting or contemptuous action or speech 嘲笑|[[derision]]|
+[ˈmɒkəri]
+n. insulting or contemptuous action or speech 嘲笑
+[[derision]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>mordant</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|mordant|[ˈmɔ:dnt]|adj. expressing harsh criticism especially in a way that is funny 尖刻的|[[acerbic]]|
+[ˈmɔ:dnt]
+adj. expressing harsh criticism especially in a way that is funny 尖刻的
+[[acerbic]]

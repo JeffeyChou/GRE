@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>ephemeral</strong></pre>
-|   |   |   |
-|---|---|---|
-|ephemeral [ɪˈfemərəl]|adj. lasting a very short time 短暂的|[[transitory]], [[short-lived]]|
+[ɪˈfemərəl]
+adj. lasting a very short time 短暂的
+[[transitory]], [[short-lived]]

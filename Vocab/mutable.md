@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>mutable</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|mutable|[ˈmju:təbl]|adj. able or likely to change often 易变的|[[liquid]]|
+[ˈmju:təbl]
+adj. able or likely to change often 易变的
+[[liquid]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>sycophantic</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|sycophantic|[ˌsɪkə'fæntɪk]|adj. fawning, obsequious 谄媚的|[[obsequious]], [[adulating]]|
+[ˌsɪkə'fæntɪk]
+adj. fawning, obsequious 谄媚的
+[[obsequious]], [[adulating]]

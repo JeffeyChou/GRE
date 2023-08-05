@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>irascible</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|irascible|[ɪˈræsəbl]|adj. becoming angry very easily 易怒的|[[exasperation]]|
+[ɪˈræsəbl]
+adj. becoming angry very easily 易怒的
+[[exasperation]]

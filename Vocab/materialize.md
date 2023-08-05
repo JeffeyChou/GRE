@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>materialize</strong></pre>
-|   |   |   |
-|---|---|---|
-|materialize|[məˈtɪəriəlaɪz]|(1)v. to become visible 显现(2)v. to begin to happen or exist 实现|
+[məˈtɪəriəlaɪz]
+(1)v. to become visible 显现(2)v. to begin to happen or exist 实现

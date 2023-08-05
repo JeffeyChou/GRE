@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>elude</strong></pre>
-|   |   |   |
-|---|---|---|
-|elude [iˈlu:d]|(1)v. to avoid or escape by being quick, skillful, or clever 避开<mark style="background: #ABF7F7A6;">(2)v. to fail to be understood or remembered by 不能被...理解</mark>|[[puzzle]]|
+[iˈlu:d]
+(1)v. to avoid or escape by being quick, skillful, or clever 避开<mark style="background: #ABF7F7A6;">(2)v. to fail to be understood or remembered by 不能被...理解</mark>
+[[puzzle]]

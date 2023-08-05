@@ -8,6 +8,6 @@ aliases:
 ---
 
 <pre><strong>impign</strong></pre>
-|   |   |
-|---|---|
-|[ɪmˈpju:n]|v. to assail by words or argument 指责|
+
+[ɪmˈpju:n]
+v. to assail by words or argument 指责

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>commensurate</strong></pre>
-|   |   |   |
-|---|---|---|
-|commensurate [kəˈmɛnsərɪt]|adj. equal or similar to something in size, amount, or degree 相称的|[[proportionate]]|
+[kəˈmɛnsərɪt]
+adj. equal or similar to something in size, amount, or degree 相称的
+[[proportionate]]

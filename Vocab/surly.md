@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>surly</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|surly|[ˈsɜ:li]|adj. irritably [[sullen]] and [[churlish]] in mood or manner 阴郁的|[[sullen]]|
+[ˈsɜ:li]
+adj. irritably [[sullen]] and [[churlish]] in mood or manner 阴郁的
+[[sullen]]

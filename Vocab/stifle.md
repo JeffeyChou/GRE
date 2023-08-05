@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>stifle</strong></pre>
-|   |   |   |
-|---|---|---|
-|stifle [ˈstaɪfl]|v. to stop from doing or expressing something 阻⽌|[[shackle]],[[check]], [[stem]]|
+[ˈstaɪfl]
+v. to stop from doing or expressing something 阻⽌
+[[shackle]],[[check]], [[stem]]

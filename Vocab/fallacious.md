@@ -8,6 +8,6 @@ aliases:
 ---
 
 <pre><strong>fallacious</strong></pre>
-|   |   |
-|---|---|
-|[fəˈleɪʃəs]|adj. containing a mistake 谬误的|
+
+[fəˈleɪʃəs]
+adj. containing a mistake 谬误的

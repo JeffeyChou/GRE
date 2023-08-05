@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>appropriate</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|appropriate|[əˈprəʊpriət]|<mark style="background: #ABF7F7A6;">(1)v. to take or use especially in a way that is illegal, unfair, etc. 挪⽤</mark>(2)adj. right or suited for some purpose or situation 合适的|[[borrow]]|
+[əˈprəʊpriət]
+<mark style="background: #ABF7F7A6;">(1)v. to take or use especially in a way that is illegal, unfair, etc. 挪⽤</mark>(2)adj. right or suited for some purpose or situation 合适的
+[[borrow]]

@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>haphazard</strong></pre>
-|   |   |   |
-|---|---|---|
-|[hæpˈhæzəd]|adj. having no plan, order, or direction 随意的|[[random]], [[helter-skelter]]|
+
+[hæpˈhæzəd]
+adj. having no plan, order, or direction 随意的
+[[random]], [[helter-skelter]]

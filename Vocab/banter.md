@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>banter</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|banter|[ˈbæntə]|n. good-natured and usually witty and animated joking 打趣|[[raillery]]|
+[ˈbæntə]
+n. good-natured and usually witty and animated joking 打趣
+[[raillery]]

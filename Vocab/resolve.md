@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>resolve</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|resolve|[rɪˈzɒlv]|(1)v. to find an answer or solution to 解决(2)v. to make a definite and serious decision to do something 决定(3)n. a strong determination to do something 决⼼|[[tenacity]]|
+[rɪˈzɒlv]
+(1)v. to find an answer or solution to 解决(2)v. to make a definite and serious decision to do something 决定(3)n. a strong determination to do something 决⼼
+[[tenacity]]

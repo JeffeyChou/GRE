@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>unseemly</strong></pre>
-|   |   |   |
-|---|---|---|
-|unseemly [ʌn'simli]|adj. not proper or appropriate for the situation 不得体的|[[indecorous]]|
+[ʌn'simli]
+adj. not proper or appropriate for the situation 不得体的
+[[indecorous]]

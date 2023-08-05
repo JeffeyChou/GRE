@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>suppress</strong></pre>
-|   |   |   |
-|---|---|---|
-|suppress|[sə'prɛs]|v. to end or stop by force 压制，镇压|
+[sə'prɛs]
+v. to end or stop by force 压制，镇压

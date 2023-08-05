@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>vitiate</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|vitiate|[ˈvɪʃieɪt]|v. to ruin or spoil 损害|[[impair]]|
+[ˈvɪʃieɪt]
+v. to ruin or spoil 损害
+[[impair]]

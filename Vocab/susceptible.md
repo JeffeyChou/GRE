@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>susceptible</strong></pre>
-|   |   |   |
-|---|---|---|
-|susceptible|[sə'sɛptəbl]|adj. easily affected, influenced, or harmed by something 易受影响的|
+[sə'sɛptəbl]
+adj. easily affected, influenced, or harmed by something 易受影响的

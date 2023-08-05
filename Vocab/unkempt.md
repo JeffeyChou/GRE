@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>unkempt</strong></pre>
-|   |   |   |
-|---|---|---|
-|unkempt|[ˌʌnˈkempt]|adj. messy or untidy 不整洁的|
+[ˌʌnˈkempt]
+adj. messy or untidy 不整洁的

@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>testimony</strong></pre>
-|   |   |   |
-|---|---|---|
-|testimony|[ˈtestɪməni]|n. proof or evidence that something exists or is true 证据|
+[ˈtestɪməni]
+n. proof or evidence that something exists or is true 证据

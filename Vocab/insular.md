@@ -8,6 +8,8 @@ aliases:
 ---
 
 <pre><strong>insular</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|insular|[ˈɪnsjələ]|adj. separated from other people or cultures 狭隘的|[[provincial]], [[private]]|
+
+insular
+[ˈɪnsjələ]
+adj. separated from other people or cultures 狭隘的
+[[provincial]], [[private]]

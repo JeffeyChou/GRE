@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>rapacious</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|rapacious|[rəˈpeɪʃəs]|adj. excessively grasping or covetous 贪婪的|[[avaricious]]|
+[rəˈpeɪʃəs]
+adj. excessively grasping or covetous 贪婪的
+[[avaricious]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>aspersion</strong></pre>
-|   |   |   |
-|---|---|---|
-|aspersion [əs'pɜ:ʃən]|n. defamation 诽谤|[[slur]]|
+[əs'pɜ:ʃən]
+n. defamation 诽谤
+[[slur]]

@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>skullduggery</strong></pre>
-|   |   |   |
-|---|---|---|
-|skullduggery|[skʌlˈdʌɡəri]|n. secret or dishonest behavior or activity 欺诈|
+[skʌlˈdʌɡəri]
+n. secret or dishonest behavior or activity 欺诈

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>specious</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|specious|[ˈspi:ʃəs]|adj. falsely appearing to be fair, just, or right 虚假的|[[artificial]], [[forged]], [[fabricated]], [[spurious]]|
+[ˈspi:ʃəs]
+adj. falsely appearing to be fair, just, or right 虚假的
+[[artificial]], [[forged]], [[fabricated]], [[spurious]]

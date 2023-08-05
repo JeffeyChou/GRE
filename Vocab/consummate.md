@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>consummate</strong></pre>
-|   |   |   |
-|---|---|---|
-|consummate|['kɑnsəmət]|adj. complete in every detail 完美的|
+['kɑnsəmət]
+adj. complete in every detail 完美的

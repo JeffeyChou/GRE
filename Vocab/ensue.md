@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>ensue</strong></pre>
-|   |   |
-|---|---|
-|ensue [ɪn'su]|v. to happen as a result 随即发⽣|
+[ɪn'su]
+v. to happen as a result 随即发⽣

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>noisome</strong></pre>
-|   |   |   |
-|---|---|---|
-|noisome [ˈnɔɪsəm]|adj. offensive to the senses and especially to the sense of smell 令⼈讨厌的，恶臭的|[[malodorous]]|
+[ˈnɔɪsəm]
+adj. offensive to the senses and especially to the sense of smell 令⼈讨厌的，恶臭的
+[[malodorous]]

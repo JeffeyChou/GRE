@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>laudatory</strong></pre>
-|   |   |   |
-|---|---|---|
-|laudatory|[ˈlɔ:dətəri]|adj. expressing or containing praise 赞美的|
+[ˈlɔ:dətəri]
+adj. expressing or containing praise 赞美的

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>relic</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|relic|[ˈrelɪk]|n. something that is from a past time, place, culture, etc. 遗迹|[[vestige]]|
+[ˈrelɪk]
+n. something that is from a past time, place, culture, etc. 遗迹
+[[vestige]]

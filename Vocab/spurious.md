@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>spurious</strong></pre>
-|   |   |   |
-|---|---|---|
-|spurious [ˈspjʊəriəs]|adj. not genuine, sincere, or authentic 虚假的|[[artificial]], [[implausible]]|
+[ˈspjʊəriəs]
+adj. not genuine, sincere, or authentic 虚假的
+[[artificial]], [[implausible]]

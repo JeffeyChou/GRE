@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>topple</strong></pre>
-|   |   |   |
-|---|---|---|
-|topple|['tɑpl]|v. to remove from power 推翻，颠覆|
+['tɑpl]
+v. to remove from power 推翻，颠覆

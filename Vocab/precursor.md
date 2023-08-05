@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>precursor</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|precursor|[pri:ˈkɜ:sə]|n. something that comes before something else and that often leads toor influences its development 先驱|[[forerunner]]|
+[pri:ˈkɜ:sə]
+n. something that comes before something else and that often leads toor influences its development 先驱
+[[forerunner]]

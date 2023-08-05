@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>perplex</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|perplex|[pəˈpleks]|v. to confuse very much 迷惑|[[confound]]|
+[pəˈpleks]
+v. to confuse very much 迷惑
+[[confound]]

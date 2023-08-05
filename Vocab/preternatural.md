@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>preternatural</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|preternatural|[ˌpri:təˈnætʃrəl]|adj. very unusual in a way that does not seem natural 异乎寻常的|[[exceptional]], [[prodigious]]|
+[ˌpri:təˈnætʃrəl]
+adj. very unusual in a way that does not seem natural 异乎寻常的
+[[exceptional]], [[prodigious]]

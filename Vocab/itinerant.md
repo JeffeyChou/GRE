@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>itinerant</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|itinerant|[aɪˈtɪnərənt]|adj. traveling from place to place 流动的，巡回的|[[peripatetic]]|
+[aɪˈtɪnərənt]
+adj. traveling from place to place 流动的，巡回的
+[[peripatetic]]

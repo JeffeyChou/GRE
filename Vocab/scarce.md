@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>scarce</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|scarce|[skeəs]|adj. very small in amount or number 缺乏的|[[deficient]]|
+[skeəs]
+adj. very small in amount or number 缺乏的
+[[deficient]]

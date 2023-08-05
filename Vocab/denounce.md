@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>denounce</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|denounce|[dɪˈnaʊns]|v. to publicly state that someone or something is bad or wrong [[谴责]]|[[lambast]]|
+[dɪˈnaʊns]
+v. to publicly state that someone or something is bad or wrong [[谴责]]
+[[lambast]]

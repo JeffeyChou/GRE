@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>contract</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|contract|[ˈkɒntrækt]|(1)v. to become smaller 收缩(2)n. a legal agreement between people, companies, etc. 合同(3)v. to become affected with 感染|[[dwindle]]|
+[ˈkɒntrækt]
+(1)v. to become smaller 收缩(2)n. a legal agreement between people, companies, etc. 合同(3)v. to become affected with 感染
+[[dwindle]]

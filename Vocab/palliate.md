@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>palliate</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|palliate|[ˈpælieɪt]|(1)v. to moderate the intensity of 减轻(2)v. the cover by excuses and apologies 辩解|[[damp]], [[allay]]|
+[ˈpælieɪt]
+(1)v. to moderate the intensity of 减轻(2)v. the cover by excuses and apologies 辩解
+[[damp]], [[allay]]

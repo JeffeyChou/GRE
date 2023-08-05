@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>slur</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|slur|[slɜ:]|(1)n. an insulting or disparaging remark or innuendo 贬低(2)v. to make indistinct 使...模糊|[[aspersion]]|
+[slɜ:]
+(1)n. an insulting or disparaging remark or innuendo 贬低(2)v. to make indistinct 使...模糊
+[[aspersion]]

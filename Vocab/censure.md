@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>censure</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|censure|[ˈsenʃə]|n. official strong criticism [[谴责]]|[[reprehend]]|
+[ˈsenʃə]
+n. official strong criticism [[谴责]]
+[[reprehend]]

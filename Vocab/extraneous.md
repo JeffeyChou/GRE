@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>extraneous</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ɪkˈstreɪniəs]|adj. not forming a necessary part of something ⽆关的|[[irrelevant]]|
+
+[ɪkˈstreɪniəs]
+adj. not forming a necessary part of something ⽆关的
+[[irrelevant]]

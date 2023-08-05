@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>perceptible</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|perceptible|[pəˈseptəbl]|adj. able to be seen or noticed 可⻅的，可觉察的|[[discernible]]|
+[pəˈseptəbl]
+adj. able to be seen or noticed 可⻅的，可觉察的
+[[discernible]]

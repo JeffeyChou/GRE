@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>tenacity</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|tenacity|[tə'næsətɪ]|n. the quality or state of being very determined to do something 顽强|[[resolve]], [[endurance]]|
+[tə'næsətɪ]
+n. the quality or state of being very determined to do something 顽强
+[[resolve]], [[endurance]]

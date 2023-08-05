@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>unflagging</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|unflagging|[ˌʌnˈflægɪŋ]|adj. not decreasing or becoming weaker 不知疲倦的|[[unfatigued]]|
+[ˌʌnˈflægɪŋ]
+adj. not decreasing or becoming weaker 不知疲倦的
+[[unfatigued]]

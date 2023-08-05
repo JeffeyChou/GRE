@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>rally</strong></pre>
-|   |   |   |
-|---|---|---|
-|rally|[ˈræli]|v. to muster for a common purpose 团结，集会|
+[ˈræli]
+v. to muster for a common purpose 团结，集会

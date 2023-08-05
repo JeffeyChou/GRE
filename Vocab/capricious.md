@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>capricious</strong></pre>
-|   |   |   |
-|---|---|---|
-|capricious [kəˈprɪʃəs]|adj. changing often and quickly 变化⽆常的|[[unpredictable]], [[impulsive]], [[cavalier]], [[versatile]]|
+[kəˈprɪʃəs]
+adj. changing often and quickly 变化⽆常的
+[[unpredictable]], [[impulsive]], [[cavalier]], [[versatile]]

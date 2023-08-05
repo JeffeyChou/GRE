@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>covet</strong></pre>
-|   |   |   |
-|---|---|---|
-|covet ['kʌvɪt]|v. to want very much 贪求|[[envy]]|
+['kʌvɪt]
+v. to want very much 贪求
+[[envy]]

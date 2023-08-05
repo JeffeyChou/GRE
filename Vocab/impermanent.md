@@ -8,6 +8,6 @@ aliases:
 ---
 
 <pre><strong>impermanent</strong></pre>
-|   |   |
-|---|---|
-|[ɪmˈpɜ:mənənt]|adj. not lasting forever 短暂的|
+
+[ɪmˈpɜ:mənənt]
+adj. not lasting forever 短暂的

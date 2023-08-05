@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>arrogant</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|arrogant|[ˈærəgənt]|adj. exaggerated or disposed to exaggerate one’s own worth or importance often by an overbearing manner 傲慢的|[[hubristic]]|
+[ˈærəgənt]
+adj. exaggerated or disposed to exaggerate one’s own worth or importance often by an overbearing manner 傲慢的
+[[hubristic]]

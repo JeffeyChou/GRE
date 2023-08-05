@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>brandish</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|brandish|['brændɪʃ]|v. to exhibit in a ostentatious or aggressive manner 炫耀|[[boast]]|
+['brændɪʃ]
+v. to exhibit in a ostentatious or aggressive manner 炫耀
+[[boast]]

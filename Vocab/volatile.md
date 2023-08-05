@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>volatile</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|volatile|[ˈvɒlətaɪl]|adj. likely to change in a very sudden or extreme way 善变的|[[fickle]], [[versatile]], [[flighty]], [[erratic]], [[capricious]]|
+[ˈvɒlətaɪl]
+adj. likely to change in a very sudden or extreme way 善变的
+[[fickle]], [[versatile]], [[flighty]], [[erratic]], [[capricious]]

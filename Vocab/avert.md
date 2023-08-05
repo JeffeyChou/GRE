@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>avert</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|avert|[əˈvɜ:t]|(1)v. to turn away or aside 转移(2)v. to prevent from happening 防⽌|[[forestall]]|
+[əˈvɜ:t]
+(1)v. to turn away or aside 转移(2)v. to prevent from happening 防⽌
+[[forestall]]

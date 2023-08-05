@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>polemic</strong></pre>
-|   |   |   |
-|---|---|---|
-|polemic|[pəˈlemɪk]|(1)n. a strong written or spoken attack against someone else’s opinions, beliefs, practices, etc. 猛烈抨击(2)n. the art or practice of using language to defend or harshly criticize something or someone 态度鲜明（⽀持或者[[批评]]）|
+[pəˈlemɪk]
+(1)n. a strong written or spoken attack against someone else’s opinions, beliefs, practices, etc. 猛烈抨击(2)n. the art or practice of using language to defend or harshly criticize something or someone 态度鲜明（⽀持或者[[批评]]）

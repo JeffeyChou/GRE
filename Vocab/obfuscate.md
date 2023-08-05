@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>obfuscate</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|obfuscate|[ˈɒbfʌskeɪt]|v. to make more difficult to understand 混淆，使迷惑|[[obscure]], [[mystify]]|
+[ˈɒbfʌskeɪt]
+v. to make more difficult to understand 混淆，使迷惑
+[[obscure]], [[mystify]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>callous</strong></pre>
-|   |   |   |
-|---|---|---|
-|callous [ˈkæləs]|adj. not feeling or showing any concern about the problems or suffering of other people 冷酷⽆情的|[[heartles]]|
+[ˈkæləs]
+adj. not feeling or showing any concern about the problems or suffering of other people 冷酷⽆情的
+[[heartles]]

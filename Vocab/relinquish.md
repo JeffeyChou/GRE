@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>relinquish</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|relinquish|[rɪ'lɪŋkwɪʃ]|v. to give up 放弃|[[cede]]|
+[rɪ'lɪŋkwɪʃ]
+v. to give up 放弃
+[[cede]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>valorize</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|valorize|['væləraɪz]|v. to assign value or merit to 称赞|[[exalt]]|
+['væləraɪz]
+v. to assign value or merit to 称赞
+[[exalt]]

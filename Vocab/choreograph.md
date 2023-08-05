@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>choreograph</strong></pre>
-|   |   |   |
-|---|---|---|
-|choreograph|['kɒrɪəgrɑːf]|v. to arrange or direct the movements, progress, or detail of 精⼼安排|
+['kɒrɪəgrɑːf]
+v. to arrange or direct the movements, progress, or detail of 精⼼安排

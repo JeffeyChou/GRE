@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>calumny</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|calumny|[ˈkæləmni]|n. an untrue statement that is made to damage someone’s reputation 诽谤|[[defamation]]|
+[ˈkæləmni]
+n. an untrue statement that is made to damage someone’s reputation 诽谤
+[[defamation]]

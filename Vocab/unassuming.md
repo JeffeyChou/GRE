@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>unassuming</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|unassuming|[ˌʌnəˈsju:mɪŋ]|adj. not having or showing a desire to be noticed, praised, etc. 谦逊的|[[modest]], [[humble]]|
+[ˌʌnəˈsju:mɪŋ]
+adj. not having or showing a desire to be noticed, praised, etc. 谦逊的
+[[modest]], [[humble]]

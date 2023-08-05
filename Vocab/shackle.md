@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>shackle</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|shackle|[ˈʃækl]|(1)n. something that prevents people from acting freely 束缚(2)v. to put shackles on 束缚|[[stifle]]|
+[ˈʃækl]
+(1)n. something that prevents people from acting freely 束缚(2)v. to put shackles on 束缚
+[[stifle]]

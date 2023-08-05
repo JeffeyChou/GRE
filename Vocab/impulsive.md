@@ -8,6 +8,7 @@ aliases:
 ---
 
 <pre><strong>impulsive</strong></pre>
-|   |   |   |
-|---|---|---|
-|[ɪmˈpʌlsɪv]|adj. done suddenly and without planning 冲动的|[[capricious]], [[hasty]]|
+
+[ɪmˈpʌlsɪv]
+adj. done suddenly and without planning 冲动的
+[[capricious]], [[hasty]]

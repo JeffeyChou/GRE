@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>cursory</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|cursory|[ˈkɜ:səri]|adj. done or made quickly 草率的|[[perfunctory]], [[casual]]|
+[ˈkɜ:səri]
+adj. done or made quickly 草率的
+[[perfunctory]], [[casual]]

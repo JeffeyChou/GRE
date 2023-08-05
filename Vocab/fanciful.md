@@ -8,6 +8,6 @@ aliases:
 ---
 
 <pre><strong>fanciful</strong></pre>
-|   |   |
-|---|---|
-|[ˈfænsɪfl]|(1)adj. coming from the imagination 想象的(2)adj. existing in fancy only 不切实际的|
+
+[ˈfænsɪfl]
+(1)adj. coming from the imagination 想象的(2)adj. existing in fancy only 不切实际的

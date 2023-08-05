@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>ironic</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|ironic|[aɪˈrɒnɪk]|adj. using words that mean the opposite of what you really think especially in order to be funny 讽刺的|[[paradoxical]]|
+[aɪˈrɒnɪk]
+adj. using words that mean the opposite of what you really think especially in order to be funny 讽刺的
+[[paradoxical]]

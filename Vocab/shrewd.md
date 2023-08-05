@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>shrewd</strong></pre>
-|   |   |   |
-|---|---|---|
-|shrewd [ʃru:d]|adj. having or showing an ability to understand things and to make good judgments 精明的|[[canny]], [[artful]]|
+[ʃru:d]
+adj. having or showing an ability to understand things and to make good judgments 精明的
+[[canny]], [[artful]]

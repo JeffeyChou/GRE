@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>occult</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|occult|[əˈkʌlt]|adj. not easily apprehended or understood 神秘的|[[numinous]]|
+[əˈkʌlt]
+adj. not easily apprehended or understood 神秘的
+[[numinous]]

@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>badger</strong></pre>
-|   |   |   |
-|---|---|---|
-|badger|[ˈbædʒə]|(1)v. to bother or annoy with many comments or questions 烦扰(2)v. to ask or tell someone again and again to do something 反复劝说|
+[ˈbædʒə]
+(1)v. to bother or annoy with many comments or questions 烦扰(2)v. to ask or tell someone again and again to do something 反复劝说

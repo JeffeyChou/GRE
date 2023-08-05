@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>deflect</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|deflect|[dɪ'flekt]|v. to cause to change direction 使转向|[[shrug off]]|
+[dɪ'flekt]
+v. to cause to change direction 使转向
+[[shrug off]]

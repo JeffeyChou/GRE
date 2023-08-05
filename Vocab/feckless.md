@@ -8,6 +8,6 @@ aliases:
 ---
 
 <pre><strong>feckless</strong></pre>
-|   |   |
-|---|---|
-|['feklɪs]|adj. having or resulting from a weak character or nature 软弱的|
+
+['feklɪs]
+adj. having or resulting from a weak character or nature 软弱的

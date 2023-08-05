@@ -8,6 +8,6 @@ aliases:
 ---
 
 <pre><strong>high-minded</strong></pre>
-|   |   |
-|---|---|
-|[hai ˈmaindid]|adj. having strong moral principles ⾼尚的|
+
+[hai ˈmaindid]
+adj. having strong moral principles ⾼尚的

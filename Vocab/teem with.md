@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>teem with</strong></pre>
-|   |   |   |
-|---|---|---|
-|teem with|[ti:m wɪð]|phrase. 充满|
+[ti:m wɪð]
+phrase. 充满

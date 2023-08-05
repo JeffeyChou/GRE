@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>commendation</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|commendation|[,kɑmɛn'deʃən]|n. the act of praising or approving of someone or something 称赞|[[approbation]]|
+[,kɑmɛn'deʃən]
+n. the act of praising or approving of someone or something 称赞
+[[approbation]]

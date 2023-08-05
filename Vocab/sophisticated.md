@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>sophisticated</strong></pre>
-|   |   |   |
-|---|---|---|
-|sophisticated|[sə'fɪstɪketɪd]|(1)adj. highly developed and complex 复杂的(2)adj. finely experienced and aware ⽼练的|
+[sə'fɪstɪketɪd]
+(1)adj. highly developed and complex 复杂的(2)adj. finely experienced and aware ⽼练的

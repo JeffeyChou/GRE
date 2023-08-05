@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>entailed by</strong></pre>
-|   |   |   |
-|---|---|---|
-|entailed by [ɪnˈteɪl]|v. to impose, involve, or imply as a necessary accompaniment or result使需要，导致|[[inferable from]]|
+[ɪnˈteɪl]
+v. to impose, involve, or imply as a necessary accompaniment or result使需要，导致
+[[inferable from]]

@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>purview</strong></pre>
-|   |   |   |
-|---|---|---|
-|purview|[ˈpɜ:vju:]|n. an area within which someone or something has authority, influence, or knowledge 范围|
+[ˈpɜ:vju:]
+n. an area within which someone or something has authority, influence, or knowledge 范围

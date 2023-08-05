@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>enamor</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|enamor|[ɪ'næmə]|v. to cause to be loved or admired 使迷恋|[[favor]], [[captivate]], [[hooked on]]|
+[ɪ'næmə]
+v. to cause to be loved or admired 使迷恋
+[[favor]], [[captivate]], [[hooked on]]

@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>vacillation</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|vacillation|[ˌvæsə'leɪʃn]|n. inability to take a stand 犹豫不决|[[irresolution]]|
+[ˌvæsə'leɪʃn]
+n. inability to take a stand 犹豫不决
+[[irresolution]]

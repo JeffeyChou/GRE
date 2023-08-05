@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>misgiving</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|misgiving|[,mis'ɡiviŋ]|n. a feeling of doubt or suspicion especially concerning a future event疑虑，担忧|[[trepidation]], [[qualm]]|
+[,mis'ɡiviŋ]
+n. a feeling of doubt or suspicion especially concerning a future event疑虑，担忧
+[[trepidation]], [[qualm]]

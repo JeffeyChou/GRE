@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>parsimonious</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|parsimonious|[ˌpɑ:sɪˈməʊniəs]|adj. very unwilling to spend money 吝啬的|[[stingy]], [[illiberal]]|
+[ˌpɑ:sɪˈməʊniəs]
+adj. very unwilling to spend money 吝啬的
+[[stingy]], [[illiberal]]

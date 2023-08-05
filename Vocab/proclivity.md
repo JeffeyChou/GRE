@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>proclivity</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|proclivity|[prəˈklɪvəti]|n. a strong natural liking for something that is usually bad 倾向，嗜好|[[predilection]]|
+[prəˈklɪvəti]
+n. a strong natural liking for something that is usually bad 倾向，嗜好
+[[predilection]]

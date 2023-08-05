@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>truculent</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|truculent|[ˈtrʌkjələnt]|adj. easily annoyed or angered and likely to argue 好⽃的|[[pugnacious]], [[bellicose]], [[combative]], [[aggressive]]|
+[ˈtrʌkjələnt]
+adj. easily annoyed or angered and likely to argue 好⽃的
+[[pugnacious]], [[bellicose]], [[combative]], [[aggressive]]

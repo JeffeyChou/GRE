@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>meticulous</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|meticulous|[məˈtɪkjələs]|adj. very careful about doing something in a extremely accurate and exact way 周密的，⼀丝不苟的|[[thorough]], [[exact]], [[painstaking]]|
+[məˈtɪkjələs]
+adj. very careful about doing something in a extremely accurate and exact way 周密的，⼀丝不苟的
+[[thorough]], [[exact]], [[painstaking]]

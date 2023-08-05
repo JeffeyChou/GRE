@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>caricature</strong></pre>
-|   |   |
-|---|---|
-|caricature['kærɪkətjʊə]|n. someone or something that is very exaggerated in a funny or foolish way 夸张的描述|
+['kærɪkətjʊə]
+n. someone or something that is very exaggerated in a funny or foolish way 夸张的描述

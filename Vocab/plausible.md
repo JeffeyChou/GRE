@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>plausible</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|plausible|['plɔzəbl]|(1)adj. believable or realistic 真实的(2)adj. superficially fair, reasonable, or valuable but often specious 看似真实（但实际虚假）|[[conceivable]]|
+['plɔzəbl]
+(1)adj. believable or realistic 真实的(2)adj. superficially fair, reasonable, or valuable but often specious 看似真实（但实际虚假）
+[[conceivable]]

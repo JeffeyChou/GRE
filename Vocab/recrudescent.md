@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>recrudescent</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|recrudescent|[,ri:kru:'desnt]|adj. breaking out again 复发的|[[resurgent]]|
+[,ri:kru:'desnt]
+adj. breaking out again 复发的
+[[resurgent]]

@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>enfeeble</strong></pre>
-|   |   |   |
-|---|---|---|
-|enfeeble|[ɪn'fiːbəl]|v. deprive of strength 使[[衰]]弱|
+[ɪn'fiːbəl]
+v. deprive of strength 使[[衰]]弱

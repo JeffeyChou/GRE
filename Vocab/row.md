@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>row</strong></pre>
-|   |   |   |
-|---|---|---|
-|row|[ro]|n. a noisy disturbance or quarrel 争吵|
+[ro]
+n. a noisy disturbance or quarrel 争吵

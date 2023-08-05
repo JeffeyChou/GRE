@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>demise</strong></pre>
-|   |   |   |
-|---|---|---|
-|demise|[dɪˈmaɪz]|n. the end of something that is thought of as being like a death 终⽌，死亡|
+[dɪˈmaɪz]
+n. the end of something that is thought of as being like a death 终⽌，死亡

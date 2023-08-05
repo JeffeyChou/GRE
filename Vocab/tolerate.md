@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>tolerate</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|tolerate|[ˈtɒləreɪt]|(1)v. to allow to exist, happen, or be done 容许(2)v. to put up with 容忍|[[brook]]|
+[ˈtɒləreɪt]
+(1)v. to allow to exist, happen, or be done 容许(2)v. to put up with 容忍
+[[brook]]

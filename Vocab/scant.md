@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>scant</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|scant|[skænt]|adj. very small in size or amount 缺乏的|[[limited]]|
+[skænt]
+adj. very small in size or amount 缺乏的
+[[limited]]

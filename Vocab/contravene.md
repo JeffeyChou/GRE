@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>contravene</strong></pre>
-|   |   |   |   |
-|---|---|---|---|
-|contravene|[ˌkɒntrəˈvi:n]|v. to fail to do what is required by 触犯|[[violate]]|
+[ˌkɒntrəˈvi:n]
+v. to fail to do what is required by 触犯
+[[violate]]

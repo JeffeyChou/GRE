@@ -9,6 +9,6 @@ aliases:
 ---
 
 <pre><strong>dispassionate</strong></pre>
-|   |   |   |
-|---|---|---|
-|dispassionate [dɪs'pæʃənət]|adj. not affected by personal or emotional involvement 公正客观的，冷静客观的|[[temperate]], [[analytical]]|
+[dɪs'pæʃənət]
+adj. not affected by personal or emotional involvement 公正客观的，冷静客观的
+[[temperate]], [[analytical]]

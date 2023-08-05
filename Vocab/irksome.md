@@ -9,7 +9,7 @@ aliases:
 ---
 
 <pre><strong>irksome</strong></pre>
-|   |   |   |
-|---|---|---|
-|irksome|['ɜːksəm]|adj. annoying or irritating 讨厌的|
+['ɜːksəm]
+adj. annoying or irritating 讨厌的
+
 [[irked]]

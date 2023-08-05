@@ -9,6 +9,5 @@ aliases:
 ---
 
 <pre><strong>misconception</strong></pre>
-|   |   |   |
-|---|---|---|
-|misconception|[ˌmɪskənˈsepʃn]|n. an idea that is not correct 错误观念|
+[ˌmɪskənˈsepʃn]
+n. an idea that is not correct 错误观念
