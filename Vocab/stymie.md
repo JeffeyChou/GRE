@@ -12,3 +12,5 @@ aliases:
 [ˈstaɪmi]
 v. to stop from doing something or to stop from happening 阻碍
 [[hinder]]
+[[snag]]
+

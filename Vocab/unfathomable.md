@@ -11,3 +11,5 @@ aliases:
 <pre><strong>unfathomable</strong></pre>
 [ʌn'fæðəməbl]
 adj. impossible to understand 不可理解的
+
+[[fathom]]

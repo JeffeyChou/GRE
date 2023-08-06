@@ -12,3 +12,5 @@ aliases:
 [ˌpri:təˈnætʃrəl]
 adj. very unusual in a way that does not seem natural 异乎寻常的
 [[exceptional]], [[prodigious]]
+
+[[preter-]]

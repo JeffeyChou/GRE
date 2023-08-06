@@ -10,5 +10,5 @@ aliases:
 
 <pre><strong>resolve</strong></pre>
 [rɪˈzɒlv]
-(1)v. to find an answer or solution to 解决(2)v. to make a definite and serious decision to do something 决定(3)n. a strong determination to do something 决⼼
+(1)v. to find an answer or solution to 解决<mark style="background: #ABF7F7A6;">(2)v. to make a definite and serious decision to do something 决定(3)n. a strong determination to do something 决⼼</mark>
 [[tenacity]]

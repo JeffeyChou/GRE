@@ -12,3 +12,5 @@ aliases:
 [vɜ:ˈbəʊs]
 adj. using more words than are needed 啰嗦的
 [[prolix]], [[long-winded]]
+
+[[diffuse]], [[wordy]]

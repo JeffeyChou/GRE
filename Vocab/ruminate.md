@@ -11,3 +11,5 @@ aliases:
 <pre><strong>ruminate</strong></pre>
 ['rumɪnet]
 v. to think carefully and deeply about something 认真思考
+
+[[ponder]], [[contemplate]]

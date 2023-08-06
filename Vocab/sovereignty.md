@@ -11,3 +11,5 @@ aliases:
 <pre><strong>sovereignty</strong></pre>
 [ˈsɒvrənti]
 (1)n. unlimited power over a country ⾄⾼⽆上的权利(2)n. a country’s independent authority and the right to govern itself 主权
+
+[[rein]]

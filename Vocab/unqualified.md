@@ -10,5 +10,5 @@ aliases:
 
 <pre><strong>unqualified</strong></pre>
 [ˌʌnˈkwɒlɪfaɪd]
-(1)adj. complete or total 完全的，不受限制的(2)adj. not having the skills, knowledge, or experience needed to do aparticular job or activity ⽆资格的
+<mark style="background: #ABF7F7A6;">(1)adj. complete or total 完全的，不受限制的</mark>(2)adj. not having the skills, knowledge, or experience needed to do aparticular job or activity ⽆资格的
 [[unalloyed]]

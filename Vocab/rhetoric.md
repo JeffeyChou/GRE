@@ -9,3 +9,6 @@ aliases:
 ---
 
 <pre><strong>rhetoric</strong></pre>
+ /ˈretərɪk/ 
+language that is used to persuade or influence people, especially language that sounds impressive but is not actually sincere or useful 辞令；巧辩；〔尤指〕花言巧语，浮夸之词
+[[eloquent]]

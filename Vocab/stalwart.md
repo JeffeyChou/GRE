@@ -11,3 +11,5 @@ aliases:
 <pre><strong>stalwart</strong></pre>
 [ˈstɔ:lwət]
 (1)adj. marked by outstanding strength and vigor of body, mind, or spirit健壮的(2)adj. very loyal and dedicated 忠实的，坚定的
+
+[[staunch]]

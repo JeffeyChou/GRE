@@ -12,3 +12,5 @@ aliases:
 [ˌʌnɪg'zɑ:mpld]
 adj. having no example or parallel 前所未有的
 [[novel]]
+
+[[unprecedented]]

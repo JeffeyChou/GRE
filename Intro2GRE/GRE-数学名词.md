@@ -35,7 +35,7 @@ obsidianUIMode: source
 |--------------|------------|-------------|
 
 ratio $x$ to $y$: $\frac{x}{y}$
-
+倒数：reciprocal
 #### 小数
   |数位 digit|小数点 decimal point|两位数字 two-digits|
 |--------|-----------------|---------------|
@@ -95,21 +95,22 @@ ratio $x$ to $y$: $\frac{x}{y}$
 
   |顶点 vertex|角度 degree|对顶角 vertical/opposite angles|
 |---------|---------|----------------------------|
-  |全等角 cogruent angle|补角 supplemenetary angle|余角 complmentary angle|
-  |平角 straight angle|角平分线 angle bisector|垂直线 perpendicular lines|
-  |直角 right angle|锐角 acute angle|钝角 obtuse angle|
-  |同位角 corresponding angle|内错角 alternate interior angle||
-  |等边三角形 equilateral triangle|等腰三角形 isosceles triangle|直角三角形 right triangle|
-  |斜边 hypotenuse|直角边 legs|勾股定理 Pythagorean theorem|
-  |全等三角形 congruent triangle|相似三角形 similar triangle||
+  |全等角 cogruent angle|补角 **supplemenetary angle**|余角 **complmentary angle**|
+  |平角 **straight angle**|角平分线 angle bisector|垂直线 perpendicular lines|
+  |直角 **right angle**|锐角 **acute angle**|钝角 **obtuse angle**|
+  |同位角 **corresponding angle**|内错角 **alternate interior angle**||
+  |等边三角形 **equilateral triangle**|等腰三角形 **isosceles triangle**|直角三角形 right triangle|
+  |斜边 **hypotenuse**|直角边 **legs**|勾股定理 Pythagorean theorem|
+  |全等三角形 **congruent triangle**|相似三角形 similar triangle||
 
   
 #### 多边形
-  |平行四边形 parallelogram|梯形 trapeozoid|菱形 rhombus|
-|-------------------|-------------|----------|
-  |对角线 diagonal|周长 perimeter|正多边形 regular polygon|
-  |五边形 pentagon|六边形 hexagon|七边形heptagon|
-  |八边形 octagon|九边形 nonagon|十边形 decagon|
+  | 平行四边形 parallelogram | 梯形 trapeozoid | 菱形 rhombus             |
+  | ------------------------ | --------------- | ------------------------ |
+  | 对角线 diagonal          | 周长 perimeter  | 正多边形 regular polygon |
+  | 五边形 pentagon          | 六边形 hexagon  | 七边形heptagon           |
+  | 八边形 octagon           | 九边形 nonagon  | 十边形 decagon           |
+  | 菱形 rhombus                         |                 |                          |
 
 #### 圆
   |圆心 center|半径 radius|弦 chord|
@@ -140,7 +141,7 @@ ratio $x$ to $y$: $\frac{x}{y}$
 
   |算术平均数 arithmetic mean|加权平均数 weighted mean|中位数 median|
 |---------------------|-------------------|----------|
-  |众数 mode|标准差 standard deviation||
+  |众数 **mode**|标准差 **standard deviation**||
 
 #### 概率
   |概率试验 probability experiment|分布曲线 distribution curve|密度曲线 density curve|

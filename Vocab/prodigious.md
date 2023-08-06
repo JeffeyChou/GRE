@@ -10,5 +10,5 @@ aliases:
 
 <pre><strong>prodigious</strong></pre>
 [prə'dɪdʒəs]
-adj. extraordinary in bulk, quantity, or degree 巨⼤的
+(1)adj. extraordinary in bulk, quantity, or degree 巨⼤的; (2)Having or marked by an insatiable appetite for an activity or a pursuit; greedy:贪婪的：具有对某种活动或愿望的不满足的欲望的；
 [[voracious]], [[preternatural]]

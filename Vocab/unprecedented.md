@@ -12,3 +12,5 @@ aliases:
 [ʌnˈpresɪdentɪd]
 adj. not done or experienced before 前所未有的
 [[abnormal]]
+
+[[unexampled]]

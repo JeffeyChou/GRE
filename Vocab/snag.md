@@ -12,3 +12,5 @@ aliases:
 [snæg]
 n. a concealed or unexpected difficulty or obstacle 障碍
 [[hitch]]
+
+[[hinder]]

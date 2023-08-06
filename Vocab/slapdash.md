@@ -11,3 +11,5 @@ aliases:
 <pre><strong>slapdash</strong></pre>
 [ˈslæpdæʃ]
 adj. quick and careless 草率的
+
+[[cursory]], [[hasty]], [[perfunctory]]

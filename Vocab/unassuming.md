@@ -12,3 +12,5 @@ aliases:
 [ˌʌnəˈsju:mɪŋ]
 adj. not having or showing a desire to be noticed, praised, etc. 谦逊的
 [[modest]], [[humble]]
+
+[[self-effacing]]

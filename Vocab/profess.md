@@ -12,4 +12,3 @@ aliases:
 [prəˈfes]
 (1)v. to say or declare openly 公开宣称(2)v. to believe in (a particular religion) 信奉
 [[proclaim]]
-p

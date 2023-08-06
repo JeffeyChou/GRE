@@ -10,5 +10,5 @@ aliases:
 
 <pre><strong>palliate</strong></pre>
 [ˈpælieɪt]
-(1)v. to moderate the intensity of 减轻(2)v. the cover by excuses and apologies 辩解
+(1)v. to moderate the intensity of 减轻<mark style="background: #ABF7F7A6;">(2)v. the cover by excuses and apologies 辩解</mark>
 [[damp]], [[allay]]

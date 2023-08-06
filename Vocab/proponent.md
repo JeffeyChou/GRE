@@ -12,3 +12,5 @@ aliases:
 [prə'pəʊnənt]
 n. a person who argues for or supports something ⽀持者
 [[defender]], [[champion]]
+
+[[opponent]]

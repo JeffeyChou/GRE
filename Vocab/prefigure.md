@@ -10,5 +10,5 @@ aliases:
 
 <pre><strong>prefigure</strong></pre>
 [ˌpri:ˈfɪgə(r)]
-v. to show or suggest something that will happen or exist at a futuretime 预示
+v. to show or suggest something that will happen or exist at a future time 预示
 [[anticipate]]
