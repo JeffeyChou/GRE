@@ -10,5 +10,5 @@ aliases:
 
 <pre><strong>prolix</strong></pre>
 [prəʊ'lɪks]
-adj. using too many words 冗⻓的
+adj. using too many words 啰唆的；冗长的
 [[verbose]], [[long-winded]]

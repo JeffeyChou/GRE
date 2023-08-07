@@ -10,5 +10,5 @@ aliases:
 
 <pre><strong>whimsical</strong></pre>
 [ˈwɪmzɪkl]
-adj. subject to erratic behavior or unpredictable change 难以预测的
+adj. subject to [[erratic]] behavior or [[unpredictable]] change 难以预测的
 [[capricious]]

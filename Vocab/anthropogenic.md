@@ -11,3 +11,5 @@ aliases:
 <pre><strong>anthropogenic</strong></pre>
 [ˌænθrəpə'dʒnɪk]
 adj. of, relating to, or resulting from the influence of human beings on nature ⼈为的
+
+[[anthropo-]]

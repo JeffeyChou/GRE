@@ -12,3 +12,5 @@ aliases:
 [kənˈsɪliətəri]
 adj. willing to end a disagreement with someone 愿意和解的
 [[placatory]]
+
+[[reconciliation]]

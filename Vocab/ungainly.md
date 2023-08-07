@@ -10,5 +10,5 @@ aliases:
 
 <pre><strong>ungainly</strong></pre>
 [ʌn'ɡenli]
-adj. moving in an awkward or clumsy way 笨拙的，不优雅的
+adj. moving in an awkward or [[clumsy]] way 笨拙的，不优雅的
 [[awkward]]

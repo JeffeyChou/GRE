@@ -11,3 +11,5 @@ aliases:
 <pre><strong>teem with</strong></pre>
 [ti:m wɪð]
 phrase. 充满
+
+[[simmer with]]

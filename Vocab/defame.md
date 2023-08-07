@@ -11,3 +11,5 @@ aliases:
 <pre><strong>defame</strong></pre>
 [di'feim]
 v. to hurt the reputation of especially by saying things that are false or unfair 诽谤
+
+[[calumny]], [[aspersion]]

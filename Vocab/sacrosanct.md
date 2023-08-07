@@ -11,3 +11,5 @@ aliases:
 <pre><strong>sacrosanct</strong></pre>
 [ˈsækrəʊsæŋkt]
 adj. too important and respected to be changed, criticized, etc. 神圣不可改变的
+
+[[deify]]

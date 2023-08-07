@@ -11,4 +11,4 @@ aliases:
 <pre><strong>precocious</strong></pre>
 [prɪ'kəʊʃəs]
 adj. exhibiting mature qualities at an unusually early age 早熟的
-[[mature]]
+[[premature]]

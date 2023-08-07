@@ -11,4 +11,6 @@ aliases:
 <pre><strong>somnolent</strong></pre>
 [ˈsɒmnələnt]
 (1)adj. tired and ready to fall asleep 昏睡的(2)adj. causing a person to fall asleep 催眠的
-[[lethargic]]
+[[lethargic]], 
+
+[[slumber]]

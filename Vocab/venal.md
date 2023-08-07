@@ -11,3 +11,5 @@ aliases:
 <pre><strong>venal</strong></pre>
 [ˈvi:nl]
 adj. willing to do dishonest things in return for money 贪污的，唯利是图的
+
+[[voracious]]

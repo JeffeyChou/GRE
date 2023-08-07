@@ -10,5 +10,5 @@ aliases:
 
 <pre><strong>wayward</strong></pre>
 [ˈweɪwəd]
-adj. following one’s own capricious, wanton, or depraved inclinations 任性的
+adj. following one’s own [[capricious]], wanton, or depraved [[inclination]]s 任性的
 [[errant]], [[unpredictable]]

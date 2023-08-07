@@ -12,3 +12,5 @@ aliases:
 [ɪˈspaʊz]
 v. to express support for 拥护
 [[champion]], [[advocate]], [[defend]]
+
+[[spouse]]

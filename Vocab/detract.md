@@ -12,3 +12,5 @@ aliases:
 [dɪˈtrækt]
 <mark style="background: #ABF7F7A6;">(1)v. to speak ill of 贬低</mark>(2)v. to take away 减损
 [[deprecate]]
+
+[[tractable]], [[protract]], [[contract]]

@@ -11,3 +11,5 @@ aliases:
 <pre><strong>valediction</strong></pre>
 [ˌvælɪˈdɪkʃn]
 n. an act of bidding farewell 告别
+
+[[vale]]

@@ -10,5 +10,5 @@ aliases:
 
 <pre><strong>unseemly</strong></pre>
 [ʌn'simli]
-adj. not proper or appropriate for the situation 不得体的
+adj. not proper or [[appropriate]] for the situation 不得体的
 [[indecorous]]

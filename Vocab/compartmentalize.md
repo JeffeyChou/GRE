@@ -11,3 +11,5 @@ aliases:
 <pre><strong>compartmentalize</strong></pre>
 [ˌkɒmpɑ:t ˈmentəlaɪz]
 v. to divide into separate sections 分开
+
+[[compartment]]

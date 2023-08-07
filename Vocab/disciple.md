@@ -12,3 +12,5 @@ aliases:
 [dɪ'saɪpl]
 n. a convinced adherent of a school or individual 信徒
 [[adherent]]
+
+[[deify]]

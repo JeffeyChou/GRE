@@ -12,3 +12,5 @@ aliases:
 [prəˈvɒkətɪv]
 (1)adj. causing discussion, thought, argument, etc. 引发的(2)adj. serving or tending to provoke, excite, or stimulate 挑衅的
 [[inflammatory]]
+
+[[provoke]]

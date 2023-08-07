@@ -12,4 +12,3 @@ aliases:
 [ˈsɜ:kəmspekt]
 adj. thinking carefully about possible risks before doing or saying something 谨慎的
 [[prudent]], [[chary]], [[cautious]]
-ci

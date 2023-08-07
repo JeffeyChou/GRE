@@ -12,3 +12,5 @@ aliases:
 [ˈæpəzɪt]
 adj. very appropriate 合适的
 [[fitting]], [[germane]]
+
+[[appropriate]]

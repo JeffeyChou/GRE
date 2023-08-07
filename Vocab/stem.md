@@ -13,4 +13,4 @@ aliases:
 (1)v. to check or [[go counter]] to 阻⽌(2)v. to occur or develop as a consequence 起源
 [[check]]
 
-[[provenance]]
+[[provenance]], [[abstemious]]

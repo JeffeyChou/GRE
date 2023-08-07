@@ -10,5 +10,5 @@ aliases:
 
 <pre><strong>sycophantic</strong></pre>
 [ˌsɪkə'fæntɪk]
-adj. fawning, obsequious 谄媚的
+adj. [[fawning]], obsequious 谄媚的
 [[obsequious]], [[adulating]]
