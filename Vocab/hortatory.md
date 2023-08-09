@@ -10,4 +10,4 @@ aliases:
 <pre><strong>hortatory</strong></pre>
 
 ['hɔ:tətərɪ]
-adj. hortative, exhortatory 劝告的
+adj. [[hortative]], [[exhortatory]] 劝告的

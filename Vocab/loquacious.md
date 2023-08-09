@@ -12,4 +12,3 @@ aliases:
 [ləˈkweɪʃəs]
 adj. liking to talk and talking smoothly and easily 健谈的
 [[garrulous]]
-l

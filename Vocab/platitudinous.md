@@ -11,3 +11,5 @@ aliases:
 <pre><strong>platitudinous</strong></pre>
 [ˌplætɪ'tju:dɪnəs]
 adj. having the characteristics of a platitude 陈腐的
+
+[[platitude]]

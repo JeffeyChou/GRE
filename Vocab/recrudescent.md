@@ -12,3 +12,5 @@ aliases:
 [,ri:kru:'desnt]
 adj. breaking out again 复发的
 [[resurgent]]
+
+re + crude + scent 

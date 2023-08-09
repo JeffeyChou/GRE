@@ -11,3 +11,5 @@ aliases:
 <pre><strong>unkempt</strong></pre>
 [ˌʌnˈkempt]
 adj. messy or untidy 不整洁的
+
+[[kempt]]

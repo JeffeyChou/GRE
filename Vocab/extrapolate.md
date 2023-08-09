@@ -10,4 +10,4 @@ aliases:
 <pre><strong>extrapolate</strong></pre>
 
 [ɪk'stræpəleɪt]
-n. to form an opinion or to make an estimate about something fromknown facts 推断
+n. to form an opinion or to make an estimate about something from known facts 推断

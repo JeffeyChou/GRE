@@ -12,3 +12,5 @@ aliases:
 [sɪˈnesns]
 n. the state of being old or the process of becoming old [[衰]]⽼
 [[decrepitude]]
+
+sen-:老

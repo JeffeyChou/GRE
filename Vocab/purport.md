@@ -10,4 +10,4 @@ aliases:
 
 <pre><strong>purport</strong></pre>
 [pəˈpɔ:t]
-(1)v. to claim to be or do a particular thing when this claim may not betrue （假意）声称(2)n. the main or general meaning of something 意义
+<mark style="background: #ABF7F7A6;">(1)v. to claim to be or do a particular thing when this claim may not betrue （假意）声称</mark>(2)n. the main or general meaning of something 意义

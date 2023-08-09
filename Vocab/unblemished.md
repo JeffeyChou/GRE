@@ -12,3 +12,5 @@ aliases:
 [ʌnˈblemɪʃt]
 adj. not being harmed or spoiled 崭新的，清⽩的
 [[pristine]]
+
+[[blemish]]

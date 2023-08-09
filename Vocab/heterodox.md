@@ -12,3 +12,5 @@ aliases:
 ['hetərəʊdɒks]
 adj. not agreeing with established beliefs or standards 异端的
 [[iconoclastic]]
+
+[[orthodox]]

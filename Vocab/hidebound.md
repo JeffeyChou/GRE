@@ -12,3 +12,5 @@ aliases:
 hidebound
 ['haɪdbaʊnd]
 adj. not willing to accept new or different ideas 迂腐守旧的
+
+[[fusty]]

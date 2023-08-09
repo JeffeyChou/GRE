@@ -11,4 +11,4 @@ aliases:
 <pre><strong>novice</strong></pre>
 [ˈnɒvɪs]
 n. a person who has just started learning or doing something 新⼿
-[[tyro]]
+[[tyro]], [[neophyte]]

@@ -10,5 +10,5 @@ aliases:
 
 <pre><strong>vitriolic</strong></pre>
 [,vɪtrɪ'ɑlɪk]
-adj. bitterly scathing 尖酸刻薄的
-acerbic, [[opprobrium]]
+adj. bitterly [[scathing]] 尖酸刻薄的
+[[acerbic]], [[opprobrium]]

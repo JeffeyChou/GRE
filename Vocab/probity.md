@@ -11,3 +11,5 @@ aliases:
 <pre><strong>probity</strong></pre>
 [ˈprəʊbəti]
 n. the quality of a person who is completely honest 诚实，正直
+
+pro + bi(o) + ty：个人的bit很pro,即probity

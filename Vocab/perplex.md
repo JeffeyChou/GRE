@@ -12,3 +12,5 @@ aliases:
 [pəˈpleks]
 v. to confuse very much 迷惑
 [[confound]]
+
+[[flummox]]

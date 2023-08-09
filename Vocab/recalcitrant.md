@@ -11,3 +11,5 @@ aliases:
 <pre><strong>recalcitrant</strong></pre>
 [rɪˈkælsɪtrənt]
 adj. obstinately defiant of authority or restraint 倔强反抗的
+
+recall + city + transmission

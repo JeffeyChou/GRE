@@ -12,5 +12,3 @@ aliases:
 [əbˈzɒlv]
 v. to make free from guilt, responsibility, etc. 免罪
 [[exonerate]]
-
-[[resolve]]

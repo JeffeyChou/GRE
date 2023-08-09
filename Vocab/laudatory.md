@@ -10,4 +10,4 @@ aliases:
 
 <pre><strong>laudatory</strong></pre>
 [ˈlɔ:dətəri]
-adj. expressing or containing praise 赞美的
+adj. expressing or containing praise [[赞美]]的

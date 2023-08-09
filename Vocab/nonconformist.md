@@ -12,3 +12,5 @@ aliases:
 [ˌnɒnkənˈfɔ:mɪst]
 n. a person who does not behave the way most people behave 不守成规者
 [[maverick]]
+
+[[iconoclast]]

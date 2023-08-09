@@ -12,3 +12,5 @@ aliases:
 un[[wit]]ting
 [ʌn'wɪtɪŋ]
 adj. not intended or planned ⽆意的
+
+[[wit]]

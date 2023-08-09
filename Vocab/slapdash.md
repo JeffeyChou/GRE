@@ -13,3 +13,5 @@ aliases:
 adj. quick and careless 草率的
 
 [[cursory]], [[hasty]], [[perfunctory]]
+
+slap-dash

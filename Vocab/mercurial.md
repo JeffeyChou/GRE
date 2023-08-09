@@ -12,3 +12,5 @@ aliases:
 [mɜ:ˈkjʊəriəl]
 adj. changing often 变化⽆常的
 [[volatile]], [[inconstant]]
+
+[[capricious]]

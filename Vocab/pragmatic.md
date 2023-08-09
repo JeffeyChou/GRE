@@ -12,3 +12,4 @@ aliases:
 [prægˈmætɪk]
 adj. dealing with the problems that exist in a specific situation in a reasonable and logical way instead of depending on ideas and theories务实的
 [[realistic]]
+practice + math + -ic：懂实践、会数学分析->够pragmatic

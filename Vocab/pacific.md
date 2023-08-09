@@ -12,3 +12,5 @@ aliases:
 [pəˈsɪfɪk]
 adj. loving peace 和平主义的
 [[dovish]]
+
+[[irenic]]

@@ -12,3 +12,5 @@ aliases:
 [prɪˈkeəriəs]
 adj. not safe, strong, or steady 危险的，不稳固的
 [[perilous]]
+
+pre + car + ious: 早期的car都是precarious

@@ -11,3 +11,5 @@ aliases:
 
 [ɪkˈsplɪsɪt]
 (1)adj. fully revealed or expressed without vagueness, implication, orambiguity 直截了当的(2)adj. fully developed or formulated 详述的
+
+[[inexplicable]]

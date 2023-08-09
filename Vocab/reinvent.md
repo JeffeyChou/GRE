@@ -11,3 +11,5 @@ aliases:
 <pre><strong>reinvent</strong></pre>
 [ˌriɪnˈvɛnt]
 v. to make major changes or improvements to 改造
+
+re + invent 

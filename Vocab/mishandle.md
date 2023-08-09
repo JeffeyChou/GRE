@@ -10,4 +10,5 @@ aliases:
 
 <pre><strong>mishandle</strong></pre>
 [ˌmɪsˈhændl]
-(1)v. to deal with or manage wrong or ignorantly 不当地处理(2)v. [[maltreat]] 虐待
+(1)v. to deal with or manage wrong or ignorantly 不当地处理<mark style="background: #ABF7F7A6;">(2)v. [[maltreat]] 虐待
+</mark>

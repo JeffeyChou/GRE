@@ -10,7 +10,5 @@ aliases:
 
 <pre><strong>apposite</strong></pre>
 [ˈæpəzɪt]
-adj. very appropriate 合适的
+adj. very [[appropriate]] 合适的
 [[fitting]], [[germane]]
-
-[[appropriate]]

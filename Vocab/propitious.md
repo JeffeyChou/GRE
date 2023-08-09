@@ -12,3 +12,5 @@ aliases:
 [prəˈpɪʃəs]
 adj. likely to have or produce good results 吉利的
 [[auspicious]]
+
+pro + pity + ious

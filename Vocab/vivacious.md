@@ -11,3 +11,5 @@ aliases:
 <pre><strong>vivacious</strong></pre>
 [vɪˈveɪʃəs]
 adj. happy and lively in a way that is attractive 活泼的
+
+[[vivify]]

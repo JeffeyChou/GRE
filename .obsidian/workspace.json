@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3a79377e77d6fb48",
+        "id": "5a36882999c75a7b",
         "type": "tabs",
         "children": [
           {
-            "id": "ae98a1ca594c5975",
+            "id": "fe5dd206f714d358",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Draft/Day3.canvas",
+                "file": "Word-Schedule/Day3.canvas",
                 "viewState": {
-                  "x": 607.3705695921576,
-                  "y": 1046.3358879693938,
-                  "zoom": -2.6177258625152264
+                  "x": 2073.662374417473,
+                  "y": 11988.416491830503,
+                  "zoom": -0.6285918128533926
                 }
               }
             }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(诽谤)",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "cc699725df22a6bd",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Draft/Day3.canvas"
+                "file": "Word-Schedule/Day3.canvas"
               }
             }
           },
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Draft/Day3.canvas",
+                "file": "Word-Schedule/Day3.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draft/Day3.canvas",
+                "file": "Word-Schedule/Day3.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,39 +199,40 @@
       "canvas:新建白板": false
     }
   },
-  "active": "1ab0582a82369f0a",
+  "active": "fe5dd206f714d358",
   "lastOpenFiles": [
-    "Draft/vale.md",
-    "Draft/Day3.canvas",
-    "Daily note/2023-08-07.md",
-    "Vocab/benevolent.md",
-    "Vocab/somnolent.md",
-    "Dashboard/30天计划.md",
-    "Vocab/sweeping.md",
-    "Draft/Day1.canvas",
-    "Verbal_Vocab/wary.md",
-    "Verbal_Vocab/hubristic.md",
-    "Verbal_Vocab/unperturbed.md",
-    "Verbal_Vocab/compartment.md",
-    "Vocab/espouse.md",
-    "Affix/anthropo-.md",
-    "Verbal_Vocab/galvanize.md",
-    "Verbal_Vocab/exacerbate.md",
-    "Verbal_Vocab/scathing.md",
-    "Verbal_Vocab/succinct.md",
-    "Verbal_Vocab/inflammatory.md",
-    "Verbal_Vocab/inflame.md",
-    "Verbal_Vocab/prodigal.md",
-    "Collections/【填空】-错题集.md",
-    "Assets/【填空】Sec11-15.md",
-    "Verbal_Vocab/hostile.md",
-    "Verbal_Vocab/convivial.md",
-    "Vocab/mimic.md",
-    "Verbal_Vocab/debilitating.md",
+    "Draft/vivify.md",
+    "Word-Schedule/Day3.canvas",
+    "Draft/wit.md",
+    "Draft/kempt.md",
+    "Draft/assail.md",
+    "Draft/tact.md",
+    "Draft/platitude.md",
+    "Vocab/flummox.md",
+    "Intro2GRE/写作.md",
+    "Intro2GRE/阅读.md",
+    "Draft/利润问题.md",
+    "Draft/偷换概念.md",
+    "Draft/因果错误.md",
+    "Draft/时间外推.md",
+    "Draft/条件错误.md",
+    "Templates/Argument常见错误模板.md",
+    "Templates/入门课模板.md",
+    "Templates/单词模板.md",
+    "Intro2GRE/GRE-难句概论.md",
+    "Intro2GRE/GRE-难句本.md",
+    "Intro2GRE/GRE-考试结构.md",
+    "Intro2GRE/GRE-数学名词.md",
+    "Intro2GRE/GRE-考试事项.md",
+    "Intro2GRE/GRE-考试题型.md",
+    "Word-Schedule/Day2.canvas",
+    "Word-Schedule/Day1.canvas",
+    "Vocab/remiss.md",
+    "Draft/laggard.md",
+    "Word-Schedule/Canvas.canvas",
+    "Word-Schedule",
     "Assets/【阅读】《GRE阅读“冲分救命120篇”》.pdf",
-    "Draft/Day2.canvas",
     "Verbal_Vocab",
-    "Draft/Canvas.canvas",
     "Assets/Pasted image 20230804144027.png",
     "Assets/【数学】《GRE最新数学机经400题》（题目和答案）.pdf",
     "Assets/【阅读】《GRE阅读“冲分救命120篇”》.xopp",
@@ -238,7 +240,6 @@
     "Assets/【填空】《GRE填空机经1500题》答案及解析.pdf",
     "Assets/【填空】《GRE填空机经1500题》题目最新版.pdf",
     "Affix",
-    "Day Planners",
-    "Assets/【数学】《GRE数学-猴哥112难题》题目.pdf"
+    "Day Planners"
   ]
 }

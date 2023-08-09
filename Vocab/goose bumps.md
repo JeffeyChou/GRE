@@ -10,4 +10,4 @@ aliases:
 <pre><strong>goose bumps</strong></pre>
 
 [guːsbʌmps]
-n. small bumps on your skin that are caused by cold, fear, or a suddenfeeling of excitement 鸡⽪疙瘩
+n. small [[bump]]s on your skin that are caused by cold, fear, or a sudden feeling of excitement 鸡⽪疙瘩

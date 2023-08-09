@@ -10,4 +10,4 @@ aliases:
 
 <pre><strong>lucid</strong></pre>
 [lu:'sɪd]
-adj. very clear and easy to understand 清晰的，易懂的
+adj. very clear and easy to understand [[清晰]]的，易懂的

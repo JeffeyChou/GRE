@@ -10,3 +10,5 @@ aliases:
 
 <pre><strong>salvational</strong></pre>
 adj. 救世主般的
+
+save(salvare) + ational

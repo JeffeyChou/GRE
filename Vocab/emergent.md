@@ -10,4 +10,4 @@ aliases:
 
 <pre><strong>emergent</strong></pre>
 [iˈmɜ:dʒənt]
-(1)adj. arising unexpectedly 意外的(2)adj. newly formed or prominent 新兴的
+(1)adj. arising unexpectedly 意外的<mark style="background: #ABF7F7A6;">(2)adj. newly formed or prominent 新兴的</mark>

@@ -12,3 +12,5 @@ aliases:
 [ˌri:ˈhæʃ]
 v. to present again in a slightly different form ⽼调重弹，炒冷饭
 [[recycle]]
+
+hash: to talk about

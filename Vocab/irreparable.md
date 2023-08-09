@@ -11,3 +11,5 @@ aliases:
 <pre><strong>irreparable</strong></pre>
 [ɪˈrepərəbl]
 adj. too bad to be corrected or repaired 不可弥补的
+
+[[reparable]]

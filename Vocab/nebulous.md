@@ -12,3 +12,5 @@ aliases:
 [ˈnebjələs]
 adj. not clear 模糊的
 [[vague]]
+
+[[slur]]

@@ -12,3 +12,5 @@ aliases:
 [prɑfləɡɪt]
 adj. wildly extravagant 挥霍的
 [[extravagant]], [[prodigal]]
+
+pro + l(eave) + igate:像pro般把东西leave在gate外面，即profligate

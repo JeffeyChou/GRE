@@ -10,4 +10,4 @@ aliases:
 
 <pre><strong>madcap</strong></pre>
 [ˈmædkæp]
-adj. marked by capriciousness, recklessness, or foolishness 愚蠢的，鲁莽的
+adj. marked by [[capricious]]ness, [[reckless]]ness, or [[foolish]]ness 愚蠢的，鲁莽的

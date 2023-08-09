@@ -11,4 +11,4 @@ aliases:
 <pre><strong>magnanimous</strong></pre>
 [mæɡˈnænəməs]
 adj. showing or suggesting nobility of feeling and generosity of mind 宽宏⼤量的，慷慨的
-[[altruistic]], [[magnanimous]]
+[[altruistic]],

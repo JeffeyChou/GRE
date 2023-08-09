@@ -11,3 +11,5 @@ aliases:
 
 [ˈflʌrɪʃ]
 (1)v. to grow well 繁茂(2)v. to be very successful 兴旺(3)v. to hold up and show in an excited or proud way 炫耀
+
+[[defy]]

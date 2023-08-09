@@ -11,3 +11,5 @@ aliases:
 <pre><strong>veracity</strong></pre>
 [vəˈræsəti]
 n. truth or accuracy 真实
+
+[[celerity]]

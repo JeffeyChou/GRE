@@ -11,3 +11,5 @@ aliases:
 
 [gæf]
 n. a mistake made in a social situation 失礼
+
+[[churlish]]

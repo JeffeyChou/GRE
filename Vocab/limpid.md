@@ -10,5 +10,5 @@ aliases:
 
 <pre><strong>limpid</strong></pre>
 [ˈlɪmpɪd]
-adj. marked by transparency 清晰的
+adj. marked by transparency [[清晰]]的
 [[pellucid]]

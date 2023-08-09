@@ -10,4 +10,4 @@ aliases:
 
 <pre><strong>protract</strong></pre>
 [prəˈtrækt]
-(1)v. delay, defer 拖延(2)v. to extend forward or outward 延⻓
+<mark style="background: #ABF7F7A6;">(1)v. delay, defer 拖延</mark>(2)v. to extend forward or outward 延⻓

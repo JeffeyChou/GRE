@@ -10,4 +10,4 @@ aliases:
 <pre><strong>gloat</strong></pre>
 
 [gləʊt]
-v. to show in an improper or selfish way that you are happy with youown success or another person’s failure 幸灾乐祸
+v. to show in an improper or selfish way that you are happy with you own success or another person’s failure 幸灾乐祸

@@ -10,5 +10,5 @@ aliases:
 <pre><strong>evasive</strong></pre>
 
 [ɪˈveɪsɪv]
-adj. tending or intended to evade: equivocal 逃避的，闪烁其词的[[
-elusive]], [[equivocal]]
+adj. tending or intended to evade: equivocal 逃避的，闪烁其词的
+[[elusive]], [[equivocal]]

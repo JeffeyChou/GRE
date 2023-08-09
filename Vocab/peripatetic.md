@@ -10,5 +10,5 @@ aliases:
 
 <pre><strong>peripatetic</strong></pre>
 [ˌperipəˈtetɪk]
-adj. pedestrian, itinerant 巡回的
+adj. [[pedestrian]], [[itinerant]] 巡回的
 [[itinerant]]

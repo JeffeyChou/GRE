@@ -12,3 +12,5 @@ aliases:
 [ˌʌnəˈseɪləbl]
 adj. not able to be doubted 毋庸置疑的
 [[sound]]
+
+[[assail]]

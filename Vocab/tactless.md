@@ -11,3 +11,5 @@ aliases:
 <pre><strong>tactless</strong></pre>
 ['tæktləs]
 adj. not showing or having tact 笨拙的
+
+[[tact]]

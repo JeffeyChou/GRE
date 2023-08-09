@@ -12,3 +12,5 @@ aliases:
 [ˈkrɪptɪk]
 adj. difficult to understand 难解的
 [[elusive]]
+
+[[esoteric]], [[arcane]]

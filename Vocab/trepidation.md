@@ -12,3 +12,5 @@ aliases:
 [ˌtrepɪˈdeɪʃn]
 n. a nervous or fearful feeling of uncertain agitation 不安
 [[misgiving]], [[apprehension]]
+
+trep(tremble)
