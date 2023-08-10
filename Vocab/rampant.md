@@ -12,3 +12,4 @@ aliases:
 [ˈræmpənt]
 adj. growing quickly and in a way that is difficult to control 泛滥的，疯⻓的
 [[luxuriant]]
+推荐：ramp【狂暴】 + -ant表形容词。

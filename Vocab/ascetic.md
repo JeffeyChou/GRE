@@ -11,3 +11,4 @@ aliases:
 <pre><strong>ascetic</strong></pre>
 [əˈsetɪk]
 adj. relating to having a strict and simple way of living that avoids physical pleasure 苦⾏的
+推荐：来自希腊语askeo, 修行，特指宗教人士的苦修。

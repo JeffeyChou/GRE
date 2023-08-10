@@ -13,3 +13,4 @@ aliases:
 adj. happy and lively in a way that is attractive 活泼的
 
 [[vivify]]
+推荐：viv-生命 + -acious多…的 → 多生命的 → 活泼的。

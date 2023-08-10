@@ -11,3 +11,4 @@ aliases:
 <pre><strong>compunction</strong></pre>
 [kəmˈpʌŋkʃn]
 n. a feeling of guilt or regret 后悔
+推荐：com-共同 + punct-刺 + -ion名词后缀 → 浑身像针刺一样 → 悔恨。

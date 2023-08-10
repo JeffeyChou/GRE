@@ -12,3 +12,4 @@ aliases:
 [ˈvɒlətaɪl]
 adj. likely to change in a very sudden or extreme way 善变的
 [[fickle]], [[versatile]], [[flighty]], [[erratic]], [[capricious]]
+推荐：vol-飞 + -at + -ile, 表形容词

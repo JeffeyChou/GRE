@@ -12,3 +12,4 @@ aliases:
 [ˌʌnˌpri:pəˈzesɪŋ]
 adj. looking rather plain or ordinary 不吸引⼈的
 [[unremarkable]]
+推荐：prepossessing【有魅力的、引人注意的】。

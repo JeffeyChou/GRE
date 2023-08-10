@@ -11,4 +11,4 @@ aliases:
 <pre><strong>slumber</strong></pre>
  slumber 
 /ˈslʌmbər/
-to sleep
+to sleep lightly.

@@ -9,7 +9,6 @@ aliases:
 ---
 
 <pre><strong>unostentatious</strong></pre>
-un[[ostentatious]]
 ['ʌnˌɒsten'teɪʃəs]
 adj. not ostentatious 不夸耀的
 [[modest]]

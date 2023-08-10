@@ -13,4 +13,4 @@ aliases:
 adj. breaking out again 复发的
 [[resurgent]]
 
-re + crude + scent 
+推荐：re + crude + scent 

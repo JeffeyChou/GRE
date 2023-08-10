@@ -12,3 +12,4 @@ aliases:
 [kən'tɛmptʃuəs]
 adj. feeling or showing deep hatred or disapproval 轻蔑的
 [[disdainful]]
+推荐：tempt- : ＝scorn, 表示“藐视”。

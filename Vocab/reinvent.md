@@ -12,4 +12,4 @@ aliases:
 [ˌriɪnˈvɛnt]
 v. to make major changes or improvements to 改造
 
-re + invent 
+推荐：re + invent 

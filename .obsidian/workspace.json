@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5a36882999c75a7b",
+        "id": "4935affb9412001e",
         "type": "tabs",
         "children": [
           {
-            "id": "fe5dd206f714d358",
+            "id": "bc38aededd20109a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Word-Schedule/Day3.canvas",
-                "viewState": {
-                  "x": 2073.662374417473,
-                  "y": 11988.416491830503,
-                  "zoom": -0.6285918128533926
-                }
+                "file": "Assets/【填空】GRE机经1500题.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -73,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "cc699725df22a6bd",
@@ -101,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Word-Schedule/Day3.canvas"
+                "file": "Assets/【填空】GRE机经1500题.md"
               }
             }
           },
@@ -122,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "50f15148693a67f9",
@@ -134,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Word-Schedule/Day3.canvas",
+                "file": "Assets/【填空】GRE机经1500题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Word-Schedule/Day3.canvas",
+                "file": "Assets/【填空】GRE机经1500题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,9 +174,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "67959b94de030077",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -199,10 +203,19 @@
       "canvas:新建白板": false
     }
   },
-  "active": "fe5dd206f714d358",
+  "active": "bc38aededd20109a",
   "lastOpenFiles": [
-    "Draft/vivify.md",
+    "Assets/【填空】GRE机经1500题 1.md",
+    "Assets/【填空】GRE机经1500题.md",
+    "Assets/【填空】Sec16-20.md",
+    "Word-Schedule/Day1.canvas",
+    "Daily note/2023-08-10.md",
     "Word-Schedule/Day3.canvas",
+    "Draft/flinch.md",
+    "Draft/plumb.md",
+    "Vocab/pedestrian.md",
+    "Vocab/pejorative.md",
+    "Draft/vivify.md",
     "Draft/wit.md",
     "Draft/kempt.md",
     "Draft/assail.md",
@@ -220,15 +233,7 @@
     "Templates/入门课模板.md",
     "Templates/单词模板.md",
     "Intro2GRE/GRE-难句概论.md",
-    "Intro2GRE/GRE-难句本.md",
-    "Intro2GRE/GRE-考试结构.md",
-    "Intro2GRE/GRE-数学名词.md",
-    "Intro2GRE/GRE-考试事项.md",
-    "Intro2GRE/GRE-考试题型.md",
     "Word-Schedule/Day2.canvas",
-    "Word-Schedule/Day1.canvas",
-    "Vocab/remiss.md",
-    "Draft/laggard.md",
     "Word-Schedule/Canvas.canvas",
     "Word-Schedule",
     "Assets/【阅读】《GRE阅读“冲分救命120篇”》.pdf",

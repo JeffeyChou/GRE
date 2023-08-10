@@ -13,3 +13,4 @@ aliases:
 n. an act of bidding farewell 告别
 
 [[vale]]
+推荐：vale-再见 + dict-说 + -ion名词后缀 → 说再见

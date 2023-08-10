@@ -12,3 +12,4 @@ aliases:
 [,vɪtrɪ'ɑlɪk]
 adj. bitterly [[scathing]] 尖酸刻薄的
 [[acerbic]], [[opprobrium]]
+推荐：vitriol【硫酸盐】 + -ic的，是单词vitriol(: harsh and angry words尖刻的话；刻薄言语) 派生的形容词。

@@ -12,3 +12,4 @@ aliases:
 [ˈkæstɪgeɪt]
 v. to criticize harshly 严厉[[批评]]
 [[chastise]]
+推荐：cast-纯净 + ig-做 + -ate, 表动词 → 使…纯洁 → 惩罚[错误]。

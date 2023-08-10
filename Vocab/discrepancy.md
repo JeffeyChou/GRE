@@ -12,3 +12,4 @@ aliases:
 [dɪs'krɛpənsi]
 n. a difference especially between things that should be the same [[⽭盾]]
 [[incongruity]]
+推荐：dis-分开，散开 + crep-破裂声 + -ancy → 指不同的声音，引申词义争吵，不一致。

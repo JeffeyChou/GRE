@@ -12,3 +12,4 @@ aliases:
 [ˈrekəndaɪt]
 adj. not understood or known by many people 晦涩难懂的
 [[esoteric]], [[arcane]], [[abstruse]]
+推荐：re-一再 + cond-藏 + -ite, 表形容词 → [意义]一再被藏起来 → 深奥的。

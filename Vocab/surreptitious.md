@@ -11,3 +11,4 @@ aliases:
 <pre><strong>surreptitious</strong></pre>
 [ˌsʌrəpˈtɪʃəs]
 adj. done in a secret way ⻤⻤祟祟的
+推荐：sur-下面 + rept-爬 + -itious表形容词 → 在下面爬的 → 鬼鬼祟祟

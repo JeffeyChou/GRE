@@ -14,3 +14,4 @@ aliases:
 [[tenacity]]
 
 [[irresolution]]
+推荐：re-再 + solv-松 + -e → 再松开 → 解决。

@@ -12,3 +12,4 @@ aliases:
 [ˈpɪlfə]
 v. to steal things that are not very valuable or to steal a small amount ofsomething 偷窃
 [[appropriate]]
+推荐：pill- : = plunder, 表示“掠夺”。

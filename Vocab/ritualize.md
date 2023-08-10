@@ -11,3 +11,4 @@ aliases:
 <pre><strong>ritualize</strong></pre>
 [ˈrɪtʃuəlaɪz]
 v. to make a ritual of 使...程式化
+推荐：rite【仪式】 + -ual。

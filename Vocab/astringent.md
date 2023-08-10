@@ -11,3 +11,4 @@ aliases:
 <pre><strong>astringent</strong></pre>
 [əˈstrɪndʒənt]
 adj. having a sharp or bitter quality 严厉的
+推荐：a-=ad-去，往 + string-拉 + -ent。

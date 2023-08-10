@@ -11,3 +11,4 @@ aliases:
 <pre><strong>vehement</strong></pre>
 [ˈvi:əmənt]
 adj. showing strong and often angry feelings 激烈的
+推荐：veh-带来，-ment名词后缀。

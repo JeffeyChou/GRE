@@ -12,3 +12,4 @@ aliases:
 [kənˈdaɪn]
 adj. deserved, appropriate 适当的
 [[meet]]
+推荐：con-大家 + dign-值得 → 大家都觉得这是值得的。

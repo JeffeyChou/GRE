@@ -12,3 +12,4 @@ aliases:
 ['vɪdʒələnt]
 adj. carefully noticing problems or signs of danger 警惕的
 [[careful]]
+推荐：vigil-=vig-清醒 + -ant表形容词 → 有生命的 → 警惕的。

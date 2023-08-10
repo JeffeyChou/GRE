@@ -13,3 +13,4 @@ aliases:
 adj. having the characteristics of a platitude 陈腐的
 
 [[platitude]]
+推荐：plat-平 + -itude状态 → [语言]平坦 → 陈词滥调

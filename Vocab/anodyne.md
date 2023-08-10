@@ -12,3 +12,4 @@ aliases:
 [ˈænədaɪn]
 adj. expressed in a way that is unlikely to offend anyone 不冒犯人的
 [[innocuous]], [[benign]]
+推荐：an-不 , 无 + odyn-痛 + -e → 止痛药。

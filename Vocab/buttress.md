@@ -12,3 +12,4 @@ aliases:
 [ˈbʌtrəs]
 v. to support, strengthen, or defend [[⽀持]]
 [[bolster]]
+推荐：butt【相撞，相接】 + -ess通常为阴性后缀，此处为名词后缀。

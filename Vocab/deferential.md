@@ -12,3 +12,4 @@ aliases:
 [ˌdefə'renʃl]
 adj. showing or expressing deference 恭敬的
 [[respectful]]
+推荐：defer【尊重】 + -ent + -ial表形容词。

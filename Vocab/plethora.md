@@ -12,3 +12,4 @@ aliases:
 [ˈpleθərə]
 n. excess, superfluity 过量
 [[surfeit]], [[glut]]
+推荐：pleth-满 + -ora名词后缀。

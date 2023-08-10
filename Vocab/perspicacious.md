@@ -12,3 +12,4 @@ aliases:
 [ˌpɜ:spɪˈkeɪʃəs]
 adj. having or showing an ability to notice and understand things that are difficult or not obvious 有洞察⼒的
 [[discernible]]
+推荐：per-全部 + spic-看 + -acious…的 → 全部都看到的

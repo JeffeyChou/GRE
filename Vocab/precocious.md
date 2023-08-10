@@ -13,4 +13,4 @@ aliases:
 adj. exhibiting mature qualities at an unusually early age 早熟的
 [[premature]]
 
-pre + co(ding) + cious：提前学会了coding，有点过于precocious了
+推荐：pre + co(ding) + cious：提前学会了coding，有点过于precocious了

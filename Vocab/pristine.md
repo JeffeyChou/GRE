@@ -13,4 +13,4 @@ aliases:
 (1)adj. belonging to the earliest period or state 原始的(2)adj. not spoiled, corrupted, or polluted 崭新的
 [[unblemished]]
 
-pre + stage + ine
+推荐：pre + stage + ine

@@ -12,4 +12,4 @@ aliases:
 [rɪˈkælsɪtrənt]
 adj. obstinately defiant of authority or restraint 倔强反抗的
 
-recall + city + transmission
+推荐：re-重新 + calc-石头 + -itr- + -ant表形容词 → 重新变成石头顽固的。

@@ -11,3 +11,4 @@ aliases:
 <pre><strong>concoct</strong></pre>
 [kənˈkɒkt]
 (1)v. to make by mixing different things together 混合⽽制(2)v. to invent or develop 编造
+推荐：con-全部 + coct-=cock → 全部是调配出来的 → 编造。

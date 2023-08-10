@@ -11,3 +11,5 @@ aliases:
 <pre><strong>unflinching</strong></pre>
 [ʌn'flɪntʃɪŋ]
 adj. staying strong and determined even when things are difficult 不畏缩的
+
+[[flinch]]

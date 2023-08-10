@@ -12,3 +12,4 @@ aliases:
 ['kʌvɪt]
 v. to want very much 贪求
 [[envy]]
+推荐：来自拉丁词cupio, 渴求，词源同Cupid, cupidity, hope。

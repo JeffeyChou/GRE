@@ -12,4 +12,4 @@ aliases:
 [ˈprəʊbəti]
 n. the quality of a person who is completely honest 诚实，正直
 
-pro + bi(o) + ty：个人的bit很pro,即probity
+推荐：prob-证明 + -ity, 表名词 → [人]经得起证明和试验 → 正直。

@@ -13,4 +13,4 @@ aliases:
 adj. likely to have or produce good results 吉利的
 [[auspicious]]
 
-pro + pity + ious
+推荐：pro-向前 + pit-=pet-追求 + -ious形容词后缀有 → 特性的。

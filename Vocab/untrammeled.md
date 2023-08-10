@@ -12,3 +12,4 @@ aliases:
 [ʌn'træmld]
 adj. not confined, limited, or impeded 没有限制的
 [[unrestrained]]
+推荐：un-不，非 + trammel【束缚】 + -ed。

@@ -12,3 +12,4 @@ aliases:
 [ˈvɪʃieɪt]
 v. to ruin or spoil 损害
 [[impair]]
+推荐：viti-缺陷，过错 + -ate使… → 使错误 → 使堕落。

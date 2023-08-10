@@ -13,4 +13,4 @@ aliases:
 (1)adj. ordinary or very common 普通的，常⻅的(2)adj. done each day ⽇常的
 [[workday]]
 
-quote + idian
+推荐：quoti-数目 + di-日子 + an。

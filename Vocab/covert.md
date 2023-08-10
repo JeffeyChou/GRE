@@ -12,3 +12,4 @@ aliases:
 [ˈkʌvət]
 adj. made, shown, or done in a way that is not easily seen or notices 秘密的
 [[clandestine]]
+推荐：cover-盖子 + -t, 分词后缀。

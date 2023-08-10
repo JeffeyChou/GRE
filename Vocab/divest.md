@@ -12,3 +12,4 @@ created: 2023-08-01 18:11:04
 [dɪˈvɛst, daɪ-]
 v. to deprive or dispossess 剥夺
 [[strip]]
+推荐：di-去掉 + vest-衣服 → 去掉衣服 → 脱去。

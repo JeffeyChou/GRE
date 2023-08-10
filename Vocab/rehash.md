@@ -13,4 +13,4 @@ aliases:
 v. to present again in a slightly different form ⽼调重弹，炒冷饭
 [[recycle]]
 
-hash: to talk about
+推荐：hash: to talk about

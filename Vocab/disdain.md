@@ -12,3 +12,4 @@ aliases:
 [dɪsˈdeɪn]
 n. a feeling of contempt for someone or something regarded as unworthy or inferior [[鄙视]]
 [[opprobrium]], [[contempt]]
+推荐：dis-不，非，使相反 + dain-=dign-尊贵 → 使不尊贵，蔑视。

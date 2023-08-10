@@ -12,3 +12,4 @@ aliases:
 [rɪˈkɔɪl]
 v. to quickly move away from something that is shocking, frightening, or disgusting 畏缩，后退
 [[shrink]]
+推荐：re- + coil【卷曲】

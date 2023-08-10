@@ -12,3 +12,5 @@ aliases:
 [ˌʌnɪmˈpi:tʃəbl]
 adj. very reliable and trusted 毋庸置疑的
 [[blameless]]
+
+[[unassailable]]

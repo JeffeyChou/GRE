@@ -12,3 +12,4 @@ aliases:
 [ˈpɑ:stərəl]
 adj. of or relating to the countryside or to the lives of people who live in the country 乡村的
 [[bucolic]]
+推荐：pastor【放牧，牧师】 + -al。

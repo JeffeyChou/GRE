@@ -11,3 +11,4 @@ aliases:
 <pre><strong>diffident</strong></pre>
 [ˈdɪfɪdənt]
 (1)adj. lacking confidence 缺乏⾃信的<mark style="background: #ABF7F7A6;">(2)adj. very careful about acting or speaking ⾔⾏谨慎的</mark>
+推荐：dif-不 + fid-信任 + -ent形容词后缀 → 不自信。

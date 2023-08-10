@@ -13,4 +13,4 @@ aliases:
 adj. giving exact rules, directions, or instructions about how you should do something 指定的，规定的
 [[exacting]]
 
-pre + scrpitive :提前描述好的，也就是prescrptive
+推荐：pre + scrpitive :提前描述好的，也就是prescrptive

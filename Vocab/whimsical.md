@@ -12,3 +12,4 @@ aliases:
 [ˈwɪmzɪkl]
 adj. subject to [[erratic]] behavior or [[unpredictable]] change 难以预测的
 [[capricious]]
+推荐：whimsy【怪念头，怪想法】 + -ical表形容词，是单词whimsy 派生的形容词。

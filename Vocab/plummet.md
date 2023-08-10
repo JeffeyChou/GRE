@@ -11,3 +11,4 @@ aliases:
 <pre><strong>plummet</strong></pre>
 ['plʌmɪt]
 v. to fall or drop suddenly in amount, value, etc. （数量，价值等）下跌
+[[plumb]]

@@ -12,3 +12,4 @@ aliases:
 [pəˈrɪfərəl]
 adj. of, relating to, involving, or forming a periphery or surface part 边缘的
 [[marginal]]
+推荐：peri-四周 + pher-带来 + -al形容词后缀 → 周边带来的 → 不重要的 , 外围的
