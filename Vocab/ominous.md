@@ -12,3 +12,4 @@ aliases:
 [ˈɒmɪnəs]
 adj. suggesting that something bad is going to happen in the future 不祥的
 [[inauspicious]]
+推荐：omen【预兆，预示】 + -ous形容词后缀。

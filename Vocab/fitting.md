@@ -10,5 +10,5 @@ aliases:
 <pre><strong>fitting</strong></pre>
 
 [ˈfɪtɪŋ]
-adj. of a kink that is appropriate for the situation or purpose 合适的
+adj. of a kink that is [[appropriate]] for the situation or purpose 合适的
 [[apposite]]

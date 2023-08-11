@@ -12,3 +12,5 @@ aliases:
 [ˌmæl'fi:zəns]
 n. wrongdoing or misconduct especially by a public official 渎职
 [[fraudulence]]
+
+推荐：feasance : n. 履行 || feas- : = make, do, 表示“做，制作”，来自拉丁语 facere "to make"。

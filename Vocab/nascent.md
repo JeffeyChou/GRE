@@ -12,3 +12,4 @@ aliases:
 [ˈnæsnt]
 adj. beginning to exist 刚出现的
 [[budding]], [[unformed]]
+推荐：nasc-出生 + -ent表形容词

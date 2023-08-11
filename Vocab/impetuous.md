@@ -12,3 +12,4 @@ aliases:
 [ɪmˈpetʃuəs]
 adj. acting or done quickly and without thought 鲁莽的
 [[precipitate]]
+推荐：im-使 + pet-追求 + -uous表形容词。

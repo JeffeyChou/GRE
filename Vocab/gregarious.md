@@ -12,3 +12,4 @@ aliases:
 [grɪ'geərɪəs]
 (1)adj. marked by or indicating a liking for companionship 爱交际的(2)adj. growing in a cluster or colony 群居的
 [[sociable]]
+推荐：greg-群体 + -arious爱…的 → 爱群体的。

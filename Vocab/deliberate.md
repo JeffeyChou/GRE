@@ -5,7 +5,7 @@ tags:
   - Word
 title: 📖deliberate
 aliases:
-  - null
+  - deliberation
 ---
 
 <pre><strong>deliberate</strong></pre>

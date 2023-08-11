@@ -12,3 +12,4 @@ aliases:
 ['flitɪŋ]
 adj. lasting for only a short time 短暂的
 [[momentary]]
+推荐：fleet【舰队】 + -ing表形容词。

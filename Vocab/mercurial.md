@@ -14,3 +14,4 @@ adj. changing often 变化⽆常的
 [[volatile]], [[inconstant]]
 
 [[capricious]]
+推荐：mercury【水银】 + -ial表形容词。即水银的，引申词义像水银一样流动的，多变的。

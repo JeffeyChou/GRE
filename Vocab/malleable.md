@@ -12,3 +12,5 @@ aliases:
 [ˈmæliəbl]
 adj. capable of being easily changed or influenced 可塑的，易变的
 [[plastic]]
+
+推荐：malle-=mall-锤子 + -able, 表形容词 → 可锻造的

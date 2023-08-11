@@ -11,3 +11,5 @@ aliases:
 <pre><strong>malinger</strong></pre>
 [məˈlɪŋɡɚ]
 v. to pretend or exaggerate incapacity or illness 装病
+
+推荐：mal- : =bad, wretched, 表示“坏，恶”。

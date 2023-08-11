@@ -12,3 +12,5 @@ aliases:
 [,ɪnkɑŋ'grʊəti]
 n. something that is incongruous ⽭盾
 [[discrepancy]]
+
+推荐：in-不，非 + congruity【全等】。

@@ -11,3 +11,5 @@ aliases:
 <pre><strong>morbid</strong></pre>
 ['mɔrbɪd]
 adj. not healthy or normal 病态的
+
+推荐：morb- : = disease, 表示“病”，

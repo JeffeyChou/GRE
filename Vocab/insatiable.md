@@ -13,3 +13,5 @@ insatiable
 [ɪn'seɪʃəbl]
 adj. always wanting more 不满⾜的
 [[voracious]], [[quenchless]]
+
+推荐：in-不，非 + satiable【可满足的】。

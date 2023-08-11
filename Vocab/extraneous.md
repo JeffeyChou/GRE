@@ -12,3 +12,4 @@ aliases:
 [ɪkˈstreɪniəs]
 adj. not forming a necessary part of something ⽆关的
 [[irrelevant]]
+推荐：extra-超过 + neous表形容词 → 出去的 → 不相关的。

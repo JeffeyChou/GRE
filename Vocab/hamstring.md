@@ -12,3 +12,4 @@ aliases:
 [ˈhæmstrɪŋ]
 v. to damage or ruin the force or effectiveness of 使⽆能为⼒
 [[impair]]
+推荐：ham【后腿】 + string【弦】。

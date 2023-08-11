@@ -12,3 +12,4 @@ aliases:
 [ɪgˈzæktɪŋ]
 adj. requiring much time, attention, or effort from someone 严格的
 [[prescriptive]], [[rigorous]], [[demanding]]
+推荐：exact【强求】 + -ing表形容。

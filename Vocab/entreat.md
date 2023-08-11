@@ -13,3 +13,4 @@ aliases:
 v. to ask in a serious and emotional way 恳求
 
 [[supplicate]], [[woo]]
+推荐：en-使 + treat【处理】 → 使……得到处理 → 请求。

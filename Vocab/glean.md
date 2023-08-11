@@ -10,5 +10,5 @@ aliases:
 <pre><strong>glean</strong></pre>
 
 [gli:n]
-v. to gather or collect in a gradual way 搜集，获取
+(1)v. to gather or collect in a gradual way 搜集，获取;(2)v. to gather grain or other produce left by reapers拾（落穗）
 [[obtain]]

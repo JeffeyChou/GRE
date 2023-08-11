@@ -12,3 +12,4 @@ aliases:
 [ɪˈgri:dʒiəs]
 adj. very bad and easily noticed 臭名昭著的
 [[flagrant]]
+推荐：e-出 + greg-全体 + -ious → 出了一般团体 → 过分的。

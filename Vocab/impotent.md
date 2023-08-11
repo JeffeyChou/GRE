@@ -11,3 +11,5 @@ aliases:
 
 ['ɪmpətənt]
 adj. lacking power or strength ⽆能的，⽆⼒的
+
+推荐：pot-力量 + -ent表形容词。

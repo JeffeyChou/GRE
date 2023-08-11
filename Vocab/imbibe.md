@@ -12,3 +12,5 @@ aliases:
 [ɪmˈbaɪb]
 (1)v. to drink alcohol 饮酒(2)v. to receive into the mind and retain 吸收，接受
 [[quaff]]
+
+推荐：im-使… + bib-喝 + -e → 饮。

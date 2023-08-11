@@ -12,3 +12,5 @@ aliases:
 ['fʌndʒɪbl]
 adj. interchangeable 可取代的
 [[interchangeable]]
+
+fungi : pl. 真菌, 突然发生而迅速生长的东西

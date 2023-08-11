@@ -12,3 +12,5 @@ aliases:
 ['fækʃəs]
 adj. of or relating to faction 宗派的，派系的
 [[schism]]
+
+[[faction]]

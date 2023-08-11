@@ -11,3 +11,4 @@ aliases:
 <pre><strong>omit</strong></pre>
 [ə'mɪt]
 v. to leave out 遗漏
+推荐：o-出 + mit-送 → 送出 → 省略。

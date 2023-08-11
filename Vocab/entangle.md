@@ -11,3 +11,4 @@ aliases:
 <pre><strong>entangle</strong></pre>
 [ɪn'tæŋgl]
 v. to cause to get caught in or twisted with something else 使纠缠
+推荐：en-进入，使 + tangle【卷入】

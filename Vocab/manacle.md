@@ -11,3 +11,5 @@ aliases:
 <pre><strong>manacle</strong></pre>
 ['mænəkl]
 v. to restrain from movement, progress, or action 束缚
+
+推荐：man-手 + -acle东西 → 手上的东西 → 手铐。

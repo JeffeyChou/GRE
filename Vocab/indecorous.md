@@ -11,3 +11,5 @@ aliases:
 
 [ɪn'dekərəs]
 adj. conflicting with accepted standards of good conduct or good taste不合礼节的
+
+推荐in- + de- + correct + -ous

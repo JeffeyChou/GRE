@@ -12,3 +12,5 @@ aliases:
 [ˌmælˈəʊdərəs]
 adj. having a bad smell 难闻的
 [[noisome]]
+
+推荐：mal- + odor + -ous

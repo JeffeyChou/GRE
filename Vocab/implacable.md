@@ -12,3 +12,5 @@ aliases:
 [ɪmˈplækəbl]
 adj. opposed to someone or something in a very angry or determined way that cannot be changed ⽆法安抚的
 [[unyielding]], [[inexorable]]
+
+[[placate]]

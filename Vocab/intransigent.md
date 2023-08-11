@@ -12,3 +12,5 @@ aliases:
 [ɪnˈtrænsɪdʒənt]
 adj. completely unwilling to change 不妥协的
 [[obdurate]], [[resolute]]
+
+推荐：in-没有 + trans-穿过 + ig-做 + -ent

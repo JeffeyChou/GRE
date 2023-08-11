@@ -12,3 +12,4 @@ aliases:
 [ˌeksˈkɔ:rieɪt]
 v. to criticize very harshly 严厉指责
 [[indict]], [[crab]]
+推荐：ex-使… + cori-皮 +ate, 表动词 → 使去皮 → 没去皮遭到严厉批评 → 严厉批评。

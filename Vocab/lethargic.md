@@ -12,3 +12,5 @@ aliases:
 [lə'θɑ:dʒɪk]
 adj. feeling a lack of energy or a lack of interest in doing things ⽆精打采的
 [[somnolent]], [[slumberous]]
+
+推荐：leth-忘记 + arg-=erg-能量 + -ic表形容词 → 忘了力量 → 无力的，是单词lethargy 派生的形容词。

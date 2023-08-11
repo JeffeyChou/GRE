@@ -12,3 +12,4 @@ aliases:
 [ˈmɪmɪk]
 (1)v. to copy especially of humor 模仿<mark style="background: #ABF7F7A6;">(2)v. to naturally look like 和...相似</mark>
 [[camouflage]], [[replicate]]
+推荐：mime【模仿 + -ic形容词后缀。

@@ -11,3 +11,5 @@ aliases:
 
 [ɪm'penɪtrəbl]
 adj. impossible to understand ⽆法理解的
+
+推荐：im-不，非 + penetrable【可穿透的】。

@@ -12,3 +12,4 @@ aliases:
 [əbˈsi:kwiəs]
 adj. too eager to help or obey someone important 谄媚的
 [[sycophantic]]
+推荐：ob-用力 + sequ-跟随 + -ious表形容词 → 拼命跟随别人 → 谄媚的。

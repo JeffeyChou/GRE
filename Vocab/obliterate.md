@@ -11,3 +11,4 @@ aliases:
 <pre><strong>obliterate</strong></pre>
 [əˈblɪtəreɪt]
 v. to destroy completely so that nothing is left 清除，摧毁
+推荐：ob-去掉 + liter-字母 + -ate, 表动词 → 把字母擦掉

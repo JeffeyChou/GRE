@@ -12,3 +12,5 @@ aliases:
 [ˈfleɪgrənt]
 adj. conspicuously offensive 明⽬张胆的
 [[egregious]]
+
+推荐：flagr-火焰 + -ant

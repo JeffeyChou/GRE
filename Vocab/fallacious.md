@@ -11,3 +11,5 @@ aliases:
 
 [fəˈleɪʃəs]
 adj. containing a mistake 谬误的
+
+推荐：fallacy【谬见, 谬论】 + -ious，是单词fallacy 派生的形容词。

@@ -11,3 +11,5 @@ aliases:
 <pre><strong>largesse</strong></pre>
 [lɑː'dʒes]
 n. the act of giving away money or the quality of a person who givesaway money 捐赠
+
+推荐：large【大的，大方的】 + -esse名词后缀。

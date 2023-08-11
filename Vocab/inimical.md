@@ -13,3 +13,4 @@ inimical
 [ɪˈnɪmɪkl]
 (1)adj. likely to cause damage or have a bad effect 有害的(2)adj. not friendly 不友好的
 [[antagonistic]], [[deleterious]]
+推荐：词源同enemy , 敌人。拼写比较imperial , empire , invidious , envy。

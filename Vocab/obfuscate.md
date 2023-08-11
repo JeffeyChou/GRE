@@ -12,3 +12,4 @@ aliases:
 [ˈɒbfʌskeɪt]
 v. to make more difficult to understand 混淆，使迷惑
 [[obscure]], [[mystify]]
+推荐：ob-在上，表强调 + fusc-黑的 + -ate, 表动词 → 使变黑的，引申词义混淆，模糊。
