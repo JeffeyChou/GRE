@@ -1,10 +1,11 @@
 ---
 created: 2023-08-03 19:02:58
-updated: 
+updated: 2023-08-15 19:28:11
 tags: 
   - Test
 title: ⛳【填空】Sec1-5
 ---
+# 【填空】Sec1-5
 
 - [[#section 1 easy|section 1 easy]]
 - [[#section 2 easy|section 2 easy]]
@@ -91,7 +92,7 @@ C. prophetic**
 E. repeated
 <mark style="background: #ABF7F7A6;">F</mark>. apathetic
 
-12分钟
+12 分钟
 ## section 2 easy
 
 1. Among the Meakambut people of Papua New Guinea, legends are associated with specific caves in the Sepik region, and these legends are <u>______</u>: only the cave owner can share its secrets.
@@ -170,7 +171,7 @@ C. disorganization
 E. diffidence
 **F. *[[exasperation]]***
 
-11分钟
+11 分钟
 ## section 3 easy
 
 1. Though we live in an era of stunning scientific achievement, many otherwise educated people remain indifferent to or contemptuous of such achievement, even going so far as to <u>______</u> their ignorance of basic physics.

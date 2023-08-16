@@ -11,3 +11,5 @@ aliases:
 
 ['hɔ:tətərɪ]
 adj. [[hortative]], [[exhortatory]] 劝告的
+
+推荐：hort-鼓励 + -ative, 表形容词

@@ -5,7 +5,7 @@ tags:
   - Word
 title: 📖opulent
 aliases:
-  - null
+  - opulence
 ---
 
 <pre><strong>opulent</strong></pre>

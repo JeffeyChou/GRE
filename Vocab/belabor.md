@@ -12,3 +12,4 @@ aliases:
 [bɪ'lebə]
 <mark style="background: #ABF7F7A6;">(1)v. to repeat or stress too much or too often 过分强调(2)v. to attack or criticize 抨击</mark>
 [[overemphasize]]
+推荐：be-强调 + labor-劳作 → 过分劳作 → 过分做事或罗唆。

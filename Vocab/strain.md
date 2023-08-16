@@ -11,5 +11,3 @@ aliases:
 <pre><strong>strain</strong></pre>
 [stren]
 v. to make violent efforts 尽量使⼒
-
-[[restrain]]

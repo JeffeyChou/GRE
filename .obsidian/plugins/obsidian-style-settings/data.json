@@ -14,7 +14,7 @@
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha-old",
   "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-yellow",
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-mauve",
-  "anuppuccin-theme-settings@@anp-active-line": "anp-no-highlight",
+  "anuppuccin-theme-settings@@anp-active-line": "anp-current-line-border-only",
   "anuppuccin-theme-settings@@anp-background-image-toggle": false,
   "anuppuccin-theme-settings@@anp-colorful-frame": false,
   "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-dark": true,
@@ -41,7 +41,7 @@
   "anuppuccin-theme-settings@@anp-card-shadows": false,
   "anuppuccin-theme-settings@@anp-card-layout-actions": true,
   "anuppuccin-theme-settings@@anp-card-layout-filebrowser": true,
-  "anuppuccin-theme-settings@@anp-toggle-preview": false,
+  "anuppuccin-theme-settings@@anp-toggle-preview": true,
   "anuppuccin-theme-settings@@anp-button-metadata-toggle": true,
   "anuppuccin-theme-settings@@anp-color-transition-toggle": true,
   "anuppuccin-theme-settings@@anp-autohide-titlebar": false,
@@ -67,5 +67,6 @@
   "floating-toc-styles@@toggle-floating-toc-header-color": true,
   "floating-toc-styles@@floating-toc-header-background-color@@dark": "#00000000",
   "floating-toc-styles@@floating-toc-background-color@@dark": "#00000000",
-  "floating-toc-styles@@floating-toc-response-time": 0.2
+  "floating-toc-styles@@floating-toc-response-time": 0.2,
+  "anuppuccin-theme-settings@@anp-preview-width-pct": 100
 }

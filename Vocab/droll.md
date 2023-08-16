@@ -11,5 +11,3 @@ aliases:
 <pre><strong>droll</strong></pre>
 [drəʊl]
 adj. having an odd and amusing quality 滑稽的
-
-[[banter]]

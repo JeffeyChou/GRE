@@ -12,3 +12,4 @@ aliases:
 [məˈtɪkjələs]
 adj. very careful about doing something in a extremely accurate and exact way 周密的，⼀丝不苟的
 [[thorough]], [[exact]], [[painstaking]]
+推荐：meet + particular + -ous

@@ -11,3 +11,4 @@ aliases:
 <pre><strong>tumultuous</strong></pre>
 [tu'mʌltʃuəs]
 adj. involving a lot of violence, confusion, or disorder 骚乱的
+[[tumult]]

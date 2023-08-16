@@ -12,3 +12,4 @@ aliases:
 [mʌnˈdeɪn]
 (1)adj. dull and ordinary 平凡的，[[乏味的]](2)adj. relating to ordinary life on earth rather than to spiritual things 世俗的
 推荐：mund- : 表示“世界”。
+[[germane]]

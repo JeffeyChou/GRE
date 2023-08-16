@@ -11,5 +11,6 @@ aliases:
 
 [egˈzɪgjuəs]
 adj. excessive scanty 稀少的
+very small in amount 极少的；微薄的
 [[tenuous]]
 推荐：ex-出 + ig-做 + -u- + -ous

@@ -11,3 +11,5 @@ aliases:
 <pre><strong>tendentious</strong></pre>
 [tɛn'dɛnʃəs]
 adj. expressing a strong opinion 有倾向性的
+
+[[slant]]

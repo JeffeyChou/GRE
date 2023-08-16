@@ -14,3 +14,4 @@ n. loyalty to a person, group, etc. 忠诚
 
 [[probity]]
 推荐：源自拉丁语 fidelitatem (主格 fidelitas) "faithfulness, fidelity"，源自 fidelis "loyal, faithful." 见词根 fid- 相信。
+[[sleazy]]

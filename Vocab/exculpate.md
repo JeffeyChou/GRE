@@ -4,7 +4,7 @@ tags:
 - Word
 title: 📖exculpate
 aliases: 
-- 
+- exculpation
 ---
 
 <pre><strong>exculpate</strong></pre>

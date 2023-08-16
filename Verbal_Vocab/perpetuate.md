@@ -5,7 +5,7 @@ tags:
   - Word
 title: 📖perpetuate
 aliases:
-  - null
+  - perpetuating
 ---
 
 <pre><strong>perpetuate</strong></pre>

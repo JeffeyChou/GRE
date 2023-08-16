@@ -13,3 +13,4 @@ aliases:
 adj. pointless or useless ⽆⽤的
 [[pointless]]
 推荐：fut-流 + -ile, 表形容词 → 流走的 → 无用的。
+[[futility]]

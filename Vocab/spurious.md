@@ -12,3 +12,4 @@ aliases:
 [ˈspjʊəriəs]
 adj. not genuine, sincere, or authentic 虚假的
 [[artificial]], [[implausible]]
+推荐：sperm- : 表示“种子，精子”。不是自己的sperm -> 虚假的

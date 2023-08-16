@@ -11,4 +11,4 @@ aliases:
 <pre><strong>crestfallen</strong></pre>
 ['krestfɔːlən]
 adj. very sad and disappointed 不⾼兴的
-[[disgruntled]]
+[[disgruntle]]

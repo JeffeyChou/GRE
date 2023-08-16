@@ -11,3 +11,5 @@ aliases:
 
 ['ɪmpjʊdənt]
 adj. failing to show proper respect and courtesy 放肆⽆礼的
+
+[[prudent]]

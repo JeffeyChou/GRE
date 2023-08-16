@@ -12,3 +12,4 @@ aliases:
 [ˈəʊnərəs]
 adj. difficult and unpleasant to do or deal with 繁重的
 [[burdensome]]
+推荐：oner-负担

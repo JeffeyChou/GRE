@@ -12,4 +12,4 @@ aliases:
 [trænzˈgres]
 v. to do something that is not allowed 违反，侵犯
 
-[[incursion]]
+[[incursion]], [[recalcitrant]]

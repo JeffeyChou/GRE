@@ -11,4 +11,4 @@ aliases:
 <pre><strong>disparage</strong></pre>
 [dɪˈspærɪdʒ]
 v. to describe as unimportant, weak, bad, etc. [[贬低]]
-[[sligh]]
+[[slight]]

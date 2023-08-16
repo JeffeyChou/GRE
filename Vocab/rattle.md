@@ -11,3 +11,5 @@ aliases:
 <pre><strong>rattle</strong></pre>
 [ˈrætl]
 v. to make nervous 使紧张，使不安
+
+[[nettle]]

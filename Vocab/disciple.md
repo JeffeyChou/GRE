@@ -12,6 +12,4 @@ aliases:
 [dɪ'saɪpl]
 n. a convinced adherent of a school or individual 信徒
 [[adherent]]
-
-[[deify]]
 推荐：dis-分开 + cip-抓住
