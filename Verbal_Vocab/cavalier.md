@@ -11,3 +11,4 @@ aliases:
 
 <pre><strong>cavalier</strong></pre>
 having or showing no concern for something that is important or serious漠不关心的；傲慢的
+[[capricious]]

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1d42f71465afee8c",
+        "id": "905eede5b2ff9d11",
         "type": "tabs",
         "children": [
           {
-            "id": "903704ca2ce32e1d",
+            "id": "526eb4b87805c0c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,26 @@
                 "source": false
               }
             }
-          }
-        ],
-        "stacked": true
-      },
-      {
-        "id": "409a8d8b05c371ab",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "b8f0dd4cce21934f",
+            "id": "95a8df5b09f2c77f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily note/2023-08-16.md",
+                "file": "Collections/【阅读】错题集.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63a0ddbae45f8358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practice/【阅读】P21-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(Though humanitarian emergencies)",
+                "query": "line:(abstract from)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f72322c403567dba",
@@ -113,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily note/2023-08-16.md",
+                "file": "Practice/【阅读】P21-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily note/2023-08-16.md",
+                "file": "Practice/【阅读】P21-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily note/2023-08-16.md"
+                "file": "Practice/【阅读】P21-30.md"
               }
             }
           },
@@ -165,7 +171,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f16b132f38924e22",
@@ -197,43 +204,43 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "b8f0dd4cce21934f",
+  "active": "526eb4b87805c0c8",
   "lastOpenFiles": [
-    "Practice/【阅读】P11-20.md",
-    "Daily note/2023-08-16.md",
-    "Practice/【阅读】P1-10.md",
+    "Draft/perceive.md",
     "Practice/【阅读】P21-30.md",
-    "Practice/【填空】Sec21-25.md",
-    "Draft/【阅读】P31-40.md",
-    "Practice/【填空】Sec46-50.md",
-    "Practice/【填空】Sec1-5.md",
+    "Draft/instinct.md",
+    "Draft/rhapsody.md",
+    "Draft/incoherent.md",
+    "Draft/candour.md",
+    "Draft/chastity.md",
+    "Draft/patronize.md",
+    "Draft/copious.md",
+    "Draft/rebel.md",
+    "Draft/barbarous.md",
+    "Draft/luster.md",
+    "Collections/【阅读】错题集.md",
+    "Draft/abolitionism.md",
+    "Draft/revive.md",
+    "Draft/culminate.md",
+    "Draft/【填空】Sec68-72.md",
     "Collections/【填空】错题集.md",
-    "Draft/implication.md",
-    "Draft/resigned.md",
-    "Practice/【填空】Sec16-20.md",
-    "Assets/【填空】GRE机经1500题.md",
-    "Draft/concession.md",
-    "Draft/euphemism.md",
-    "Draft/metaphor.md",
-    "Draft/lament.md",
-    "Draft/peddle.md",
-    "Daily note/2023-08-15.md",
-    "Draft/intrepid.md",
-    "Draft/abstraction.md",
-    "Draft/demoralize.md",
-    "Vocab/conducive.md",
-    "Vocab/castigate.md",
-    "Vocab/quiescent.md",
-    "Vocab/repudiate.md",
+    "Draft/lucubration.md",
+    "Draft/stereotype.md",
+    "Draft/seditious.md",
+    "Draft/odious.md",
+    "Draft/dour.md",
+    "Draft/demeanor.md",
+    "Draft/resign.md",
+    "Draft/backwater.md",
     "Word-Schedule/Day1.canvas",
+    "Word-Schedule/Day3.canvas",
+    "Word-Schedule/Day2.canvas",
     "Assets/【数学】回忆版数学机经360.pdf",
     "Assets/【数学】《GRE最新数学机经400题》（题目和答案）.pdf",
     "Assets/【数学】《GRE数学-猴哥112难题》题目.pdf",
     "Assets/【填空】《GRE填空机经1500题》题目最新版.pdf",
-    "Word-Schedule/Day3.canvas",
     "Word-Schedule/Canvas.canvas",
     "Practice",
-    "Word-Schedule/Day2.canvas",
     "Assets/~~$【阅读】《GRE阅读机经350篇》题目.pdf",
     "Assets/【阅读】《GRE阅读机经350篇》题目.pdf",
     "Draft/未命名.canvas"

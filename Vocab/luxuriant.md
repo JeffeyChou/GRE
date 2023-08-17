@@ -12,3 +12,4 @@ aliases:
 [lʌgˈʒʊəriənt]
 (1)adj. yielding abundantly 茂盛的(2)adj. abundantly and often extravagantly rich and varied 丰富的
 [[rampant]]
+推荐：luxury【奢华，奢侈】 + -iant表形容词 . 后用于形容植物茂密的，茂盛的。
