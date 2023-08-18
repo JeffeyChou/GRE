@@ -11,4 +11,4 @@ aliases:
 
 [ɪgˈzæktɪtju:d]
 n. the quality or state of being accurate and correct 精确性
-[[meticulousness]]
+[[meticulous|meticulousness]]

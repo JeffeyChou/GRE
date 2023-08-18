@@ -10,5 +10,5 @@ aliases:
 
 <pre><strong>jejune</strong></pre>
 [dʒɪˈdʒu:n]
-(1)adj. not interesting 乏味的(2)adj. too simple 幼稚的
+<mark style="background: #ABF7F7A6;">(1)adj. not interesting 乏味的</mark>(2)adj. too simple 幼稚的
 [[vapid]]

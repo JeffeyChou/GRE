@@ -11,3 +11,5 @@ aliases:
 
 [ˌɪnkəˈmenʃərəbl]
 adj. not commensurable broadly 不能相⽐的
+
+[[commensurate]]

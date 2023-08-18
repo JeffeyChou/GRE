@@ -12,5 +12,3 @@ aliases:
 [ˈmʌdl]
 (1)v. to cause confusion in 使...混乱(2)n. a state of confusion or disorder 混乱
 [[confuse]]
-
-[[confused]], [[muddled]]

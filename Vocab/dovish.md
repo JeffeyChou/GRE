@@ -12,3 +12,5 @@ aliases:
 [ˈdʌvɪʃ]
 adj. in favor of using peaceful and diplomatic methods to achieve something, rather than using force and violence 和平主义的
 [[pacific]]
+
+[[irenic]]

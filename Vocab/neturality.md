@@ -12,4 +12,4 @@ aliases:
 neutrality
 [njuː'trælɪtɪ]
 n. the quality or state of not supporting either side in an argument, fight,war, etc. 中⽴
-[[impartiality]]
+[[impartial|impartiality]]

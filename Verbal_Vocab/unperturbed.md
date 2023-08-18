@@ -11,3 +11,5 @@ aliases:
 
 <pre><strong>unperturbed</strong></pre>
 calm and relaxed : not upset or worried镇定的；未受扰乱的
+
+[[perturb]]

@@ -13,4 +13,4 @@ aliases:
 adj. of, relating to, or arranged in a hierarchy 等级制度的
 [[stratified]]
 
-[[stratification]]
+[[stratified|stratification]]

@@ -6,7 +6,7 @@ tags:
 - Verbal-word
 title: 🚩vindication
 aliases:
-- 
+- vindicate
 ---
 
 <pre><strong>vindication</strong></pre>

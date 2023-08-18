@@ -11,4 +11,4 @@ aliases:
 
 [gaɪl]
 n. deceitful cunning 奸诈
-[[deviousness]]
+[[devious|deviousness]]

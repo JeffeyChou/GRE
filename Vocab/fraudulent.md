@@ -11,4 +11,4 @@ aliases:
 
 ['frɔdʒələnt]
 adj. done to trick someone for the purpose of getting something valuable 欺骗性的
-[[malfeasant]]
+[[malfeasance|malfeasant]]

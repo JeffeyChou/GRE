@@ -11,5 +11,5 @@ aliases:
 
 [ˈekskʌlpeɪt]
 v. to prove that someone is not guilty of doing something wrong 开脱罪⾏
-[[vindicate]]
+[[vindication|vindicate]]
 推荐：ex-出 + culp-罪 + -ate, 表动词 → 从罪中出来 → 无罪释放。

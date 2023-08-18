@@ -11,4 +11,4 @@ aliases:
 
 [ɪkˈspænʃn]
 n. the act of becoming bigger or of making something bigger 扩张，增加
-[[augmentation]], [[burgeoning]]
+[[augment|augmentation]], [[burgeon|burgeoning]]

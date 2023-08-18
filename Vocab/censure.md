@@ -11,4 +11,4 @@ aliases:
 <pre><strong>censure</strong></pre>
 [ˈsenʃə]
 n. official strong criticism [[谴责]]
-[[reprehend]]
+[[reprehend]], [[reprehensible]]

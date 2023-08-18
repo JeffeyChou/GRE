@@ -5,7 +5,7 @@ tags:
   - Word
 title: 📖meticulous
 aliases:
-  - null
+  - meticulousness
 ---
 
 <pre><strong>meticulous</strong></pre>
