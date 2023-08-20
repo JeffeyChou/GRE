@@ -11,4 +11,4 @@ aliases:
 <pre><strong>slight</strong></pre>
 [slaɪt]
 (1)v. to offend or insult 轻视(2)adj. very small in degree or amount 微不⾜道的
-[[disparage]]
+[[disparage]], [[snub]]

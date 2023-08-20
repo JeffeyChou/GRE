@@ -10,5 +10,5 @@ aliases:
 
 <pre><strong>adverse</strong></pre>
 [ˈædvɜ:s]
-(1)adj. bad or unfavorable 不利的(2)adj. acting against or in a contrary direction 逆的
+<mark style="background: #ABF7F7A6;">(1)adj. bad or unfavorable 不利的</mark>(2)adj. acting against or in a contrary direction 逆的
 [[unfavorable]]

@@ -10,5 +10,5 @@ aliases:
 
 <pre><strong>pedestrian</strong></pre>
 [pəˈdestriən]
-adj. [[commonplace]], [[unimaginative]] 乏味的
+adj. [[commonplace]], [[unimaginative]] 平常无奇的
 always used before a noun : relating to or designed for people who are walking行人的；为行人设计的

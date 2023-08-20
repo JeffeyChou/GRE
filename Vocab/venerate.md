@@ -13,4 +13,4 @@ aliases:
 v. to feel or show deep respect for 崇敬
 [[honor]], [[respect]]
 推荐：vener-魅力 + -ate
-[[veneration]], [[reverence]]
+[[reverence]]

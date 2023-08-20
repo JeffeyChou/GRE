@@ -61,6 +61,21 @@ F. acrimonious
 > 首先 `flaws` 是负面的，那么第一空是一个负面的词汇，第二空就应该是一个正面的词汇，同时两个不仅情感要对立，同时语义上也要对立，两者还要符合主体 `treatment`
 > 对比选项就正好是 AE。 
 
+
+#### positive & negative contrast (section 87)
+
+<mark style="background: #ABF7F7A6;">4.</mark> In science education, it is important to differentiate between inaccurate ideas that are conceptually (i)<u>______</u> and understandings that are inaccurate, and yet can (ii)<u>______</u> learning of more sophisticated understanding. The former are simply wrong, the latter can be seen as incomplete, overly simplistic, or tied to only a few limited contexts.
+
+|   |   |
+|---|---|
+|A. unproductive|D. foster|
+|B. unproblematic|E. delay|
+|C. distinct|F. resemble|
+
+> AD
+
+
+
 ### time contrast/match
 
 这个可以和 word contrast 联合，体现的是一种时间上的变化导致的事物上的变化。我们的逻辑加工就是在之前提到的时间点上是 balabala, 同时 xx 正在发展，那么到要填空的那个时间点，就会 balabala。

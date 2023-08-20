@@ -12,3 +12,4 @@ aliases:
 ['sʌplikeit]
 v. to ask humbly and earnestly of 恳求
 [[entreat]], [[solicit]]
+[[supple]]

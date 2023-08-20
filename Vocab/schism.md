@@ -11,4 +11,4 @@ aliases:
 <pre><strong>schism</strong></pre>
 [ˈskɪzəm]
 n. a division among the members of a group that occurs because theydisagree on something 分裂
-[[factiousness]]
+[[factious|factiousness]]

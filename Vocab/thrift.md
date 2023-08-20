@@ -5,9 +5,10 @@ tags:
   - Word
 title: 📖thrift
 aliases:
-  - null
+  - thrifty
 ---
 
 <pre><strong>thrift</strong></pre>
 [θrɪft]
 n. careful use of money so that it is not wasted 节约
+[[frugal]]

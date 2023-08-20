@@ -5,7 +5,7 @@ tags:
   - Word
 title: 📖reverence
 aliases:
-  - null
+  - rever
 ---
 
 <pre><strong>reverence</strong></pre>
