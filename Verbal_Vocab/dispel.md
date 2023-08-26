@@ -11,3 +11,5 @@ aliases:
 
 <pre><strong>dispel</strong></pre>
 to make something go away, especially a belief, idea, or feeling 驱散，消除〔尤指信仰、观念或感觉〕
+
+[[dismiss]]

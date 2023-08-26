@@ -12,3 +12,4 @@ aliases:
 <pre><strong>subvert</strong></pre>
 : to secretly try to ruin or destroy a government, political system, etc.颠覆，暗中破坏（政府、政治制度等）
 推荐：sub-下面 + vert-转。
+[[undercut]], [[undermine]], [[impair]]

@@ -5,10 +5,12 @@ tags:
   - Word
 title: 📖credulous
 aliases:
-  - null
+  - credulity
 ---
 
 <pre><strong>credulous</strong></pre>
 [ˈkredjələs]
 adj. too ready to believe things 轻信的
 [[trusting]]
+
+[[credulity]]

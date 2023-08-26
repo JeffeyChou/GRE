@@ -35,7 +35,7 @@ obsidianUIMode: source
 |--------------|------------|-------------|
 
 ratio $x$ to $y$: $\frac{x}{y}$
-倒数：reciprocal
+倒数：reciprocal, inverse number
 #### 小数
   |数位 digit|小数点 decimal point|两位数字 two-digits|
 |--------|-----------------|---------------|

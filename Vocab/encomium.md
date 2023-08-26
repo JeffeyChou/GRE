@@ -13,4 +13,4 @@ aliases:
 n. glowing and warmly enthusiastic praise 赞美
 [[tribute]]
 
-[[encomium]], [[eulogize]], [[laudatory]]
+[[eulogize]], [[laudatory]]

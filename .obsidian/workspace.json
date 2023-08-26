@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "16a77479a91b10eb",
+        "id": "6f9ee85cc0cfe5f4",
         "type": "tabs",
         "children": [
           {
-            "id": "eb6e7d692c7fae70",
+            "id": "40cc928a495a9301",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draft/【填空】Sec83-87.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11d22e385c144fe2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Collections/【填空】错题集.md",
+                "file": "Draft/【阅读】Pas111-121.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -62,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:( Methods were developed to remove distortions caused by either the research environment or the researcher)",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f72322c403567dba",
@@ -107,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collections/【填空】错题集.md",
+                "file": "Draft/【阅读】Pas111-121.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Collections/【填空】错题集.md",
+                "file": "Draft/【阅读】Pas111-121.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collections/【填空】错题集.md"
+                "file": "Draft/【阅读】Pas111-121.md"
               }
             }
           },
@@ -159,8 +147,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f16b132f38924e22",
@@ -178,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 248
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,47 +179,48 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "11d22e385c144fe2",
+  "active": "40cc928a495a9301",
   "lastOpenFiles": [
-    "Draft/【填空】Sec83-87.md",
-    "Draft/【Verbal】How I do in TC.md",
+    "Assets/【写作】2022年Issue高频题库+提纲.pdf",
+    "Assets/【写作】2022Argument高频题目参考答案.pdf",
+    "Draft/【填空】Pas101-110.md",
+    "Draft/【阅读】Pas111-121.md",
+    "Intro2GRE/写作.md",
+    "Intro2GRE/GRE-考试结构.md",
+    "Intro2GRE/GRE-考试事项.md",
+    "Daily note/2023-08-27.md",
+    "Assets/【写作】GRE北美满分范文.pdf",
+    "Assets/【写作】GRE作文常用万能句型集.pdf",
+    "Assets/【单词】GRE镇考3000词.pdf",
+    "Assets/巍哥GRE数学170难题3.0.pdf",
+    "Assets/填空机经1600题生词伴侣.pdf",
+    "Collections/【阅读】错题集.md",
+    "Practice/【阅读】Pas91-100.md",
     "Collections/【填空】错题集.md",
-    "Draft/derogation.md",
-    "Draft/justification.md",
-    "Draft/distend.md",
-    "Draft/heresy.md",
-    "Draft/execrate.md",
-    "Draft/erect.md",
-    "Practice/【填空】Sec26-30.md",
-    "Draft/repugnant.md",
-    "Draft/deceptive.md",
-    "Vocab/jarring.md",
-    "Draft/simple.md",
-    "Draft/ingenuous.md",
-    "Assets/【填空】GRE机经1500题.md",
+    "Assets/【阅读】-答案.md",
+    "Draft/【单词】镇考3000.md",
+    "Practice/【阅读】Pas81-90.md",
+    "Verbal_Vocab/divulge.md",
+    "Draft/denigrate.md",
+    "Vocab/foreground.md",
+    "Daily note/2023-08-26.md",
     "Word-Schedule/6选2等价词汇总（5 天任务版）.md",
-    "Verbal_Vocab/alacrity.md",
-    "Collections/【数学】错题集.md",
-    "Draft/articulate.md",
-    "Draft/militant.md",
-    "Draft/hiatus.md",
-    "Vocab/reverence.md",
-    "Vocab/caricature.md",
-    "Draft/enlightened.md",
-    "Draft/【阅读】P51-60.md",
+    "Verbal_Vocab/slacken.md",
+    "Verbal_Vocab/overt.md",
+    "Verbal_Vocab/replete with.md",
+    "Verbal_Vocab/potency.md",
+    "Verbal_Vocab/succinct.md",
+    "Daily note/2023-08-24.md",
+    "Word-Schedule/Day3.canvas",
+    "Verbal_Vocab/subvert.md",
+    "Word-Schedule/Day2.canvas",
+    "Practice/【阅读】Pas71-80.md",
+    "Word-Schedule/Day1.canvas",
     "Assets/【阅读】《GRE阅读机经350篇》题目.docx",
     "Assets/【单词】GRE6选2等价词汇总.pdf",
-    "Word-Schedule/Day3.canvas",
-    "Word-Schedule/Day2.canvas",
-    "Word-Schedule/Day1.canvas",
     "Assets/【数学】回忆版数学机经360.pdf",
     "Assets/【数学】《GRE最新数学机经400题》（题目和答案）.pdf",
-    "Assets/【数学】《GRE数学-猴哥112难题》题目.pdf",
-    "Assets/【填空】《GRE填空机经1500题》题目最新版.pdf",
     "Word-Schedule/Canvas.canvas",
-    "Practice",
-    "Assets/~~$【阅读】《GRE阅读机经350篇》题目.pdf",
-    "Assets/【阅读】《GRE阅读机经350篇》题目.pdf",
     "Draft/未命名.canvas"
   ]
 }

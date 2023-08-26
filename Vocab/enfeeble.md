@@ -11,3 +11,5 @@ aliases:
 <pre><strong>enfeeble</strong></pre>
 [ɪn'fiːbəl]
 v. deprive of strength 使[[衰]]弱
+
+[[feeble]]

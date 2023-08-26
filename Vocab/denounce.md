@@ -11,4 +11,4 @@ aliases:
 <pre><strong>denounce</strong></pre>
 [dɪˈnaʊns]
 v. to publicly state that someone or something is bad or wrong [[谴责]]
-[[lambast]]
+[[lambaste]]

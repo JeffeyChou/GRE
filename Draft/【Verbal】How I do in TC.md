@@ -113,6 +113,17 @@ E. benign
 > 结尾有个取同逻辑 `such sensitive issues`，说明第一空也应该是填 `sensitive` 的同义词，所以就是A。
 > 那么什么情况下过去的 `attempt` 会导致现在还在讨论这些 `issues`, 同时现在的 `issues` 也没有解决，反而是推迟到未来去了，是不是就是失败的 `attempt`，
 
+#### section 97 (contrast)
+
+<mark style="background: #ABF7F7A6;">5.</mark> It is only recently that emotion has attracted any substantial scholar attention, with historians lagging behind anthropologists, sociologists, and philosophers in their willingness to (i)<u>______</u> emotion as subject worthy of scholarly attention. In the past, scholars viewed emotion as a natural and essential force that (ii)<u>______</u> analysis—a strictly private matte—and therefore (iii)<u>______</u> social life and the stuff of research.
+
+|   |   |   |
+|---|---|---|
+|A. recognize|D. enlivened|G. requisite for|
+|B. overlook|E. defied|H. extraneous to|
+|C. repudiate|F. [[sustain]]ed|I. synonymous with|
+
+
 ### match strategy
 
 这里主要适用于文中出现了关键符号 **冒号** `:` 的情况下使用。

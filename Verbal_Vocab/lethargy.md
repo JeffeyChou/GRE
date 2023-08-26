@@ -11,3 +11,4 @@ title: 🚩lethargy
 <pre><strong>lethargy</strong></pre>
 n.a lack of energy or a lack of interest in doingthings:alethargicfeeling orstate
 香睡；没精打采
+[[lethargic]]

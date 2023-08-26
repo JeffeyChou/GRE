@@ -11,3 +11,4 @@ aliases:
 
 <pre><strong>succinct</strong></pre>
 : using few words to state or express an idea简洁的；简明扼要的
+[[terse]] [[laconic]], [[curt]], [[taciturn]]
