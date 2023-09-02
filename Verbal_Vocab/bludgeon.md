@@ -10,3 +10,4 @@ aliases:
 ---
 
 <pre><strong>bludgeon</strong></pre>
+: to use arguments or threats to force (someone) to do something胁迫；逼迫

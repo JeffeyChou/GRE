@@ -258,7 +258,13 @@
 		{"type":"file","file":"Vocab/dispassionate.md","id":"4f4428d092e678b6","x":2252,"y":10398,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"Vocab/discrepancy.md","id":"8e3645e15159e3e3","x":917,"y":9953,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"Vocab/defy.md","id":"4b7f197188507d8d","x":3142,"y":8173,"width":400,"height":400,"color":"4"},
-		{"type":"file","file":"Vocab/buttress.md","id":"80ad698b746453b6","x":1362,"y":3723,"width":400,"height":400,"color":"4"}
+		{"type":"file","file":"Vocab/buttress.md","id":"80ad698b746453b6","x":1362,"y":3723,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"Vocab/awkward.md","id":"73faababe3d425d2","x":-453,"y":11680,"width":400,"height":400},
+		{"type":"file","file":"Vocab/compromise.md","id":"9d1f7160173770f6","x":-13,"y":11680,"width":400,"height":400},
+		{"type":"file","file":"Vocab/debacle.md","id":"3d623a5d9d4731f9","x":427,"y":11680,"width":400,"height":400},
+		{"type":"file","file":"Vocab/deter.md","id":"4c665db541173d8c","x":-453,"y":12120,"width":400,"height":400},
+		{"type":"file","file":"Vocab/discretionary.md","id":"4930ac754242b8ff","x":-13,"y":12120,"width":400,"height":400},
+		{"type":"file","file":"Vocab/disparage.md","id":"193536ebbd403a6c","x":427,"y":12120,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"7ac35b70b7679339","fromNode":"80ad698b746453b6","fromSide":"top","toNode":"dc255e1e3e8d6ffd","toSide":"left"},

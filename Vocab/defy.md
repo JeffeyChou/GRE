@@ -10,7 +10,7 @@ aliases:
 
 <pre><strong>defy</strong></pre>
 [dɪˈfaɪ]
-v. to confront with assured power of resistance 蔑视
+v. : to refuse to obey (something or someone)违抗；违反;: to go against (something)反对；反抗
 [[disregard]], [[flout]]
 
 [[defiant]]

@@ -11,3 +11,4 @@ title: 🚩arduous
 <pre><strong>arduous</strong></pre>
 艰巨的
 a. very difficult
+: marked by great labor or effort

@@ -10,5 +10,5 @@ aliases:
 
 <pre><strong>stave off</strong></pre>
 [steɪv ɔf]
-phrase. 延缓
+phrase. to keep from happening by taking action in advance 提前阻止
 [[forestall]]

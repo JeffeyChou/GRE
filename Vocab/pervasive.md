@@ -11,4 +11,4 @@ aliases:
 <pre><strong>pervasive</strong></pre>
 [pəˈveɪsɪv]
 adj. existing in every part of something 普遍的，弥漫的
-[[rife]]
+[[rife]], [[commonplace]]

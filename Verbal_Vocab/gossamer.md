@@ -19,3 +19,8 @@ the gossamer veil seemed to float about the bride as she walked down the aisle
 3
 very thin and easy to see through 
 didn't see the gossamer spider webs until the sun hit them just right
+
+1 
+: a piece of a spider's web蛛丝
+2 
+literary : a very light or delicate material薄纱；轻纱；轻薄料子

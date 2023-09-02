@@ -10,5 +10,5 @@ aliases:
 
 <pre><strong>versatile</strong></pre>
 [ˈvɜ:sətaɪl]
-(1)adj. able to do many different things 多才多艺的(2)adj. having many different uses 多功能的
+(1)adj. able to do many different things 多才多艺的(2)adj. having many different uses 多功能的 (3) changing or fluctuating readily : variable
 [[protean]], [[fickle]], [[volatile]], [[flighty]], [[erratic]], [[capricious]]

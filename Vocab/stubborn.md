@@ -12,3 +12,4 @@ aliases:
 <pre><strong>stubborn</strong></pre>
 1. difficult to deal with, remove, etc.难对付的；难去除的
 2. refusing to change your ideas or to stop doing something顽固的；固执的；倔强的
+3. [[intractable]]

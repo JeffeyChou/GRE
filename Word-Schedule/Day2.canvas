@@ -310,7 +310,21 @@
 		{"type":"file","file":"Vocab/nimble.md","id":"28d4ac1ac5e825cb","x":-1912,"y":12420,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"Vocab/heterodox.md","id":"b1e5f66d7c719b4c","x":-132,"y":5300,"width":400,"height":400,"color":"4"},
 		{"type":"file","file":"Vocab/facile.md","id":"dd699c985104284b","x":-3692,"y":3075,"width":400,"height":400},
-		{"type":"file","file":"Vocab/numinous.md","id":"68a012f870c647f3","x":-1912,"y":12865,"width":400,"height":400,"color":"4"}
+		{"type":"file","file":"Vocab/numinous.md","id":"68a012f870c647f3","x":-1912,"y":12865,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"Vocab/fractious.md","id":"0afd50b48aca0ba6","x":-3914,"y":17094,"width":400,"height":400},
+		{"type":"file","file":"Vocab/heed.md","id":"c475703478e762eb","x":-3914,"y":17534,"width":400,"height":400},
+		{"type":"file","file":"Vocab/impetuous.md","id":"c52c0b6473b7f40d","x":-3914,"y":17974,"width":400,"height":400},
+		{"type":"file","file":"Vocab/facile.md","id":"23d13a23b98762d6","x":-3914,"y":16654,"width":400,"height":400},
+		{"type":"file","file":"Vocab/malinger.md","id":"09d7c9fc5033660e","x":-3914,"y":18414,"width":400,"height":400,"color":"1"},
+		{"type":"file","file":"Vocab/nuance.md","id":"f6a113c00fe4c827","x":-3474,"y":17974,"width":400,"height":400},
+		{"type":"file","file":"Vocab/manifest.md","id":"10ad8aafd42984c1","x":-3474,"y":18414,"width":400,"height":400},
+		{"type":"file","file":"Vocab/mundane.md","id":"25969bb4fd3b4e8d","x":-3474,"y":17094,"width":400,"height":400},
+		{"type":"file","file":"Vocab/nonchalant.md","id":"0a1269c139124aa4","x":-3474,"y":17534,"width":400,"height":400},
+		{"type":"file","file":"Vocab/factious.md","id":"f0dcc0d48e1cf4ca","x":-3474,"y":16654,"width":400,"height":400},
+		{"type":"file","file":"Vocab/lugubrious.md","id":"2fd19e861b1e8c2f","x":-3034,"y":17974,"width":400,"height":400},
+		{"type":"file","file":"Vocab/invective.md","id":"3eb627eede4db13f","x":-3034,"y":17094,"width":400,"height":400},
+		{"type":"file","file":"Vocab/languish.md","id":"54814b8c0c43da0e","x":-3034,"y":17534,"width":400,"height":400},
+		{"type":"file","file":"Vocab/manacle.md","id":"8f1565f66fad0921","x":-3034,"y":16654,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"cf9a614079c7d752","fromNode":"2cf88a9a3bc44d59","fromSide":"right","toNode":"0cb0f6aaffec876d","toSide":"left"}

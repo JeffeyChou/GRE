@@ -11,3 +11,5 @@ aliases:
 <pre><strong>jarring</strong></pre>
 ['dʒɑ:ɪŋ]
 adj. 刺⽿的，不和谐的
+causing a strong emotional reaction because of unexpectedness 
+disagreeable to one's aesthetic or artistic sense

@@ -99,6 +99,19 @@ E. benign
 > 观察选项有 C 和 E 可以作为备选，那么究竟哪个是 `trap answer`？
 > 哪怕在我们中文语境中，保护都是有两个对象，一个是施加保护的对象，一个是被保护的对象，这时保护就有个外来者的参与。可是你看在太空中，你会认为会有第三者比如外星人来保护这些 `orbital environment` 么，所以最好选择 E。
 
+
+#### section 41 (contrast)
+
+<mark style="background: #ABF7F7A6;">4.</mark> The museum’s compelling new architectural exhibition looks at eleven projects around the world that have had major (i)<u>______</u> impacts despite modest budgets. It is part of (ii)<u>______</u> in the museum’s architecture and design department, which in the past has championed architecture’s artistic value over its real-world consequences.
+
+|   |   |
+|---|---|
+|A. social|D. an emphasis on theory|
+|B. aesthetic|E. a shift in philosophy|
+|C. critical|F. a rejection of pragmatism|
+
+
+
 #### section 70 (match)
 3. In the discussions on international patent law, many (i)<u>______</u> issues will probably be pushed far into the future. This cautious approach makes diplomatic sense, since attempts over the past 15 years to reach international agreements on patents have (ii)<u>______</u> just such sensitive issues.
 

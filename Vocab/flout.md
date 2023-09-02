@@ -10,6 +10,6 @@ aliases:
 <pre><strong>flout</strong></pre>
 
 [ˈflʌrɪʃ]
-v. to break or ignore without hiding what you are doing or showing fear of shame 公然藐视
+v. : to refuse to accept (someone or something that you do not think deserves your respect, attention, affection, etc.)（轻蔑地）拒绝
 
 [[defy]]
